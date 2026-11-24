@@ -182,6 +182,16 @@ WORD | Deplete | डिप्लीट | खाली होना / समा�
 WORD | Emulate | एम्युलेट | अनुकरण करना / बराबरी करना | Young players try to emulate their sports idols.
 WORD | Frugal | फ्रूगल | किफ़ायती / सोच-समझकर खर्च करने वाला | Living a frugal life helps you save more.
 WORD | Gullibility | गलिबिलिटी | भोलापन | Scammers often take advantage of people's gullibility.
+WORD | Conspicuous | कॉन्स्पिक्यूअस | स्पष्ट / साफ़ दिखाई देने वाला | A bright red car is easily conspicuous in traffic.
+WORD | Detrimental | डेट्रिमेंटल | हानिकारक / नुकसानदेह | Too much screen time is detrimental to eyesight.
+WORD | Ephemeral | इफ़ेमरल | क्षणभंगुर / थोड़े समय का | Fame on social media is often ephemeral.
+WORD | Fortitude | फ़ोर्टिट्यूड | धैर्य और साहस | She faced all hardships with remarkable fortitude.
+WORD | Garrulous | गैरुलस | बातूनी / ज़्यादा बोलने वाला | My neighbor is very garrulous and talks for hours.
+WORD | Indispensable | इंडिस्पेंसेबल | अनिवार्य / जिसके बिना काम न चले | Smartphones have become indispensable today.
+WORD | Malleable | मैलिएबल | लचीला / जिसे आसानी से ढाला जा सके | Young minds are very malleable and learn fast.
+WORD | Panacea | पैनेसिया | रामबाण इलाज | Regular practice is the panacea for stage fear.
+WORD | Redundant | रिडंडेंट | अनावश्यक / फालतू | Remove redundant words to make your sentence crisp.
+WORD | Serendipity | सेरेंडिपिटी | सुखद संयोग / किस्मत से कुछ अच्छा मिलना | Finding that rare book was pure serendipity.
 WORD | Hindrance | हिंड्रेंस | रुकावट / अड़चन | Lack of confidence is the biggest hindrance to fluency.
 WORD | Imperative | इम्पेरेटिव | अत्यंत आवश्यक | It is imperative to practice speaking every single day.
 WORD | Jeopardy | जेपर्डी | ख़तरा / संकट | His reckless actions put the whole team in jeopardy.
