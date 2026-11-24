@@ -1,0 +1,5 @@
+DAY | 1 | Day 1: Smart Greetings | Good morning, have a nice day. | सुप्रभात, आपका दिन शुभ हो।
+DAY | 2 | Day 2: Polite Requests | Could you please help me? | क्या आप कृपया मेरी मदद कर सकते हैं?
+RANDOM | Better late than never. | देर आए दुरुस्त आए।
+WORD | Resilient | रेज़िलिएंट | मज़बूत / लचीला | Stay resilient in tough times.
+GAME | यह मेरे दिमाग से निकल गया। | It slipped my mind
