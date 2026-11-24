@@ -207,4 +207,14 @@ WORD | Scrutiny | स्क्रूटिनी | सूक्ष्म जा�
 WORD | Trivial | ट्रिवियल | मामूली / तुच्छ | Do not waste your energy on trivial matters.
 WORD | Unprecedented | अनप्रेसिडेंटेड | अभूतपूर्व / जो पहले कभी न हुआ हो | The app received unprecedented downloads this week.
 WORD | Validate | वैलिडेट | प्रमाणित करना / सही ठहराना | Please validate the
+WORD | Conspicuous | कॉन्स्पिक्यूअस | स्पष्ट / साफ़ दिखाई देने वाला | A bright red car is easily conspicuous in traffic.
+WORD | Detrimental | डेट्रिमेंटल | हानिकारक / नुकसानदेह | Too much screen time is detrimental to eyesight.
+WORD | Ephemeral | इफ़ेमरल | क्षणभंगुर / थोड़े समय का | Fame on social media is often ephemeral.
+WORD | Fortitude | फ़ोर्टिट्यूड | धैर्य और साहस | She faced all hardships with remarkable fortitude.
+WORD | Garrulous | गैरुलस | बातूनी / ज़्यादा बोलने वाला | My neighbor is very garrulous and talks for hours.
+WORD | Indispensable | इंडिस्पेंसेबल | अनिवार्य / जिसके बिना काम न चले | Smartphones have become indispensable today.
+WORD | Malleable | मैलिएबल | लचीला / जिसे आसानी से ढाला जा सके | Young minds are very malleable and learn fast.
+WORD | Panacea | पैनेसिया | रामबाण इलाज | Regular practice is the panacea for stage fear.
+WORD | Redundant | रिडंडेंट | अनावश्यक / फालतू | Remove redundant words to make your sentence crisp.
+WORD | Serendipity | सेरेंडिपिटी | सुखद संयोग / किस्मत से कुछ अच्छा मिलना | Finding that rare book was pure serendipity.
 GAME | यह मेरे दिमाग से निकल गया। | It slipped my mind
