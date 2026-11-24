@@ -1,6 +1,56 @@
 DAY | 1 | Day 1: Smart Greetings | Good morning, have a nice day. | सुप्रभात, आपका दिन शुभ हो।
 DAY | 2 | Day 2: Polite Requests | Could you please help me? | क्या आप कृपया मेरी मदद कर सकते हैं?
 RANDOM | Better late than never. | देर आए दुरुस्त आए।
+RANDOM | Things will fall into place soon. | जल्द ही सब कुछ ठीक हो जाएगा।
+RANDOM | I am running a little behind schedule today. | आज मैं अपने तय समय से थोड़ा पीछे चल रहा हूँ।
+RANDOM | Let us not jump to conclusions so fast. | चलो इतनी जल्दी किसी नतीजे पर न पहुँचें।
+RANDOM | Could you please speak a little louder? | क्या आप कृपया थोड़ा ज़ोर से बोलेंगे?
+RANDOM | It completely slipped out of my mind. | यह मेरे दिमाग से पूरी तरह निकल गया।
+RANDOM | I am looking forward to hearing from you. | मैं आपके जवाब का बेसब्री से इंतज़ार कर रहा हूँ।
+RANDOM | Make sure you lock the door before leaving. | निकलने से पहले दरवाज़ा अच्छी तरह बंद कर लेना।
+RANDOM | That is easier said than done. | यह कहना आसान है, पर करना मुश्किल।
+RANDOM | I did not mean to hurt your feelings. | मेरा इरादा आपकी भावनाओं को ठेस पहुँचाने का नहीं था।
+RANDOM | Please bear with me for a few minutes. | कृपया कुछ मिनट के लिए मेरा साथ दें / थोड़ा सब्र रखें।
+RANDOM | We are on the same page regarding this. | इस मामले में हम दोनों की राय एक जैसी है।
+RANDOM | It is high time we started taking this seriously. | अब समय आ गया है कि हम इसे गंभीरता से लेना शुरू करें।
+RANDOM | Let me know whenever you are free to talk. | जब भी आप बात करने के लिए फ्री हों, मुझे बता देना।
+RANDOM | I have been meaning to call you all week. | मैं पूरे हफ्ते से आपको फ़ोन करने की सोच रहा था।
+RANDOM | Do not take everything so personally. | हर बात को इतना दिल पर मत लिया करो।
+RANDOM | Can we reschedule our meeting for tomorrow? | क्या हम अपनी मीटिंग कल के लिए रख सकते हैं?
+RANDOM | I am trying my best to improve my English. | मैं अपनी इंग्लिश सुधारने की पूरी कोशिश कर रहा हूँ।
+RANDOM | You should think twice before making a promise. | कोई भी वादा करने से पहले दो बार सोचना चाहिए।
+RANDOM | Nothing happens overnight, stay patient. | रातों-रात कुछ नहीं होता, धैर्य रखें।
+RANDOM | Keep your phone on silent mode during the meeting. | मीटिंग के दौरान अपना फ़ोन साइलेंट मोड पर रखें।
+RANDOM | I will get back to you as soon as possible. | मैं जितनी जल्दी हो सके आपसे संपर्क करूँगा।
+RANDOM | What brings you here today? | आज आपका यहाँ कैसे आना हुआ?
+RANDOM | It was nice catching up with you after so long. | इतने लंबे समय बाद आपसे मिलकर बहुत अच्छा लगा।
+RANDOM | Please do not hesitate to ask if you need help. | अगर मदद चाहिए तो पूछने में बिल्कुल संकोच न करें।
+RANDOM | I am not in the mood to go out tonight. | आज रात मेरा बाहर जाने का मन नहीं है।
+RANDOM | Let us wrap up today’s work and go home. | चलो आज का काम समेटते हैं और घर चलते हैं।
+RANDOM | He always keeps his word no matter what. | चाहे कुछ भी हो जाए, वह हमेशा अपनी बात का पक्का रहता है।
+RANDOM | Sorry for the inconvenience caused to you. | आपको हुई असुविधा के लिए खेद है।
+RANDOM | That sounds like a great plan to me. | मुझे यह एक बहुत बढ़िया योजना लग रही है।
+RANDOM | Take your time, there is no rush at all. | अपना समय लें, बिल्कुल भी जल्दी नहीं है।
+RANDOM | I am feeling much better than yesterday. | मैं कल से काफी बेहतर महसूस कर रहा हूँ।
+RANDOM | Could you please double-check these numbers? | क्या आप कृपया इन आंकड़ों की दोबारा जांच कर सकते हैं?
+RANDOM | Every cloud has a silver lining. | हर मुश्किल के पीछे एक उम्मीद की किरण होती है।
+RANDOM | Practice makes a person perfect. | अभ्यास ही इंसान को निपुण बनाता है।
+RANDOM | Do not put off until tomorrow what you can do today. | आज का काम कल पर मत टालो।
+RANDOM | It takes two to tango. | ताली एक हाथ से नहीं बजती।
+RANDOM | Actions speak louder than words. | आपकी करनी आपकी कथनी से ज़्यादा बोलती है।
+RANDOM | Better safe than sorry. | बाद में पछताने से बेहतर है पहले सावधानी बरतना।
+RANDOM | I am out of station for the next two days. | मैं अगले दो दिनों के लिए शहर से बाहर हूँ।
+RANDOM | Please remind me about this tomorrow morning. | कृपया कल सुबह मुझे इस बारे में याद दिला देना।
+RANDOM | How long will it take to reach the station? | स्टेशन पहुँचने में कितना समय लगेगा?
+RANDOM | I have a lot on my plate right now. | मेरे पास अभी बहुत सारा काम पड़ा हुआ है।
+RANDOM | Let us hope for the best. | चलो सबसे अच्छे की उम्मीद करते हैं।
+RANDOM | You nailed it! That was an amazing presentation. | आपने कमाल कर दिया! वह एक शानदार प्रेजेंटेशन थी।
+RANDOM | I completely lost track of time while working. | काम करते समय मुझे समय का बिल्कुल ध्यान ही नहीं रहा।
+RANDOM | Can you give me a hand with these bags? | क्या आप इन बैग्स को उठाने में मेरी थोड़ी मदद कर सकते हैं?
+RANDOM | Stay focused on your goals and ignore distractions. | अपने लक्ष्यों पर ध्यान केंद्रित रखें और भटकाव से बचें।
+RANDOM | I am looking forward to the upcoming weekend. | मैं आने वाले वीकेंड का बेसब्री से इंतज़ार कर रहा हूँ।
+RANDOM | Thank you for always standing by me. | हमेशा मेरा साथ देने के लिए धन्यवाद।
+RANDOM | Have a safe and pleasant journey ahead. | आपकी आगे की यात्रा सुरक्षित और सुखद हो।
 WORD | Reluctant | रिलक्टेंट | अनिच्छुक / हिचकिचाना | He was reluctant to speak English in public.
 WORD | Diligent | डिलिजेंट | मेहनती और लगनशील | She is a very diligent student.
 WORD | Inevitable | इनएविटेबल | जिसे टाला न जा सके | Change is inevitable in life.
