@@ -101,4 +101,50 @@ WORD | Plausible | प्लॉज़िबल | विश्वसनीय / �
 WORD | Remorse | रिमॉर्स | पछतावा | He felt deep remorse for his rude behavior.
 WORD | Skeptical | स्केप्टिकल | संदेह करने वाला | Many people were skeptical about the new plan.
 WORD | Tranquil | ट्रैंक्विल | शांत / सुकून भरा | Morning hours in the garden are very tranquil.
+WORD | Adamant | एडमेंट | अटल / ज़िद्दी | He is adamant about not changing his decision.
+WORD | Brevity | ब्रेविटी | संक्षिप्तता / कम शब्दों में बात कहना | Brevity is important while writing official emails.
+WORD | Cautious | कॉशस | सतर्क / सावधान | Be cautious while sharing personal details online.
+WORD | Dwindle | ड्विंडल | धीरे-धीरे कम होना | Our savings began to dwindle during the trip.
+WORD | Eccentric | एक्सेंट्रिक | अनोखा / सनकी | The old professor had some eccentric habits.
+WORD | Fabricate | फैब्रिकेट | मनगढ़ंत कहानी बनाना | Do not fabricate excuses for coming late.
+WORD | Gregarious | ग्रिगेरियस | मिलनसार / झुंड में रहने वाला | She is a gregarious person who loves parties.
+WORD | Haste | हेस्ट | जल्दबाज़ी | Haste often leads to silly mistakes.
+WORD | Imminent | इमिनेंट | आसन्न / जो जल्द होने वाला हो | Dark clouds show that rain is imminent.
+WORD | Jargon | जार्गन | किसी खास पेशे की कठिन भाषा | Avoid legal jargon when talking to common people.
+WORD | Lethal | लीथल | जानलेवा / घातक | Carelessness on highways can be lethal.
+WORD | Magnanimous | मैग्नैनिमस | उदार / बड़े दिल वाला | He was magnanimous enough to forgive his rival.
+WORD | Nonchalant | नॉनशैलेंट | बेपरवाह / शांत | He remained nonchalant even during the crisis.
+WORD | Obscure | ऑब्स्क्योर | अस्पष्ट / अनजान | The meaning of that old poem is quite obscure.
+WORD | Paradox | पैराडॉक्स | विरोधाभास | It is a paradox that less is sometimes more.
+WORD | Quaint | क्वेंट | पुराने ज़माने का और आकर्षक | We stayed in a quaint little village cottage.
+WORD | Rampant | रैंपेंट | अनियंत्रित / तेज़ी से फैलने वाला | Corruption was rampant in that department.
+WORD | Sagacious | सगेशस | बुद्धिमान / दूरदर्शी | The sagacious leader guided the team wisely.
+WORD | Tenacious | टेनेशस | दृढ़ / हार न मानने वाला | Her tenacious effort helped her clear the exam.
+WORD | Uncanny | अनकैनी | अद्भुत / अलौकिक | He has an uncanny ability to predict market trends.
+WORD | Vacillate | वैसिलेट | डगमगाना / निर्णय न ले पाना | Do not vacillate once you have set your goal.
+WORD | Wane | वेन | घटना / कमज़ोर पड़ना | His enthusiasm began to wane after two days.
+WORD | Yearning | यर्निंग | तीव्र लालसा / चाहत | She felt a deep yearning to visit her hometown.
+WORD | Zenith | ज़ेनिथ | चरम सीमा / शिखर | At the zenith of his career, he retired peacefully.
+WORD | Alleviate | अलीवीएट | कम करना / राहत देना | This medicine will alleviate your headache quickly.
+WORD | Blatant | ब्लेटेंट | खुल्लम-खुल्ला / स्पष्ट | Telling a blatant lie will ruin your trust.
+WORD | Complacent | कम्प्लेसेंट | आत्मसंतुष्ट (प्रयास छोड़ देना) | Never become complacent after a small success.
+WORD | Deplete | डिप्लीट | खाली होना / समाप्त होना | Overuse of groundwater will deplete our resources.
+WORD | Emulate | एम्युलेट | अनुकरण करना / बराबरी करना | Young players try to emulate their sports idols.
+WORD | Frugal | फ्रूगल | किफ़ायती / सोच-समझकर खर्च करने वाला | Living a frugal life helps you save more.
+WORD | Gullibility | गलिबिलिटी | भोलापन | Scammers often take advantage of people's gullibility.
+WORD | Hindrance | हिंड्रेंस | रुकावट / अड़चन | Lack of confidence is the biggest hindrance to fluency.
+WORD | Imperative | इम्पेरेटिव | अत्यंत आवश्यक | It is imperative to practice speaking every single day.
+WORD | Jeopardy | जेपर्डी | ख़तरा / संकट | His reckless actions put the whole team in jeopardy.
+WORD | Kindle | किंडल | प्रज्वलित करना / जगाना | A good teacher can kindle a love for learning.
+WORD | Lethargic | लेथार्जिक | सुस्त / आलसी | Heavy lunch often makes people feel lethargic.
+WORD | Mitigate | मिटिगेट | कम करना / शांत करना | Planting trees helps mitigate air pollution.
+WORD | Notion | नोशन | धारणा / विचार | Drop the false notion that English is too hard.
+WORD | Oblivious | ऑब्लिवियस | बेखबर / अनजान | He was oblivious to the noise around him.
+WORD | Pernicious | पर्निशस | हानिकारक / घातक | Smoking has a pernicious effect on health.
+WORD | Quibble | क्विबल | छोटी बात पर बहस करना | Let us not quibble over minor details.
+WORD | Repercussion | रिपर्कशन | दुष्परिणाम / नतीजा | Every wrong decision has its own repercussion.
+WORD | Scrutiny | स्क्रूटिनी | सूक्ष्म जांच | The tender documents are under strict scrutiny.
+WORD | Trivial | ट्रिवियल | मामूली / तुच्छ | Do not waste your energy on trivial matters.
+WORD | Unprecedented | अनप्रेसिडेंटेड | अभूतपूर्व / जो पहले कभी न हुआ हो | The app received unprecedented downloads this week.
+WORD | Validate | वैलिडेट | प्रमाणित करना / सही ठहराना | Please validate the
 GAME | यह मेरे दिमाग से निकल गया। | It slipped my mind
