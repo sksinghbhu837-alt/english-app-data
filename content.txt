@@ -1,4 +1,18 @@
-DAY | 1 | Day 1: Smart Greetings | Good morning, have a nice day. | सुप्रभात, आपका दिन शुभ हो।
+DAY | 1 | Day 1: Greetings & Intro | Good morning, have a wonderful day ahead. | सुप्रभात, आपका आने वाला दिन शुभ हो।
+DAY | 1 | Day 1: Greetings & Intro | Good afternoon, how is your day going so far? | नमस्कार (दोपहर), आपका दिन अब तक कैसा जा रहा है?
+DAY | 1 | Day 1: Greetings & Intro | Good evening, it is great to see you again. | शुभ संध्या, आपको फिर से देखकर बहुत अच्छा लगा।
+DAY | 1 | Day 1: Greetings & Intro | How are you doing today? | आज आप कैसे हैं?
+DAY | 1 | Day 1: Greetings & Intro | I am doing great, thank you for asking. | मैं बिल्कुल ठीक हूँ, पूछने के लिए धन्यवाद।
+DAY | 1 | Day 1: Greetings & Intro | Pretty good! What about you? | काफी बढ़िया! आप अपने बारे में बताइए?
+DAY | 1 | Day 1: Greetings & Intro | Let me introduce myself first. | सबसे पहले मुझे अपना परिचय देने दीजिए।
+DAY | 1 | Day 1: Greetings & Intro | My name is Rahul, and I am from Varanasi. | मेरा नाम राहुल है, और मैं वाराणसी से हूँ।
+DAY | 1 | Day 1: Greetings & Intro | I work as an executive in a private firm. | मैं एक निजी कंपनी में एग्जीक्यूटिव के रूप में काम करता हूँ।
+DAY | 1 | Day 1: Greetings & Intro | I have recently completed my graduation. | मैंने हाल ही में अपना ग्रेजुएशन पूरा किया है।
+DAY | 1 | Day 1: Greetings & Intro | In my free time, I love reading and learning new skills. | अपने खाली समय में मुझे पढ़ना और नए कौशल सीखना पसंद है।
+DAY | 1 | Day 1: Greetings & Intro | It is a genuine pleasure to meet you. | आपसे मिलकर सचमुच बहुत खुशी हुई।
+DAY | 1 | Day 1: Greetings & Intro | Have a good night and take care of yourself. | शुभ रात्रि और अपना ख्याल रखिएगा।
+DAY | 1 | Day 1: Greetings & Intro | Catch you later, stay in touch! | बाद में मिलते हैं, संपर्क में रहिएगा!
+DAY | 1 | Day 1: Greetings & Intro | Goodbye! Hope to see you again soon. | अलविदा! उम्मीद है जल्द ही फिर मुलाकात होगी।
 DAY | 2 | Day 2: Polite Requests | Could you please help me? | क्या आप कृपया मेरी मदद कर सकते हैं?
 RANDOM | Better late than never. | देर आए दुरुस्त आए।
 RANDOM | Things will fall into place soon. | जल्द ही सब कुछ ठीक हो जाएगा।
