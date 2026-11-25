@@ -1094,6 +1094,166 @@ CHAT | App Development & Tech Discussion (ऐप डेवलपमेंट औ
 CHAT | App Development & Tech Discussion (ऐप डेवलपमेंट और टेक चर्चा) | Medium | 12 | I am going to give your app a 5-star rating on the Play Store and share it with my friends today! | मैं आज प्ले स्टोर पर आपके ऐप को 5-स्टार रेटिंग देने जा रहा हूँ और इसे अपने दोस्तों के साथ साझा करूँगा! | That means a lot to me! Honest reviews help the app reach thousands of eager learners. > 13 | Thank you so much for your support! Let me know if you have any feature requests for the next update. > 13
 CHAT | App Development & Tech Discussion (ऐप डेवलपमेंट और टेक चर्चा) | Medium | 13 | Keep innovating and creating useful tools for society—wishing your apps huge success! | नवाचार करते रहें और समाज के लिए उपयोगी टूल बनाते रहें—आपके ऐप्स की बड़ी सफलता की शुभकामनाएं! | Thank you my friend! Keep learning and have a fantastic day ahead! > 14 | Appreciate your kind words! Stay in touch and keep practicing English. > 14
 CHAT | App Development & Tech Discussion (ऐप डेवलपमेंट और टेक चर्चा) | Medium | 14 | Same to you! Catch you soon for our next tech discussion. | आपको भी! हमारी अगली टेक चर्चा के लिए जल्द ही मिलते हैं।
+RANDOM|Could you please do me a small favor?|क्या आप कृपया मेरी थोड़ी मदद कर सकते हैं?
+RANDOM|It slipped my mind completely.|यह मेरे दिमाग से पूरी तरह निकल गया।
+RANDOM|Let us call it a day.|चलो आज का काम यहीं खत्म करते हैं।
+RANDOM|Do not take it to heart.|इस बात को दिल पर मत लो।
+RANDOM|I am running short of time right now.|मेरे पास अभी समय की कमी है।
+RANDOM|Please keep me updated on this.|कृपया मुझे इस बारे में जानकारी देते रहें।
+RANDOM|What do you think about this plan?|इस योजना के बारे में आपकी क्या राय है?
+RANDOM|I will get back to you as soon as possible.|मैं जितनी जल्दी हो सके आपसे संपर्क करूंगा।
+RANDOM|Can you speak a little more slowly?|क्या आप थोड़ा और धीरे बोल सकते हैं?
+RANDOM|I did not catch what you just said.|आपने अभी जो कहा, मैं ठीक से सुन नहीं पाया।
+RANDOM|That makes a lot of sense to me.|यह बात मुझे बिल्कुल सही लग रही है।
+RANDOM|I am looking forward to meeting you.|मैं आपसे मिलने के लिए उत्सुक हूँ।
+RANDOM|Thank you so much for your kind help.|आपकी मदद के लिए बहुत-बहुत धन्यवाद।
+RANDOM|Excuse me, could you tell me the way?|माफ़ कीजिए, क्या आप मुझे रास्ता बता सकते हैं?
+RANDOM|I apologize for the delay in replying.|जवाब देने में देरी के लिए मैं माफ़ी चाहता हूँ।
+RANDOM|How long will it take to reach there?|वहाँ पहुँचने में कितना समय लगेगा?
+RANDOM|It is much better than I expected.|यह मेरी उम्मीद से कहीं ज़्यादा बेहतर है।
+RANDOM|Let me check my schedule first.|मुझे पहले अपना शेड्यूल देखने दीजिए।
+RANDOM|You should think twice before deciding.|फैसला लेने से पहले आपको दो बार सोचना चाहिए।
+RANDOM|Everything happens for a good reason.|जो कुछ भी होता है, अच्छे के लिए होता है।
+RANDOM|I am trying my best to improve.|मैं सुधार करने की अपनी पूरी कोशिश कर रहा हूँ।
+RANDOM|Please make yourself comfortable here.|कृपया यहाँ आराम से बैठिए।
+RANDOM|Do you have any plans for the weekend?|क्या सप्ताहांत के लिए आपकी कोई योजना है?
+RANDOM|I completely agree with your point.|मैं आपकी बात से पूरी तरह सहमत हूँ।
+RANDOM|Could you repeat that one more time?|क्या आप इसे एक बार फिर दोहरा सकते हैं?
+RANDOM|It does not matter at all to me.|इससे मुझे बिल्कुल भी फ़र्क नहीं पड़ता।
+RANDOM|Take care of your health properly.|अपनी सेहत का ठीक से ख्याल रखें।
+RANDOM|I need some time to think about it.|मुझे इसके बारे में सोचने के लिए थोड़ा समय चाहिए।
+RANDOM|Where did you learn to speak so well?|आपने इतना अच्छा बोलना कहाँ से सीखा?
+RANDOM|I am sorry to bother you at this hour.|इस समय आपको परेशान करने के लिए मुझे खेद है।
+RANDOM|Let us stay in touch with each other.|आइए एक-दूसरे के संपर्क में बने रहें।
+RANDOM|This is the best decision we can make.|यह सबसे अच्छा निर्णय है जो हम ले सकते हैं।
+RANDOM|I will let you know once it is done.|काम पूरा होते ही मैं आपको बता दूंगा।
+RANDOM|Please do not hesitate to ask anything.|कृपया कुछ भी पूछने में संकोच न करें।
+RANDOM|How was your day at the office today?|आज ऑफिस में आपका दिन कैसा रहा?
+RANDOM|I am feeling a bit tired after work.|काम के बाद मुझे थोड़ी थकान महसूस हो रही है।
+RANDOM|Can we reschedule our meeting for tomorrow?|क्या हम अपनी मीटिंग कल के लिए रख सकते हैं?
+RANDOM|You have done a wonderful job here.|आपने यहाँ बहुत ही शानदार काम किया है।
+RANDOM|I forgot to bring my wallet today.|मैं आज अपना बटुआ लाना भूल गया।
+RANDOM|What is the weather like outside?|बाहर मौसम कैसा है?
+RANDOM|It looks like it is going to rain soon.|लगता है जल्द ही बारिश होने वाली है।
+RANDOM|I prefer tea over coffee in the morning.|मुझे सुबह कॉफ़ी की बजाय चाय ज़्यादा पसंद है।
+RANDOM|Could you pass me the water bottle?|क्या आप मुझे पानी की बोतल दे सकते हैं?
+RANDOM|I am on my way to the station.|मैं स्टेशन के रास्ते में हूँ।
+RANDOM|Please call me when you reach home.|घर पहुँचने पर कृपया मुझे फ़ोन कर देना।
+RANDOM|Do not worry, everything will be fine.|चिंता मत करो, सब कुछ ठीक हो जाएगा।
+RANDOM|I have been waiting here for ten minutes.|मैं यहाँ दस मिनट से इंतज़ार कर रहा हूँ।
+RANDOM|That was really kind of you to say.|आपका ऐसा कहना बहुत ही उदारतापूर्ण था।
+RANDOM|Can I pay by card or cash here?|क्या मैं यहाँ कार्ड या नकद से भुगतान कर सकता हूँ?
+RANDOM|How much does this item cost?|इस वस्तु की कीमत कितनी है?
+RANDOM|I would like to order a cup of coffee.|मैं एक कप कॉफ़ी ऑर्डर करना चाहूंगा।
+RANDOM|Is there a pharmacy near this street?|क्या इस गली के पास कोई दवा की दुकान है?
+RANDOM|I have a slight headache since morning.|मुझे सुबह से हल्का सिरदर्द हो रहा है।
+RANDOM|You look very happy and energetic today.|आज आप बहुत खुश और ऊर्जावान लग रहे हैं।
+RANDOM|Keep practicing English every single day.|हर एक दिन इंग्लिश बोलने का अभ्यास करते रहें।
+RANDOM|Mistakes are proof that you are trying.|गलतियाँ इस बात का सबूत हैं कि आप कोशिश कर रहे हैं।
+RANDOM|Practice makes a person perfect in everything.|अभ्यास व्यक्ति को हर चीज़ में निपुण बनाता है।
+RANDOM|Never give up on your dreams easily.|अपने सपनों को कभी आसानी से मत छोड़ो।
+RANDOM|Time and tide wait for none.|समय और लहरें किसी का इंतज़ार नहीं करतीं।
+RANDOM|Honesty is always the best policy.|ईमानदारी हमेशा सबसे अच्छी नीति होती है।
+RANDOM|Can you explain this topic in simple words?|क्या आप इस विषय को सरल शब्दों में समझा सकते हैं?
+RANDOM|I am not sure about the exact time.|मुझे सही समय के बारे में पक्का पता नहीं है।
+RANDOM|Let me help you carry those heavy bags.|मुझे उन भारी बैगों को उठाने में आपकी मदद करने दें।
+RANDOM|It was nice talking to you today.|आज आपसे बात करके बहुत अच्छा लगा।
+RANDOM|Have a safe and pleasant journey ahead.|आपकी आगे की यात्रा सुरक्षित और सुखद हो।
+RANDOM|Please turn off the lights before leaving.|जाने से पहले कृपया लाइट बंद कर दें।
+RANDOM|I usually wake up early in the morning.|मैं आमतौर पर सुबह जल्दी उठता हूँ।
+RANDOM|Reading books improves our knowledge and focus.|किताबें पढ़ने से हमारा ज्ञान और एकाग्रता बढ़ती है।
+RANDOM|Could you please lower your voice a bit?|क्या आप कृपया अपनी आवाज़ थोड़ी धीमी कर सकते हैं?
+RANDOM|I am really proud of your achievement.|मुझे आपकी उपलब्धि पर सच में गर्व है।
+RANDOM|What brings you here so early today?|आज आप इतनी जल्दी यहाँ कैसे आए?
+RANDOM|I have no idea what happened there.|मुझे कोई अंदाज़ा नहीं है कि वहाँ क्या हुआ।
+RANDOM|Let us grab a quick bite to eat.|चलो जल्दी से कुछ खा लेते हैं।
+RANDOM|Are you free to talk for five minutes?|क्या आप पाँच मिनट बात करने के लिए खाली हैं?
+RANDOM|I will think about your suggestion carefully.|मैं आपके सुझाव पर ध्यान से विचार करूंगा।
+RANDOM|Thanks for reminding me about the meeting.|मीटिंग के बारे में याद दिलाने के लिए धन्यवाद।
+RANDOM|I am sorry, I got stuck in traffic.|माफ़ कीजिए, मैं ट्रैफ़िक में फँस गया था।
+RANDOM|Do you need any further assistance from me?|क्या आपको मुझसे किसी और सहायता की ज़रूरत है?
+RANDOM|That sounds like a brilliant idea to me.|मुझे यह एक बहुत ही शानदार विचार लग रहा है।
+RANDOM|I cannot believe how fast time flies.|मुझे यकीन नहीं होता कि समय कितनी तेज़ी से बीतता है।
+RANDOM|Please write down your contact number here.|कृपया यहाँ अपना संपर्क नंबर लिख दें।
+RANDOM|We should respect everyone regardless of status.|हमें हैसियत की परवाह किए बिना सभी का सम्मान करना चाहिए।
+RANDOM|Can you recommend a good restaurant nearby?|क्या आप पास में किसी अच्छे रेस्तरां का सुझाव दे सकते हैं?
+RANDOM|I am still learning how to speak fluently.|मैं अभी भी धाराप्रवाह बोलना सीख रहा हूँ।
+RANDOM|Do not rush, take your own sweet time.|जल्दबाज़ी मत करो, अपना पूरा समय लो।
+RANDOM|It is important to stay calm under pressure.|दबाव में शांत रहना बहुत महत्वपूर्ण है।
+RANDOM|Could you send me the details on WhatsApp?|क्या आप मुझे विवरण व्हाट्सएप पर भेज सकते हैं?
+RANDOM|I appreciate your patience and understanding.|मैं आपके धैर्य और समझ की सराहना करता हूँ।
+RANDOM|What is your favorite hobby in free time?|खाली समय में आपका पसंदीदा शौक क्या है?
+RANDOM|I enjoy listening to soft music while working.|मुझे काम करते समय हल्का संगीत सुनना पसंद है।
+RANDOM|Let us hope for the very best outcome.|आइए सबसे अच्छे परिणाम की उम्मीद करें।
+RANDOM|You are making great progress every week.|आप हर हफ्ते बहुत अच्छी प्रगति कर रहे हैं।
+RANDOM|Please double check the document before sending.|भेजने से पहले कृपया दस्तावेज़ को दोबारा जाँच लें।
+RANDOM|I did not mean to hurt your feelings.|मेरा इरादा आपकी भावनाओं को ठेस पहुँचाने का नहीं था।
+RANDOM|Can we discuss this matter in detail later?|क्या हम इस मामले पर बाद में विस्तार से चर्चा कर सकते हैं?
+RANDOM|It is never too late to start fresh.|नई शुरुआत करने के लिए कभी भी बहुत देर नहीं होती।
+RANDOM|I am grateful for everything I have today.|आज मेरे पास जो कुछ भी है, मैं उसके लिए आभारी हूँ।
+RANDOM|Could you please open the window for air?|क्या आप हवा के लिए कृपया खिड़की खोल सकते हैं?
+RANDOM|Remember to lock the front door properly.|सामने का दरवाज़ा ठीक से बंद करना याद रखें।
+RANDOM|How often do you exercise in a week?|आप एक सप्ताह में कितनी बार व्यायाम करते हैं?
+RANDOM|Walking every morning keeps the body fit.|रोज़ सुबह टहलने से शरीर स्वस्थ रहता है।
+RANDOM|I need to charge my mobile phone battery.|मुझे अपने मोबाइल फ़ोन की बैटरी चार्ज करनी है।
+RANDOM|The internet connection is quite slow today.|आज इंटरनेट कनेक्शन काफी धीमा है।
+RANDOM|Please speak clearly into the microphone.|कृपया माइक्रोफ़ोन में साफ़-साफ़ बोलें।
+RANDOM|Confidence comes from regular daily practice.|आत्मविश्वास नियमित दैनिक अभ्यास से आता है।
+RANDOM|Do not compare your journey with others.|अपनी यात्रा की तुलना दूसरों से न करें।
+RANDOM|Focus on your goals and stay consistent.|अपने लक्ष्यों पर ध्यान दें और निरंतर बने रहें।
+RANDOM|Small steps every day lead to big results.|हर दिन छोटे कदम बड़े परिणामों की ओर ले जाते हैं।
+RANDOM|Can you spell your last name for me?|क्या आप मुझे अपने उपनाम की स्पेलिंग बता सकते हैं?
+RANDOM|I would love to visit that place someday.|मैं किसी दिन उस जगह पर ज़रूर जाना चाहूंगा।
+RANDOM|What time does the train arrive at platform?|ट्रेन प्लेटफॉर्म पर कितने बजे आती है?
+RANDOM|Please keep your mobile phone on silent mode.|कृपया अपना मोबाइल फ़ोन साइलेंट मोड पर रखें।
+RANDOM|I am looking for a good English dictionary.|मैं एक अच्छी इंग्लिश डिक्शनरी ढूँढ रहा हूँ।
+RANDOM|Could you clarify what you meant by that?|क्या आप स्पष्ट कर सकते हैं कि आपका उससे क्या मतलब था?
+RANDOM|It takes courage to speak a new language.|एक नई भाषा बोलने के लिए साहस की ज़रूरत होती है।
+RANDOM|Listen carefully before giving any answer.|कोई भी उत्तर देने से पहले ध्यान से सुनें।
+RANDOM|Your pronunciation is getting clearer day by day.|आपका उच्चारण दिन-ब-दिन साफ़ होता जा रहा है।
+RANDOM|Let me know if you need anything else.|अगर आपको किसी और चीज़ की ज़रूरत हो तो मुझे बताएं।
+RANDOM|We had a really productive meeting today.|आज हमारी मीटिंग वाकई बहुत फलदायी रही।
+RANDOM|I will finish this report by tonight.|मैं आज रात तक यह रिपोर्ट पूरी कर लूंगा।
+RANDOM|Do not forget to drink enough water daily.|रोज़ पर्याप्त पानी पीना न भूलें।
+RANDOM|Healthy habits create a happy and peaceful life.|स्वस्थ आदतें एक खुशहाल और शांत जीवन बनाती हैं।
+RANDOM|Could you hold this for just a second?|क्या आप इसे बस एक सेकंड के लिए पकड़ सकते हैं?
+RANDOM|I am sorry, I have another appointment now.|माफ़ कीजिए, अब मेरी एक और अपॉइंटमेंट है।
+RANDOM|Thank you for taking time out for me.|मेरे लिए समय निकालने के लिए आपका धन्यवाद।
+RANDOM|Where can I find a taxi around here?|मुझे यहाँ आसपास टैक्सी कहाँ मिल सकती है?
+RANDOM|Please drive safely, the road is slippery.|कृपया सावधानी से गाड़ी चलाएं, सड़क फिसलन भरी है।
+RANDOM|I really enjoyed spending time with your family.|मुझे आपके परिवार के साथ समय बिताकर बहुत अच्छा लगा।
+RANDOM|Let us celebrate this special occasion together.|आइए इस खास मौके का जश्न एक साथ मनाएं।
+RANDOM|Wishing you all the success in your career.|आपके करियर में अपार सफलता की शुभकामनाएं।
+RANDOM|Can you give me an example of this word?|क्या आप मुझे इस शब्द का एक उदाहरण दे सकते हैं?
+RANDOM|I always carry a notebook in my bag.|मैं हमेशा अपने बैग में एक नोटबुक रखता हूँ।
+RANDOM|Good communication opens many doors of opportunity.|अच्छा संवाद अवसरों के कई द्वार खोलता है।
+RANDOM|Stay positive even when things get tough.|जब परिस्थितियाँ कठिन हों तब भी सकारात्मक रहें।
+RANDOM|I am ready to take on this new challenge.|मैं इस नई चुनौती को स्वीकार करने के लिए तैयार हूँ।
+RANDOM|Could you please share the link with me?|क्या आप कृपया मेरे साथ लिंक साझा कर सकते हैं?
+RANDOM|Everything is well organized and easy to use.|सब कुछ सुव्यवस्थित और उपयोग में आसान है।
+RANDOM|I will definitely recommend this to my friends.|मैं निश्चित रूप से अपने दोस्तों को इसकी सलाह दूंगा।
+RANDOM|Have a wonderful evening with your loved ones.|अपने प्रियजनों के साथ एक शानदार शाम बिताएं।
+RANDOM|See you tomorrow at the exact same time.|कल ठीक इसी समय मिलते हैं।
+RANDOM|Could you turn up the volume a little?|क्या आप आवाज़ थोड़ी बढ़ा सकते हैं?
+RANDOM|I am trying to build a better daily routine.|मैं एक बेहतर दैनिक दिनचर्या बनाने की कोशिश कर रहा हूँ।
+RANDOM|Patience and hard work always pay off eventually.|धैर्य और कड़ी मेहनत का फल अंततः ज़रूर मिलता है।
+RANDOM|Please excuse me for a couple of minutes.|कृपया मुझे दो मिनट के लिए क्षमा करें।
+RANDOM|What is the best way to reach the airport?|हवाई अड्डे तक पहुँचने का सबसे अच्छा रास्ता कौन-सा है?
+RANDOM|I appreciate your honest feedback on my work.|मैं अपने काम पर आपकी ईमानदार प्रतिक्रिया की सराहना करता हूँ।
+RANDOM|Let us wrap up the session for today.|चलिए आज के सत्र को यहीं समाप्त करते हैं।
+RANDOM|Keep smiling and spreading positivity around you.|मुस्कुराते रहें और अपने आसपास सकारात्मकता फैलाते रहें।
+RANDOM|You are capable of achieving amazing things.|आप अद्भुत चीज़ें हासिल करने में सक्षम हैं।
+RANDOM|Thank you for listening so patiently today.|आज इतने धैर्यपूर्वक सुनने के लिए धन्यवाद।
+RANDOM|Can you please check if the door is locked?|क्या आप कृपया जाँच सकते हैं कि दरवाज़ा बंद है या नहीं?
+RANDOM|I am planning to start a new project soon.|मैं जल्द ही एक नया प्रोजेक्ट शुरू करने की योजना बना रहा हूँ।
+RANDOM|Please speak up a bit, I cannot hear you.|कृपया थोड़ा ज़ोर से बोलें, मुझे आपकी आवाज़ नहीं आ रही है।
+RANDOM|Learning a new skill requires time and dedication.|एक नया कौशल सीखने के लिए समय और समर्पण की आवश्यकता होती है।
+RANDOM|Could you help me find my car keys?|क्या आप मेरी कार की चाबियाँ ढूँढने में मेरी मदद कर सकते हैं?
+RANDOM|I will call you back in about ten minutes.|मैं आपको लगभग दस मिनट में वापस फ़ोन करूंगा।
+RANDOM|It is always wise to save money for emergencies.|आपात स्थिति के लिए पैसे बचाना हमेशा समझदारी होती है।
+RANDOM|Let me know your thoughts after reading this.|इसे पढ़ने के बाद मुझे अपने विचार ज़रूर बताएं।
+RANDOM|We must take care of our environment together.|हमें मिलकर अपने पर्यावरण की देखभाल करनी चाहिए।
+RANDOM|You have improved your English speaking a lot.|आपने अपनी इंग्लिश स्पीकिंग में बहुत सुधार किया है।
 WORD | Reluctant | रिलक्टेंट | अनिच्छुक / हिचकिचाना | He was reluctant to speak English in public.
 WORD | Diligent | डिलिजेंट | मेहनती और लगनशील | She is a very diligent student.
 WORD | Inevitable | इनएविटेबल | जिसे टाला न जा सके | Change is inevitable in life.
