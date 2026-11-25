@@ -1254,6 +1254,186 @@ RANDOM|It is always wise to save money for emergencies.|आपात स्थ�
 RANDOM|Let me know your thoughts after reading this.|इसे पढ़ने के बाद मुझे अपने विचार ज़रूर बताएं।
 RANDOM|We must take care of our environment together.|हमें मिलकर अपने पर्यावरण की देखभाल करनी चाहिए।
 RANDOM|You have improved your English speaking a lot.|आपने अपनी इंग्लिश स्पीकिंग में बहुत सुधार किया है।
+RANDOM|She sells seashells by the seashore.|वह समुद्र के किनारे सीपियाँ बेचती है।
+RANDOM|Please pronounce every syllable very clearly.|कृपया हर शब्दांश का उच्चारण बिल्कुल साफ़-साफ़ करें।
+RANDOM|I thought a thought about what you taught.|मैंने उस बारे में एक विचार सोचा जो आपने सिखाया था।
+RANDOM|The comfortable Wednesday schedule was quite busy.|बुधवार का आरामदायक शेड्यूल काफी व्यस्त था।
+RANDOM|He bought a bouquet of fresh flowers yesterday.|उसने कल ताज़ा फूलों का एक गुलदस्ता खरीदा।
+RANDOM|Please check the receipt and the restaurant menu.|कृपया रसीद और रेस्तरां के मेनू की जाँच कर लें।
+RANDOM|Knowledge and psychology require deep concentration.|ज्ञान और मनोविज्ञान के लिए गहरी एकाग्रता की आवश्यकता होती है।
+RANDOM|The plumber fixed the cupboard on Wednesday afternoon.|प्लंबर ने बुधवार दोपहर को अलमारी ठीक की।
+RANDOM|Can you distinguish between these two similar words?|क्या आप इन दो मिलते-जुलते शब्दों के बीच अंतर बता सकते हैं?
+RANDOM|February is the shortest month of the calendar year.|फरवरी कैलेंडर वर्ष का सबसे छोटा महीना है।
+RANDOM|He spoke with enthusiasm and genuine confidence.|उन्होंने उत्साह और सच्चे आत्मविश्वास के साथ बात की।
+RANDOM|The library has a wonderful collection of literature.|पुस्तकालय में साहित्य का एक अद्भुत संग्रह है।
+RANDOM|Please fasten your seatbelt before the flight departs.|उड़ान भरने से पहले कृपया अपनी सीटबेल्ट बांध लें।
+RANDOM|We enjoyed delicious chocolate biscuits with evening tea.|हमने शाम की चाय के साथ स्वादिष्ट चॉकलेट बिस्कुट का आनंद लिया।
+RANDOM|Honest people always earn genuine respect in society.|ईमानदार लोग समाज में हमेशा सच्चा सम्मान अर्जित करते हैं।
+RANDOM|The queue outside the theater was unexpectedly long.|थिएटर के बाहर की कतार उम्मीद से कहीं ज़्यादा लंबी थी।
+RANDOM|Could you measure the temperature accurately right now?|क्या आप अभी तापमान को सटीक रूप से माप सकते हैं?
+RANDOM|Entrepreneurship requires patience, vision, and resilience.|उद्यमिता के लिए धैर्य, दूरदर्शिता और लचीलेपन की आवश्यकता होती है।
+RANDOM|She wore a gorgeous turquoise jewelry set today.|उसने आज फ़िरोज़ी रंग के गहनों का एक बेहद खूबसूरत सेट पहना था।
+RANDOM|The rhythm of the music made everyone feel relaxed.|संगीत की लय ने सभी को तनावमुक्त महसूस कराया।
+RANDOM|Please thoroughly review the miscellaneous expenses.|कृपया विविध खर्चों की अच्छी तरह से समीक्षा करें।
+RANDOM|He gently knocked on the wooden door twice.|उसने लकड़ी के दरवाज़े पर धीरे से दो बार दस्तक दी।
+RANDOM|Photography and cinematography are creative visual arts.|फोटोग्राफी और सिनेमैटोग्राफी रचनात्मक दृश्य कलाएं हैं।
+RANDOM|The colonel walked calmly through the quiet village.|कर्नल शांत गाँव से होते हुए आराम से गुजरे।
+RANDOM|We must prioritize environmental sustainability today.|हमें आज पर्यावरणीय स्थिरता को प्राथमिकता देनी चाहिए।
+RANDOM|Can you pronounce Worcestershire sauce correctly?|क्या आप वॉर्सेस्टरशायर सॉस का सही उच्चारण कर सकते हैं?
+RANDOM|His pronunciation improved dramatically after regular practice.|नियमित अभ्यास के बाद उनके उच्चारण में ज़बरदस्त सुधार हुआ।
+RANDOM|The subtle difference changed the entire meaning.|सूक्ष्म अंतर ने पूरे अर्थ को ही बदल दिया।
+RANDOM|Please listen to the native speaker very attentively.|कृपया मूल वक्ता की बात को बहुत ध्यान से सुनें।
+RANDOM|The architecture of that ancient monument is magnificent.|उस प्राचीन स्मारक की वास्तुकला बेहद शानदार है।
+RANDOM|She answered the questionnaire honestly and quickly.|उसने प्रश्नावली का ईमानदारी और तेज़ी से उत्तर दिया।
+RANDOM|Autumn leaves fall gracefully onto the narrow path.|पतझड़ के पत्ते संकरे रास्ते पर खूबसूरती से गिरते हैं।
+RANDOM|The technician repaired the faulty circuit immediately.|तकनीशियन ने खराब सर्किट की तुरंत मरम्मत की।
+RANDOM|Regular articulation exercises strengthen your vocal clarity.|नियमित उच्चारण अभ्यास आपकी आवाज़ की स्पष्टता को मज़बूत करते हैं।
+RANDOM|I genuinely appreciate your thoughtful recommendation.|मैं आपकी विचारशील सिफ़ारिश की सच्चे दिल से सराहना करता हूँ।
+RANDOM|The phenomenon surprised scientists around the world.|इस घटना ने दुनिया भर के वैज्ञानिकों को हैरान कर दिया।
+RANDOM|Please wrap the fragile glass items very carefully.|कृपया नाज़ुक काँच की वस्तुओं को बहुत सावधानी से लपेटें।
+RANDOM|He whispered quietly so nobody else could hear.|वह धीरे से फुसफुसाया ताकि कोई और न सुन सके।
+RANDOM|Vocabulary expansion boosts fluency and expression.|शब्दावली का विस्तार प्रवाह और अभिव्यक्ति को बढ़ाता है।
+RANDOM|The squirrel quickly climbed up the tall oak tree.|गिलहरी तेज़ी से ऊँचे शाहबलूत के पेड़ पर चढ़ गई।
+RANDOM|Always breathe deeply and speak at a steady pace.|हमेशा गहरी सांस लें और एक स्थिर गति से बोलें।
+RANDOM|The yacht sailed smoothly across the calm ocean.|नौका शांत महासागर के पार सहजता से तैरती रही।
+RANDOM|Challenging tongue twisters sharpen spoken English skills.|चुनौतीपूर्ण टंग ट्विस्टर्स स्पोकन इंग्लिश कौशल को तेज़ करते हैं।
+RANDOM|Red lorry, yellow lorry, red lorry, yellow lorry.|लाल लॉरी, पीली लॉरी, लाल लॉरी, पीली लॉरी।
+RANDOM|Six thick thistle sticks stood in the field.|खेत में छह मोटी कांटेदार छड़ियाँ खड़ी थीं।
+RANDOM|Peter Piper picked a peck of pickled peppers.|पीटर पाइपर ने अचार वाली मिर्चों की एक टोकरी चुनी।
+RANDOM|Fresh fried fish, fish fresh fried, fried fish fresh.|ताज़ी तली हुई मछली, मछली ताज़ी तली हुई।
+RANDOM|Unique New York, you know you need unique New York.|अनोखा न्यूयॉर्क, आप जानते हैं कि आपको अनोखा न्यूयॉर्क चाहिए।
+RANDOM|How can a clam cram in a clean cream can?|एक सीप साफ क्रीम के डिब्बे में कैसे समा सकती है?
+RANDOM|Proper posture and clear breathing improve voice projection.|सही मुद्रा और स्पष्ट सांस लेने से आवाज़ की स्पष्टता बेहतर होती है।
+RANDOM|The subtle sound of the violin echoed softly.|वायोलिन की सूक्ष्म ध्वनि धीरे से गूंज उठी।
+RANDOM|Please check the pronunciation of every difficult word.|कृपया हर कठिन शब्द के उच्चारण की जाँच करें।
+RANDOM|She bought a dozen fresh croissants from the bakery.|उसने बेकरी से एक दर्जन ताज़ा क्रोइसैन खरीदे।
+RANDOM|The knight rode through the quiet forest at night.|योद्धा रात में शांत जंगल से होकर गुजरा।
+RANDOM|We need to thoroughly analyze the financial data.|हमें वित्तीय आंकड़ों का अच्छी तरह से विश्लेषण करने की आवश्यकता है।
+RANDOM|His genuine enthusiasm inspired the entire audience.|उनके सच्चे उत्साह ने पूरे दर्शकों को प्रेरित किया।
+RANDOM|The chameleon changed its color on the green leaf.|गिरगिट ने हरे पत्ते पर अपना रंग बदल लिया।
+RANDOM|Could you please reschedule our Wednesday appointment?|क्या आप कृपया हमारी बुधवार की अपॉइंटमेंट फिर से तय कर सकते हैं?
+RANDOM|The scientist explained the complex phenomenon clearly.|वैज्ञानिक ने इस जटिल घटना को स्पष्ट रूप से समझाया।
+RANDOM|Always maintain a steady rhythm while speaking English.|इंग्लिश बोलते समय हमेशा एक स्थिर लय बनाए रखें।
+RANDOM|The antique jewelry was kept inside a locked drawer.|प्राचीन गहने एक बंद दराज के अंदर रखे गए थे।
+RANDOM|He accidently spilled hot coffee on his white shirt.|उसने गलती से अपनी सफेद शर्ट पर गर्म कॉफ़ी गिरा दी।
+RANDOM|Please acknowledge the receipt of this important letter.|कृपया इस महत्वपूर्ण पत्र की प्राप्ति की सूचना दें।
+RANDOM|The choir sang a melodious hymn in the morning.|गायक मंडली ने सुबह एक मधुर भजन गाया।
+RANDOM|Good articulation makes your speech sound very professional.|अच्छा उच्चारण आपकी बातचीत को बहुत पेशेवर बनाता है।
+RANDOM|The lieutenant saluted the senior officer smartly.|लेफ्टिनेंट ने वरिष्ठ अधिकारी को फुर्ती से सलामी दी।
+RANDOM|She suffered from pneumonia during the cold winter.|ठंडी सर्दियों के दौरान वह निमोनिया से पीड़ित थी।
+RANDOM|Can you distinguish between stationary and stationery?|क्या आप स्थिर (stationary) और लेखन सामग्री (stationery) के बीच अंतर बता सकते हैं?
+RANDOM|The debris was cleared from the highway quickly.|राजमार्ग से मलबा जल्दी ही साफ कर दिया गया।
+RANDOM|He is an extraordinarily talented young musician.|वह एक असाधारण रूप से प्रतिभाशाली युवा संगीतकार है।
+RANDOM|Please fasten the buckle securely around your waist.|कृपया अपनी कमर के चारों ओर बकल को मज़बूती से बांध लें।
+RANDOM|The rendezvous was scheduled for late Friday evening.|मुलाकात शुक्रवार देर शाम के लिए तय की गई थी।
+RANDOM|We witnessed a breathtaking silhouette at sunset.|हमने सूर्यास्त के समय एक अद्भुत परछाई देखी।
+RANDOM|The bureau investigated the mysterious case thoroughly.|ब्यूरो ने इस रहस्यमय मामले की गहनता से जाँच की।
+RANDOM|Do not underestimate the power of consistent practice.|निरंतर अभ्यास की शक्ति को कभी कम मत आंकिए।
+RANDOM|The chef prepared a delicious gourmet meal tonight.|शेफ ने आज रात एक स्वादिष्ट लज़ीज़ भोजन तैयार किया।
+RANDOM|Her spontaneous reaction surprised everyone in the room.|उनकी स्वाभाविक प्रतिक्रिया ने कमरे में मौजूद सभी को चौंका दिया।
+RANDOM|The silhouette of the mountains looked magnificent.|पहाड़ों की रूपरेखा बेहद शानदार दिख रही थी।
+RANDOM|Please pronounce the final consonant sound distinctly.|कृपया अंतिम व्यंजन ध्वनि का उच्चारण स्पष्ट रूप से करें।
+RANDOM|The reservoir provides clean water to the whole city.|जलाशय पूरे शहर को स्वच्छ पानी उपलब्ध कराता है।
+RANDOM|He demonstrated remarkable resilience during tough times.|उन्होंने कठिन समय के दौरान उल्लेखनीय लचीलापन दिखाया।
+RANDOM|The conscience of an honest person remains peaceful.|एक ईमानदार व्यक्ति की अंतरात्मा हमेशा शांत रहती है।
+RANDOM|Could you recommend a reliable mortgage advisor?|क्या आप एक विश्वसनीय बंधक सलाहकार की सिफ़ारिश कर सकते हैं?
+RANDOM|The mortgage payment is due on the fifth of every month.|किश्त का भुगतान हर महीने की पांच तारीख को देय है।
+RANDOM|She inherited a magnificent estate in the countryside.|उसे ग्रामीण इलाके में एक शानदार संपत्ति विरासत में मिली।
+RANDOM|The curriculum includes practical spoken English workshops.|पाठ्यक्रम में व्यावहारिक स्पोकन इंग्लिश कार्यशालाएं शामिल हैं।
+RANDOM|Please verify the authenticity of the official document.|कृपया आधिकारिक दस्तावेज़ की प्रामाणिकता की पुष्टि करें।
+RANDOM|The kaleidoscope created fascinating colorful patterns.|बहुरूपदर्शक ने आकर्षक रंगीन पैटर्न बनाए।
+RANDOM|He delivered an eloquent speech at the graduation ceremony.|उन्होंने दीक्षांत समारोह में एक प्रभावशाली भाषण दिया।
+RANDOM|The camouflage helped the soldiers blend into the jungle.|छलावरण ने सैनिकों को जंगल में घुलने-मिलने में मदद की।
+RANDOM|Regular tongue exercises improve spoken clarity rapidly.|नियमित जीभ के व्यायाम बोलने की स्पष्टता में तेज़ी से सुधार करते हैं।
+RANDOM|Betty Botter bought some butter, but the butter was bitter.|बेट्टी बॉटर ने थोड़ा मक्खन खरीदा, लेकिन मक्खन कड़वा था।
+RANDOM|Whether the weather is warm or whether the weather is hot.|चाहे मौसम गर्म हो या चाहे मौसम तपती गर्मी वाला हो।
+RANDOM|I scream, you scream, we all scream for ice cream.|मैं चिल्लाता हूँ, तुम चिल्लाते हो, हम सब आइसक्रीम के लिए चिल्लाते हैं।
+RANDOM|Four fine fresh fish for you on Friday.|शुक्रवार को आपके लिए चार बढ़िया ताज़ी मछलियाँ।
+RANDOM|A proper copper coffee pot sits on the stove.|चूल्हे पर एक उचित तांबे का कॉफ़ी पॉट रखा है।
+RANDOM|Black background, brown background, bright blue background.|काला बैकग्राउंड, भूरा बैकग्राउंड, चमकीला नीला बैकग्राउंड।
+RANDOM|Eleven benevolent elephants walked slowly together.|ग्यारह परोपकारी हाथी एक साथ धीरे-धीरे चले।
+RANDOM|Truly rural, truly rural, truly rural hills.|सचमुच ग्रामीण, सचमुच ग्रामीण, सचमुच ग्रामीण पहाड़ियाँ।
+RANDOM|Which wristwatches are Swiss wristwatches?|कौन-सी कलाई घड़ियाँ स्विस कलाई घड़ियाँ हैं?
+RANDOM|Fred fed Ted bread, and Ted fed Fred bread.|फ्रेड ने टेड को ब्रेड खिलाई, और टेड ने फ्रेड को ब्रेड खिलाई।
+RANDOM|How much wood would a woodchuck chuck if it could?|एक वुडचक कितनी लकड़ी फेंक सकता है अगर वह फेंक सके?
+RANDOM|Fuzzy Wuzzy was a bear, Fuzzy Wuzzy had no hair.|फ़ज़ी वज़ी एक भालू था, फ़ज़ी वज़ी के बाल नहीं थे।
+RANDOM|Two tiny tigers take two taxis to town.|दो छोटे बाघ शहर जाने के लिए दो टैक्सियाँ लेते हैं।
+RANDOM|Can you can a canned can into an un-canned can?|क्या आप एक डिब्बाबंद डिब्बे को बिना डिब्बाबंद डिब्बे में बंद कर सकते हैं?
+RANDOM|I saw Susie sitting in a shoeshine shop.|मैंने सूजी को जूते चमकाने वाली दुकान में बैठे देखा।
+RANDOM|Green glass globes glow greenly in the dark.|हरे काँच के गोले अंधेरे में हरे रंग से चमकते हैं।
+RANDOM|Nine nice night nurses nursing nicely.|नौ अच्छी रात्रि नर्सें अच्छे से देखभाल कर रही हैं।
+RANDOM|Give papa a cup of proper coffee in a copper coffee cup.|पापा को तांबे के कॉफ़ी कप में एक कप बढ़िया कॉफ़ी दें।
+RANDOM|Consistent daily voice practice builds natural fluency.|निरंतर दैनिक वॉइस अभ्यास स्वाभाविक प्रवाह बनाता है।
+RANDOM|The surgeon performed the delicate operation successfully.|सर्जन ने नाज़ुक ऑपरेशन सफलतापूर्वक पूरा किया।
+RANDOM|Please pronounce every vowel and consonant clearly.|कृपया हर स्वर और व्यंजन का उच्चारण स्पष्ट रूप से करें।
+RANDOM|She arranged a beautiful bouquet of lilies and roses.|उसने लिली और गुलाब के फूलों का एक सुंदर गुलदस्ता सजाया।
+RANDOM|The colonel inspected the troops early in the morning.|कर्नल ने सुबह तड़के सैनिकों का निरीक्षण किया।
+RANDOM|We must thoroughly verify the calculations before submitting.|जमा करने से पहले हमें गणनाओं की अच्छी तरह से पुष्टि करनी चाहिए।
+RANDOM|His pneumonia symptoms improved significantly after medication.|दवा लेने के बाद उनके निमोनिया के लक्षणों में काफी सुधार हुआ।
+RANDOM|The architecture of the cathedral left everyone amazed.|गिरजाघर की वास्तुकला ने सभी को आश्चर्यचकित कर दिया।
+RANDOM|Can you distinguish between their, there, and they are?|क्या आप their, there और they are के बीच अंतर बता सकते हैं?
+RANDOM|The mischievous squirrel hid acorns inside the hollow tree.|शरारती गिलहरी ने खोखले पेड़ के अंदर बलूत के फल छिपा दिए।
+RANDOM|Always speak with clarity, confidence, and proper intonation.|हमेशा स्पष्टता, आत्मविश्वास और सही स्वर-लहर के साथ बोलें।
+RANDOM|The antique chandelier sparkled brightly in the hall.|प्राचीन झूमर हॉल में तेज़ी से चमक रहा था।
+RANDOM|He bought a suede jacket and matching leather boots.|उसने एक साबर जैकेट और मेल खाते चमड़े के जूते खरीदे।
+RANDOM|Please acknowledge receipt of the confidential documents.|कृपया गोपनीय दस्तावेज़ों की प्राप्ति की पुष्टि करें।
+RANDOM|The orchestra played a mesmerizing symphony last night.|ऑर्केस्ट्रा ने कल रात एक मंत्रमुग्ध कर देने वाली सिम्फनी बजाई।
+RANDOM|Consistent vocal practice eliminates hesitation while speaking.|निरंतर मौखिक अभ्यास बोलते समय हिचकिचाहट को दूर करता है।
+RANDOM|The lieutenant colonel received a prestigious bravery award.|लेफ्टिनेंट कर्नल को एक प्रतिष्ठित वीरता पुरस्कार मिला।
+RANDOM|She suffered from severe asthma during the dusty season.|धूल भरे मौसम के दौरान वह गंभीर अस्थमा से पीड़ित थी।
+RANDOM|Can you differentiate between accept and except clearly?|क्या आप accept और except के बीच स्पष्ट अंतर कर सकते हैं?
+RANDOM|The debris from the old building was cleared promptly.|पुरानी इमारत का मलबा तुरंत साफ कर दिया गया।
+RANDOM|He is an extraordinarily articulate and persuasive speaker.|वह एक असाधारण रूप से स्पष्टवादी और प्रभावशाली वक्ता हैं।
+RANDOM|Please tighten the seatbelt securely before takeoff.|उड़ान भरने से पहले कृपया सीटबेल्ट को मज़बूती से कस लें।
+RANDOM|The rendezvous point was marked clearly on the map.|मिलने का स्थान मानचित्र पर स्पष्ट रूप से चिह्नित किया गया था।
+RANDOM|We admired the golden silhouette of the ancient fort.|हमने प्राचीन किले की सुनहरी परछाई की प्रशंसा की।
+RANDOM|The meteorological bureau predicted heavy rainfall tomorrow.|मौसम विज्ञान ब्यूरो ने कल भारी बारिश की भविष्यवाणी की है।
+RANDOM|Never underestimate the value of daily pronunciation drills.|दैनिक उच्चारण अभ्यास के मूल्य को कभी कम मत आंकिए।
+RANDOM|The pastry chef baked delicious almond croissants today.|पेस्ट्री शेफ ने आज स्वादिष्ट बादाम क्रोइसैन बेक किए।
+RANDOM|Her spontaneous laughter brightened the entire atmosphere.|उनकी स्वाभाविक हंसी ने पूरे माहौल को खुशनुमा बना दिया।
+RANDOM|The camouflaged vehicle moved silently through the woods.|छलावरण वाला वाहन जंगल से होकर चुपचाप आगे बढ़ा।
+RANDOM|Please emphasize the stressed syllable in each word.|कृपया प्रत्येक शब्द में ज़ोर दिए जाने वाले शब्दांश पर बल दें।
+RANDOM|The massive reservoir supplies drinking water to millions.|विशाल जलाशय लाखों लोगों को पीने का पानी उपलब्ध कराता है।
+RANDOM|He showed tremendous perseverance throughout the challenge.|उन्होंने पूरी चुनौती के दौरान ज़बरदस्त दृढ़ता दिखाई।
+RANDOM|A clear conscience is the softest pillow to sleep on.|एक साफ अंतरात्मा सोने के लिए सबसे मुलायम तकिया है।
+RANDOM|Could you recommend an experienced financial consultant?|क्या आप एक अनुभवी वित्तीय सलाहकार की सिफ़ारिश कर सकते हैं?
+RANDOM|The annual maintenance fee is payable in January.|वार्षिक रखरखाव शुल्क जनवरी में देय है।
+RANDOM|She inherited a picturesque vineyard in the valley.|उसे घाटी में एक सुरम्य अंगूर का बाग विरासत में मिला।
+RANDOM|The updated curriculum focuses on conversational fluency.|अद्यतन पाठ्यक्रम संवादात्मक प्रवाह पर केंद्रित है।
+RANDOM|Please verify the signature on the legal agreement.|कृपया कानूनी समझौते पर हस्ताक्षर की पुष्टि करें।
+RANDOM|The kaleidoscope displayed mesmerizing geometric symmetries.|बहुरूपदर्शक ने मंत्रमुग्ध कर देने वाली ज्यामितीय समरूपताएं दिखाईं।
+RANDOM|He delivered a poignant farewell speech to his colleagues.|उन्होंने अपने सहयोगियों को एक मार्मिक विदाई भाषण दिया।
+RANDOM|The chameleon blended seamlessly with the tree bark.|गिरगिट पेड़ की छाल के साथ सहजता से घुल-मिल गया।
+RANDOM|Daily tongue twisters enhance articulation speed and accuracy.|दैनिक टंग ट्विस्टर्स उच्चारण की गति और सटीकता बढ़ाते हैं।
+RANDOM|Six sleek swans swam swiftly southwards.|छह चिकने हंस तेज़ी से दक्षिण की ओर तैरे।
+RANDOM|Toy boat, toy boat, toy boat on the blue water.|खिलौना नाव, खिलौना नाव, नीले पानी पर खिलौना नाव।
+RANDOM|She sees cheese, he sees cheese, everyone sees cheese.|वह पनीर देखती है, वह पनीर देखता है, हर कोई पनीर देखता है।
+RANDOM|Flash message, flash message, fresh flash message.|फ्लैश संदेश, फ्लैश संदेश, ताज़ा फ्लैश संदेश।
+RANDOM|A noisy noise annoys an oyster most.|एक शोरगुल वाला शोर एक सीप को सबसे अधिक परेशान करता है।
+RANDOM|Blue bluebird, black blackbird, bright red robin.|नीला नीलकंठ, काला कस्तूरा, चमकीला लाल रॉबिन।
+RANDOM|Twelve twins twirled twelve twigs together.|बारह जुड़वा बच्चों ने एक साथ बारह टहनियाँ घुमाईं।
+RANDOM|Lesser leather never weathered wetter weather better.|हल्के चमड़े ने कभी भी गीले मौसम का बेहतर सामना नहीं किया।
+RANDOM|Which witch switched the Swiss wristwatches?|किस जादूगरनी ने स्विस कलाई घड़ियाँ बदलीं?
+RANDOM|Friendly fleas and fireflies flew freely.|मित्रवत पिस्सू और जुगनू स्वतंत्र रूप से उड़े।
+RANDOM|How many berries could a bare berry carry?|एक खाली बेरी कितनी बेरी ले जा सकती है?
+RANDOM|We surely shall see the sunshine soon.|हम निश्चित रूप से जल्द ही धूप देखेंगे।
+RANDOM|Two tried and true tridents stood tall.|दो परखे हुए और सच्चे त्रिशूल ऊँचे खड़े थे।
+RANDOM|Cooks cook cupcakes quickly in the kitchen.|रसोइए रसोई में जल्दी से कपकेक पकाते हैं।
+RANDOM|Susie works in a shoeshine shop on Saturday.|सूजी शनिवार को जूते चमकाने वाली दुकान में काम करती है।
+RANDOM|Great gray geese grazed green grass gracefully.|बड़े भूरे हंसों ने शालीनता से हरी घास चरी।
+RANDOM|Seven slick slimy snakes slowly sliding southward.|सात चिकने फिसलन भरे सांप धीरे-धीरे दक्षिण की ओर सरक रहे हैं।
+RANDOM|Crisp crusts crackle and crunch cleanly.|कुरकुरी पपड़ी साफ़-साफ़ चटकती और चरमराती है।
+RANDOM|Practicing aloud every morning transforms your spoken English.|हर सुबह ज़ोर से अभ्यास करना आपकी स्पोकन इंग्लिश को बदल देता है।
+RANDOM|The psychologist explained how memory and habit work together.|मनोवैज्ञानिक ने समझाया कि स्मृति और आदत एक साथ कैसे काम करते हैं।
+RANDOM|Please pronounce the words island, debt, and subtle carefully.|कृपया island, debt और subtle शब्दों का उच्चारण सावधानी से करें।
+RANDOM|He wrapped the fragile porcelain vase in bubble wrap.|उसने नाज़ुक चीनी मिट्टी के फूलदान को बबल रैप में लपेटा।
+RANDOM|The autumn breeze whispered softly through the tall pines.|शरद ऋतु की हवा ऊँचे चीड़ के पेड़ों से होकर धीरे से फुसफुसाई।
+RANDOM|Regular listening and repeating build authentic pronunciation.|नियमित सुनना और दोहराना प्रामाणिक उच्चारण बनाता है।
+RANDOM|The entrepreneur pitched an innovative business strategy.|उद्यमी ने एक नवीन व्यावसायिक रणनीति प्रस्तुत की।
+RANDOM|Could you pronounce thorough, through, and though distinctly?|क्या आप thorough, through और though का उच्चारण अलग-अलग कर सकते हैं?
+RANDOM|She scheduled a physiotherapy session for next Wednesday.|उसने अगले बुधवार के लिए एक फिजियोथेरेपी सत्र निर्धारित किया।
+RANDOM|The magnificent waterfall cascaded down the rocky cliff.|शानदार झरना चट्टानी पहाड़ी से नीचे गिर रहा था।
+RANDOM|Clear pronunciation helps people understand you effortlessly.|स्पष्ट उच्चारण लोगों को आपकी बात आसानी से समझने में मदद करता है।
 WORD | Reluctant | रिलक्टेंट | अनिच्छुक / हिचकिचाना | He was reluctant to speak English in public.
 WORD | Diligent | डिलिजेंट | मेहनती और लगनशील | She is a very diligent student.
 WORD | Inevitable | इनएविटेबल | जिसे टाला न जा सके | Change is inevitable in life.
