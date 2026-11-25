@@ -13,7 +13,21 @@ DAY | 1 | Day 1: Greetings & Intro | It is a genuine pleasure to meet you. | आ
 DAY | 1 | Day 1: Greetings & Intro | Have a good night and take care of yourself. | शुभ रात्रि और अपना ख्याल रखिएगा।
 DAY | 1 | Day 1: Greetings & Intro | Catch you later, stay in touch! | बाद में मिलते हैं, संपर्क में रहिएगा!
 DAY | 1 | Day 1: Greetings & Intro | Goodbye! Hope to see you again soon. | अलविदा! उम्मीद है जल्द ही फिर मुलाकात होगी।
-DAY | 2 | Day 2: Polite Requests | Could you please help me? | क्या आप कृपया मेरी मदद कर सकते हैं?
+DAY | 2 | Day 2: Polite Requests | Could you please help me with this? | क्या आप कृपया इसमें मेरी मदद कर सकते हैं?
+DAY | 2 | Day 2: Polite Requests | Would you mind passing me the water bottle? | क्या आप कृपया मुझे पानी की बोतल पकड़ा देंगे?
+DAY | 2 | Day 2: Polite Requests | Could you please repeat what you just said? | क्या आप कृपया दोहराएंगे कि आपने अभी क्या कहा?
+DAY | 2 | Day 2: Polite Requests | May I use your pen for a moment, please? | क्या मैं एक पल के लिए आपका पेन इस्तेमाल कर सकता हूँ?
+DAY | 2 | Day 2: Polite Requests | Could you please speak a little more slowly? | क्या आप कृपया थोड़ा और धीरे बोलेंगे?
+DAY | 2 | Day 2: Polite Requests | Would you please check this document once? | क्या आप कृपया इस दस्तावेज़ को एक बार जांच लेंगे?
+DAY | 2 | Day 2: Polite Requests | Can you do me a small favor today? | क्या आप आज मेरा एक छोटा सा काम कर सकते हैं?
+DAY | 2 | Day 2: Polite Requests | Please let me know when you are free. | कृपया मुझे बता दें जब आप खाली हों।
+DAY | 2 | Day 2: Polite Requests | Could you kindly send me the details on WhatsApp? | क्या आप कृपया मुझे व्हाट्सएप पर विवरण भेज देंगे?
+DAY | 2 | Day 2: Polite Requests | Would you mind waiting here for five minutes? | क्या आपको यहाँ पाँच मिनट इंतज़ार करने में कोई आपत्ति तो नहीं?
+DAY | 2 | Day 2: Polite Requests | Excuse me, could you please tell me the way to the station? | माफ़ कीजिए, क्या आप कृपया मुझे स्टेशन का रास्ता बता सकते हैं?
+DAY | 2 | Day 2: Polite Requests | Please bear with me while I check the file. | कृपया थोड़ा धैर्य रखें जब तक मैं फ़ाइल देख रहा हूँ।
+DAY | 2 | Day 2: Polite Requests | Could you please turn down the volume a bit? | क्या आप कृपया आवाज़ थोड़ी कम कर देंगे?
+DAY | 2 | Day 2: Polite Requests | I would really appreciate it if you could guide me. | यदि आप मेरा मार्गदर्शन कर सकें तो मैं वास्तव में आभारी रहूँगा।
+DAY | 2 | Day 2: Polite Requests | Thank you so much for your kind cooperation. | आपके विनम्र सहयोग के लिए बहुत-बहुत धन्यवाद।
 RANDOM | Better late than never. | देर आए दुरुस्त आए।
 RANDOM | Things will fall into place soon. | जल्द ही सब कुछ ठीक हो जाएगा।
 RANDOM | I am running a little behind schedule today. | आज मैं अपने तय समय से थोड़ा पीछे चल रहा हूँ।
