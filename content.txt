@@ -119,6 +119,59 @@ WORD | Knack | नैक | खास हुनर / कला | She has a knack 
 WORD | Linger | लिंगर | देर तक ठहरना | The fragrance of flowers lingered in the room.
 WORD | Mediocre | मीडियोकर | औसत दर्जे का | Do not settle for mediocre results.
 WORD | Nurture | नर्चर | पालन-पोषण करना | Parents nurture their children with love.
+WORD | Empathize | एम्पेथाइज़ | दूसरे का दर्द समझना | I can completely empathize with your situation.
+WORD | Wary | वेरी | सतर्क / सावधान | Be wary of fake online offers.
+WORD | Gratitude | ग्रैटिट्यूड | आभार / कृतज्ञता | Express gratitude for what you have.
+WORD | Hinder | हिंडर | बाधा डालना / रोकना | Bad weather may hinder our travel plans.
+WORD | Impeccable | इम्पेकेबल | त्रुटिहीन / बिल्कुल सटीक | Her English pronunciation is impeccable.
+WORD | Jeopardize | जेपर्डाइज़ | ख़तरे में डालना | Do not jeopardize your career for small gains.
+WORD | Keen | कीन | उत्सुक / इच्छुक | He is very keen to learn spoken English.
+WORD | Lucid | ल्यूसिड | सरल और स्पष्ट | The teacher explained the topic in a lucid manner.
+WORD | Pessimistic | पेसिमिस्टिक | निराशावादी | Do not be pessimistic before trying.
+WORD | Pragmatic | प्रैग्मैटिक | व्यावहारिक | We need a pragmatic solution to this problem.
+WORD | Acumen | एक्यूमेन | कुशाग्र बुद्धि / तेज़ समझ | Her business acumen helped the company grow fast.
+WORD | Pragmatic | प्रैग्मैटिक | व्यावहारिक / यथार्थवादी | We need a pragmatic approach to solve this issue.
+WORD | Quench | क्वेंच | प्यास बुझाना | Drink cold water to quench your thirst.
+WORD | Reckless | रेकलेस | लापरवाह / जल्दबाज़ | Reckless driving causes serious accidents.
+WORD | Scrutinize | स्क्रूटिनाइज़ | बारीकी से जांच करना | Please scrutinize the documents before signing.
+WORD | Tangible | टैंजिबल | ठोस / जिसे महसूस किया जा सके | We need tangible results this month.
+WORD | Unanimous | यूनैनिमस | एकमत / सर्वसम्मत | The committee took a unanimous decision.
+WORD | Vulnerable | वल्नरेबल | असुरक्षित / कमज़ोर | Children are vulnerable to seasonal flu.
+WORD | Wary | वेरी | सतर्क / सावधान | Be wary of fake online offers.
+WORD | Yearn | यर्न | किसी चीज़ के लिए तड़पना | Many people yearn for peace of mind.
+WORD | Zealous | ज़ेलस | उत्साही / जोशीला | He is a zealous supporter of fitness.
+WORD | Abundant | अबंडेंट | प्रचुर मात्रा में | India has abundant solar energy potential.
+WORD | Brisk | ब्रिस्क | तेज़ और फुर्तीला | A brisk morning walk keeps you healthy.
+WORD | Coincidence | कोइंसिडेंस | संयोग | Meeting you at the station was a pure coincidence.
+WORD | Deteriorate | डिटेरियोरेट | स्थिति और बिगड़ना | His health began to deteriorate suddenly.
+WORD | Endeavor | एंडेवर | प्रयास / कोशिश | Success comes through continuous endeavor.
+WORD | Feasible | फ़ीज़िबल | संभव / व्यावहारिक | Is this plan financially feasible for us?
+WORD | Gullible | गलिबल | भोला / आसानी से ठगा जाने वाला | Gullible people easily believe rumors.
+WORD | Haphazard | हैपहज़र्ड | अस्त-व्यस्त / बिना योजना के | The books were kept in a haphazard manner.
+WORD | Illuminate | इल्यूमिनेट | रोशन करना / स्पष्ट करना | Streetlights illuminate the entire road at night.
+WORD | Jovial | जोवियल | हंसमुख / खुशमिज़ाज | Everyone likes his jovial nature.
+WORD | Kindle | किंडल | जगाना / प्रेरित करना | Good books kindle curiosity in young minds.
+WORD | Lethal | लीथल | जानलेवा / घातक | Snake venom can be lethal if untreated.
+WORD | Mundane | मंडे्न | रोज़मर्रा का उबाऊ काम | He wanted a break from his mundane routine.
+WORD | Negligible | नेग्लिजिबल | न के बराबर | The difference in price is negligible.
+WORD | Tedious | टीडियस | थकाऊ और उबाऊ | Filling long forms can be very tedious.
+WORD | Ubiquitous | यूबिक्विटस | सर्वव्यापी / हर जगह मौजूद | Smartphones have become ubiquitous nowadays.
+WORD | Vivid | विविड | जीवंत / स्पष्ट | I still have vivid memories of my childhood.
+WORD | Whimsical | व्हिम्ज़िकल | मनमौजी / सनकी | He often makes whimsical decisions.
+WORD | Accomplish | अकम्प्लिश | पूरा करना / हासिल करना | You can accomplish anything with focus.
+WORD | Bewildered | बिविल्डर्ड | हक्का-बक्का / भ्रमित | He looked bewildered by the sudden question.
+WORD | Commence | कमेंस | शुरू करना | The meeting will commence at 10 AM sharp.
+WORD | Devastate | डेवास्टेट | तबाह करना | Heavy floods can devastate crops.
+WORD | Elaborate | इलैबोरेट | विस्तार से बताना | Could you please elaborate on this point?
+WORD | Fragile | फ्रैजाइल | नाज़ुक / आसानी से टूटने वाला | Handle this glass box carefully, it is fragile.
+WORD | Grumpy | ग्रम्पी | चिड़चिड़ा | He gets grumpy when he skips breakfast.
+WORD | Humiliate | ह्यूमिलिएट | अपमानित करना | Never humiliate anyone in front of others.
+WORD | Imitate | इमिटेट | नकल करना | Children quickly imitate what elders do.
+WORD | Judicious | जूडिशियस | समझदारी भरा / विवेकपूर्ण | Make judicious use of your time and money.
+WORD | Knack | नैक | खास हुनर / कला | She has a knack for solving tough puzzles.
+WORD | Linger | लिंगर | देर तक ठहरना | The fragrance of flowers lingered in the room.
+WORD | Mediocre | मीडियोकर | औसत दर्जे का | Do not settle for mediocre results.
+WORD | Nurture | नर्चर | पालन-पोषण करना | Parents nurture their children with love.
 WORD | Overwhelm | ओवरव्हेल्म | अभिभूत कर देना / हावी होना | Do not let stress overwhelm you.
 WORD | Peculiar | पिक्यूलियर | अजीब / अनोखा | This fruit has a very peculiar taste.
 WORD | Relieve | रिलीव | राहत देना | Warm tea helps relieve a sore throat.
