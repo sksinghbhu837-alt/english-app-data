@@ -1,4 +1,162 @@
-DAY | 1 | Day 1: Greetings & Intro | Good morning, have a wonderful day ahead. | सुप्रभात, आपका आने वाला दिन शुभ हो।
+CAT|🌶️|Spices (मसालों के नाम)|Turmeric|हल्दी
+CAT|🌶️|Spices (मसालों के नाम)|Cumin|जीरा
+CAT|🌶️|Spices (मसालों के नाम)|Coriander|धनिया
+CAT|🌶️|Spices (मसालों के नाम)|Cardamom|इलायची
+CAT|🌶️|Spices (मसालों के नाम)|Clove|लौंग
+CAT|🌶️|Spices (मसालों के नाम)|Cinnamon|दालचीनी
+CAT|🌶️|Spices (मसालों के नाम)|Black Pepper|काली मिर्च
+CAT|🌶️|Spices (मसालों के नाम)|Mustard Seeds|सरसों / राई
+CAT|🌶️|Spices (मसालों के नाम)|Fenugreek|मेथी
+CAT|🌶️|Spices (मसालों के नाम)|Asafoetida|हींग
+CAT|🌶️|Spices (मसालों के नाम)|Fennel Seeds|सौंफ
+CAT|🌶️|Spices (मसालों के नाम)|Bay Leaf|तेज पत्ता
+CAT|🌶️|Spices (मसालों के नाम)|Nutmeg|जायफल
+CAT|🌶️|Spices (मसालों के नाम)|Saffron|केसर
+CAT|🌶️|Spices (मसालों के नाम)|Carom Seeds|अजवाइन
+
+CAT|👨‍👩‍👧‍👦|Relations (रिश्ते-नाते)|Paternal Uncle|चाचा / ताऊ
+CAT|👨‍👩‍👧‍👦|Relations (रिश्ते-नाते)|Paternal Aunt|चाची / ताई
+CAT|👨‍👩‍👧‍👦|Relations (रिश्ते-नाते)|Maternal Uncle|मामा
+CAT|👨‍👩‍👧‍👦|Relations (रिश्ते-नाते)|Maternal Aunt|मामी
+CAT|👨‍👩‍👧‍👦|Relations (रिश्ते-नाते)|Sister-in-law|भाभी / साली / ननद
+CAT|👨‍👩‍👧‍👦|Relations (रिश्ते-नाते)|Brother-in-law|साला / जीजा / देवर
+CAT|👨‍👩‍👧‍👦|Relations (रिश्ते-नाते)|Father-in-law|ससुर
+CAT|👨‍👩‍👧‍👦|Relations (रिश्ते-नाते)|Mother-in-law|सास
+CAT|👨‍👩‍👧‍👦|Relations (रिश्ते-नाते)|Nephew|भतीजा / भांजा
+CAT|👨‍👩‍👧‍👦|Relations (रिश्ते-नाते)|Niece|भतीजी / भांजी
+CAT|👨‍👩‍👧‍👦|Relations (रिश्ते-नाते)|Cousin|चचेरा / ममेरा भाई-बहन
+CAT|👨‍👩‍👧‍👦|Relations (रिश्ते-नाते)|Maternal Grandfather|नाना
+CAT|👨‍👩‍👧‍👦|Relations (रिश्ते-नाते)|Maternal Grandmother|नानी
+CAT|👨‍👩‍👧‍👦|Relations (रिश्ते-नाते)|Son-in-law|दामाद
+CAT|👨‍👩‍👧‍👦|Relations (रिश्ते-नाते)|Daughter-in-law|बहू
+
+CAT|🫀|Body Parts (शरीर के अंग)|Forehead|माथा
+CAT|🫀|Body Parts (शरीर के अंग)|Eyebrow|भौंह
+CAT|🫀|Body Parts (शरीर के अंग)|Eyelash|पलक
+CAT|🫀|Body Parts (शरीर के अंग)|Cheek|गाल
+CAT|🫀|Body Parts (शरीर के अंग)|Chin|ठुड्डी
+CAT|🫀|Body Parts (शरीर के अंग)|Shoulder|कंधा
+CAT|🫀|Body Parts (शरीर के अंग)|Elbow|कोहनी
+CAT|🫀|Body Parts (शरीर के अंग)|Wrist|कलाई
+CAT|🫀|Body Parts (शरीर के अंग)|Palm|हथेली
+CAT|🫀|Body Parts (शरीर के अंग)|Thumb|अंगूठा
+CAT|🫀|Body Parts (शरीर के अंग)|Waist|कमर
+CAT|🫀|Body Parts (शरीर के अंग)|Knee|घुटना
+CAT|🫀|Body Parts (शरीर के अंग)|Ankle|टखना
+CAT|🫀|Body Parts (शरीर के अंग)|Heel|एड़ी
+CAT|🫀|Body Parts (शरीर के अंग)|Ribs|पसलियाँ
+
+CAT|💼|Professions (व्यवसाय और पेशे)|Accountant|मुनीम / लेखाकार
+CAT|💼|Professions (व्यवसाय और पेशे)|Advocate|वकील
+CAT|💼|Professions (व्यवसाय और पेशे)|Architect|वास्तुकार / नक्शा बनाने वाला
+CAT|💼|Professions (व्यवसाय और पेशे)|Carpenter|बढ़ई
+CAT|💼|Professions (व्यवसाय और पेशे)|Plumber|नल ठीक करने वाला
+CAT|💼|Professions (व्यवसाय और पेशे)|Electrician|बिजली मिस्त्री
+CAT|💼|Professions (व्यवसाय और पेशे)|Mason|राजमिस्त्री
+CAT|💼|Professions (व्यवसाय और पेशे)|Blacksmith|लोहार
+CAT|💼|Professions (व्यवसाय और पेशे)|Goldsmith|सुनार
+CAT|💼|Professions (व्यवसाय और पेशे)|Cobbler|मोची
+CAT|💼|Professions (व्यवसाय और पेशे)|Tailor|दर्जी
+CAT|💼|Professions (व्यवसाय और पेशे)|Pharmacist|दवा विक्रेता
+CAT|💼|Professions (व्यवसाय और पेशे)|Surgeon|शल्य चिकित्सक
+CAT|💼|Professions (व्यवसाय और पेशे)|Journalist|पत्रकार
+CAT|💼|Professions (व्यवसाय और पेशे)|Contractor|ठेकेदार
+
+CAT|🏥|Health & Illness (स्वास्थ्य और बीमारियाँ)|Fever|बुखार
+CAT|🏥|Health & Illness (स्वास्थ्य और बीमारियाँ)|Headache|सिरदर्द
+CAT|🏥|Health & Illness (स्वास्थ्य और बीमारियाँ)|Stomachache|पेट दर्द
+CAT|🏥|Health & Illness (स्वास्थ्य और बीमारियाँ)|Cough|खाँसी
+CAT|🏥|Health & Illness (स्वास्थ्य और बीमारियाँ)|Cold|जुकाम
+CAT|🏥|Health & Illness (स्वास्थ्य और बीमारियाँ)|Sore Throat|गले में खराश
+CAT|🏥|Health & Illness (स्वास्थ्य और बीमारियाँ)|Dizziness|चक्कर आना
+CAT|🏥|Health & Illness (स्वास्थ्य और बीमारियाँ)|Fatigue|थकान / कमज़ोरी
+CAT|🏥|Health & Illness (स्वास्थ्य और बीमारियाँ)|Indigestion|अपच / बदहज़मी
+CAT|🏥|Health & Illness (स्वास्थ्य और बीमारियाँ)|Swelling|सूजन
+CAT|🏥|Health & Illness (स्वास्थ्य और बीमारियाँ)|Sprain|मोच
+CAT|🏥|Health & Illness (स्वास्थ्य और बीमारियाँ)|Bruise|चोट का निशान / नील पड़ना
+CAT|🏥|Health & Illness (स्वास्थ्य और बीमारियाँ)|Prescription|डॉक्टर का पर्चा
+CAT|🏥|Health & Illness (स्वास्थ्य और बीमारियाँ)|Ointment|मरहम
+CAT|🏥|Health & Illness (स्वास्थ्य और बीमारियाँ)|Immunity|रोग प्रतिरोधक क्षमता
+
+CAT|🍳|Kitchen & Utensils (रसोई और बर्तन)|Rolling Pin|बेलन
+CAT|🍳|Kitchen & Utensils (रसोई और बर्तन)|Rolling Board|चकला
+CAT|🍳|Kitchen & Utensils (रसोई और बर्तन)|Griddle|तवा
+CAT|🍳|Kitchen & Utensils (रसोई और बर्तन)|Wok|कड़ाही
+CAT|🍳|Kitchen & Utensils (रसोई और बर्तन)|Tongs|चिमटा
+CAT|🍳|Kitchen & Utensils (रसोई और बर्तन)|Ladle|करछुल / कलछी
+CAT|🍳|Kitchen & Utensils (रसोई और बर्तन)|Strainer|छलनी
+CAT|🍳|Kitchen & Utensils (रसोई और बर्तन)|Peeler|छीलने वाला चाकू
+CAT|🍳|Kitchen & Utensils (रसोई और बर्तन)|Grater|कद्दूकस
+CAT|🍳|Kitchen & Utensils (रसोई और बर्तन)|Mortar and Pestle|ओखली और मूसल
+CAT|🍳|Kitchen & Utensils (रसोई और बर्तन)|Lid|ढक्कन
+CAT|🍳|Kitchen & Utensils (रसोई और बर्तन)|Saucer|तश्तरी
+CAT|🍳|Kitchen & Utensils (रसोई और बर्तन)|Apron|रसोई का एप्रन
+CAT|🍳|Kitchen & Utensils (रसोई और बर्तन)|Whisk|फेंटने वाला यंत्र
+CAT|🍳|Kitchen & Utensils (रसोई और बर्तन)|Spatula|पलटा
+
+CAT|🥦|Vegetables & Fruits (सब्ज़ियाँ और फल)|Bitter Gourd|करेला
+CAT|🥦|Vegetables & Fruits (सब्ज़ियाँ और फल)|Bottle Gourd|लौकी
+CAT|🥦|Vegetables & Fruits (सब्ज़ियाँ और फल)|Ridge Gourd|तोरई / नेनुआ
+CAT|🥦|Vegetables & Fruits (सब्ज़ियाँ और फल)|Okra / Ladyfinger|भिंडी
+CAT|🥦|Vegetables & Fruits (सब्ज़ियाँ और फल)|Eggplant / Brinjal|बैंगन
+CAT|🥦|Vegetables & Fruits (सब्ज़ियाँ और फल)|Cauliflower|फूलगोभी
+CAT|🥦|Vegetables & Fruits (सब्ज़ियाँ और फल)|Cabbage|पत्तागोभी
+CAT|🥦|Vegetables & Fruits (सब्ज़ियाँ और फल)|Spinach|पालक
+CAT|🥦|Vegetables & Fruits (सब्ज़ियाँ और फल)|Radish|मूली
+CAT|🥦|Vegetables & Fruits (सब्ज़ियाँ और फल)|Turnip|शलजम
+CAT|🥦|Vegetables & Fruits (सब्ज़ियाँ और फल)|Pomegranate|अनार
+CAT|🥦|Vegetables & Fruits (सब्ज़ियाँ और फल)|Guava|अमरूद
+CAT|🥦|Vegetables & Fruits (सब्ज़ियाँ और फल)|Papaya|पपीता
+CAT|🥦|Vegetables & Fruits (सब्ज़ियाँ और फल)|Watermelon|तरबूज
+CAT|🥦|Vegetables & Fruits (सब्ज़ियाँ और फल)|Custard Apple|शरीफा / सीताफल
+
+CAT|🏠|Household Items (घरेलू सामान)|Broom|झाड़ू
+CAT|🏠|Household Items (घरेलू सामान)|Mop|पोंछा
+CAT|🏠|Household Items (घरेलू सामान)|Bucket|बाल्टी
+CAT|🏠|Household Items (घरेलू सामान)|Mattress|गद्दा
+CAT|🏠|Household Items (घरेलू सामान)|Pillow|तकिया
+CAT|🏠|Household Items (घरेलू सामान)|Blanket|कंबल
+CAT|🏠|Household Items (घरेलू सामान)|Curtain|पर्दा
+CAT|🏠|Household Items (घरेलू सामान)|Doormat|पायदान
+CAT|🏠|Household Items (घरेलू सामान)|Mirror|शीशा / आईना
+CAT|🏠|Household Items (घरेलू सामान)|Comb|कंघी
+CAT|🏠|Household Items (घरेलू सामान)|Hanger|कपड़े टांगने का हैंगर
+CAT|🏠|Household Items (घरेलू सामान)|Dustbin|कूड़ेदान
+CAT|🏠|Household Items (घरेलू सामान)|Extension Cord|बिजली का एक्सटेंशन बोर्ड
+CAT|🏠|Household Items (घरेलू सामान)|Padlock|ताला
+CAT|🏠|Household Items (घरेलू सामान)|Ladder|सीढ़ी
+
+CAT|😊|Emotions & Nature (स्वभाव और भावनाएं)|Honest|ईमानदार
+CAT|😊|Emotions & Nature (स्वभाव और भावनाएं)|Generous|उदार / दयालु
+CAT|😊|Emotions & Nature (स्वभाव और भावनाएं)|Polite|विनम्र
+CAT|😊|Emotions & Nature (स्वभाव और भावनाएं)|Stubborn|ज़िद्दी
+CAT|😊|Emotions & Nature (स्वभाव और भावनाएं)|Shy|शर्मीला
+CAT|😊|Emotions & Nature (स्वभाव और भावनाएं)|Brave|बहादुर
+CAT|😊|Emotions & Nature (स्वभाव और भावनाएं)|Patient|धैर्यवान
+CAT|😊|Emotions & Nature (स्वभाव और भावनाएं)|Greedy|लालची
+CAT|😊|Emotions & Nature (स्वभाव और भावनाएं)|Jealous|ईर्ष्यालु / जलने वाला
+CAT|😊|Emotions & Nature (स्वभाव और भावनाएं)|Optimistic|आशावादी
+CAT|😊|Emotions & Nature (स्वभाव और भावनाएं)|Pessimistic|निराशावादी
+CAT|😊|Emotions & Nature (स्वभाव और भावनाएं)|Arrogant|घमंडी
+CAT|😊|Emotions & Nature (स्वभाव और भावनाएं)|Humble|विनम्र / सादा स्वभाव वाला
+CAT|😊|Emotions & Nature (स्वभाव और भावनाएं)|Reliable|भरोसेमंद
+CAT|😊|Emotions & Nature (स्वभाव और भावनाएं)|Cheerful|हँसमुख / खुशमिजाज़
+
+CAT|🌦️|Weather & Nature (मौसम और प्रकृति)|Drizzle|बूंदाबांदी
+CAT|🌦️|Weather & Nature (मौसम और प्रकृति)|Downpour|मूसलाधार बारिश
+CAT|🌦️|Weather & Nature (मौसम और प्रकृति)|Thunderstorm|आंधी-तूफ़ान
+CAT|🌦️|Weather & Nature (मौसम और प्रकृति)|Lightning|बिजली चमकना
+CAT|🌦️|Weather & Nature (मौसम और प्रकृति)|Fog|कोहरा
+CAT|🌦️|Weather & Nature (मौसम और प्रकृति)|Dew|ओस
+CAT|🌦️|Weather & Nature (मौसम और प्रकृति)|Humidity|उमस / नमी
+CAT|🌦️|Weather & Nature (मौसम और प्रकृति)|Heatwave|लू / तेज़ गर्मी
+CAT|🌦️|Weather & Nature (मौसम और प्रकृति)|Cold Wave|शीतलहर
+CAT|🌦️|Weather & Nature (मौसम और प्रकृति)|Breeze|ठंडी और हल्की हवा
+CAT|🌦️|Weather & Nature (मौसम और प्रकृति)|Hailstorm|ओलावृष्टि / ओले पड़ना
+CAT|🌦️|Weather & Nature (मौसम और प्रकृति)|Rainbow|इंद्रधनुष
+CAT|🌦️|Weather & Nature (मौसम और प्रकृति)|Drought|सूखा / अकाल
+CAT|🌦️|Weather & Nature (मौसम और प्रकृति)|Flood|बाढ़
+CAT|🌦️|Weather & Nature (मौसम और प्रकृति)|Earthquake|भूकंपDAY | 1 | Day 1: Greetings & Intro | Good morning, have a wonderful day ahead. | सुप्रभात, आपका आने वाला दिन शुभ हो।
 DAY | 1 | Day 1: Greetings & Intro | Good afternoon, how is your day going so far? | नमस्कार (दोपहर), आपका दिन अब तक कैसा जा रहा है?
 DAY | 1 | Day 1: Greetings & Intro | Good evening, it is great to see you again. | शुभ संध्या, आपको फिर से देखकर बहुत अच्छा लगा।
 DAY | 1 | Day 1: Greetings & Intro | How are you doing today? | आज आप कैसे हैं?
