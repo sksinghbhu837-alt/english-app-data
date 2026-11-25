@@ -1,3 +1,103 @@
+PATTERN|PATTERN 1: इच्छा ज़ाहिर करना|I feel like + [Verb-ing]|मेरा [कोई काम] करने का मन कर रहा है।|I feel like drinking a hot cup of tea.|मेरा एक कप गर्म चाय पीने का मन कर रहा है।
+PATTERN|PATTERN 1: इच्छा ज़ाहिर करना|I feel like + [Verb-ing]|मेरा [कोई काम] करने का मन कर रहा है।|I feel like going for a long walk today.|मेरा आज लंबी सैर पर जाने का मन कर रहा है।
+PATTERN|PATTERN 1: इच्छा ज़ाहिर करना|I feel like + [Verb-ing]|मेरा [कोई काम] करने का मन कर रहा है।|I do not feel like talking to anyone right now.|मेरा अभी किसी से बात करने का मन नहीं कर रहा है।
+
+PATTERN|PATTERN 2: आदत होना|I am used to + [Verb-ing]|मुझे [कोई काम] करने की आदत है।|I am used to waking up early in the morning.|मुझे सुबह जल्दी उठने की आदत है।
+PATTERN|PATTERN 2: आदत होना|I am used to + [Verb-ing]|मुझे [कोई काम] करने की आदत है।|He is used to working under strict deadlines.|उसे सख्त समय-सीमा में काम करने की आदत है।
+PATTERN|PATTERN 2: आदत होना|I am used to + [Verb-ing]|मुझे [कोई काम] करने की आदत है।|You will soon get used to speaking English.|आपको जल्द ही इंग्लिश बोलने की आदत हो जाएगी।
+
+PATTERN|PATTERN 3: विनम्र अनुरोध करना|Would you mind + [Verb-ing]?|क्या आपको [कोई काम] करने में कोई परेशानी होगी?|Would you mind opening the window a bit?|क्या आपको खिड़की थोड़ी खोलने में कोई परेशानी होगी?
+PATTERN|PATTERN 3: विनम्र अनुरोध करना|Would you mind + [Verb-ing]?|क्या आपको [कोई काम] करने में कोई परेशानी होगी?|Would you mind repeating that sentence slowly?|क्या आपको वह वाक्य धीरे-धीरे दोहराने में कोई परेशानी होगी?
+PATTERN|PATTERN 3: विनम्र अनुरोध करना|Would you mind + [Verb-ing]?|क्या आपको [कोई काम] करने में कोई परेशानी होगी?|Would you mind waiting for five minutes?|क्या आपको पाँच मिनट इंतज़ार करने में कोई परेशानी होगी?
+
+PATTERN|PATTERN 4: कोई काम होने वाला है|I am about to + [Verb 1]|मैं बस [कोई काम] करने ही वाला हूँ।|I am about to leave for the office now.|मैं बस अभी ऑफिस के लिए निकलने ही वाला हूँ।
+PATTERN|PATTERN 4: कोई काम होने वाला है|I am about to + [Verb 1]|मैं बस [कोई काम] करने ही वाला हूँ।|The train is about to arrive at the station.|ट्रेन बस स्टेशन पर पहुँचने ही वाली है।
+PATTERN|PATTERN 4: कोई काम होने वाला है|I am about to + [Verb 1]|मैं बस [कोई काम] करने ही वाला हूँ।|She was about to call you when you arrived.|जब आप पहुँचे तो वह बस आपको फ़ोन करने ही वाली थी।
+
+PATTERN|PATTERN 5: कोई काम करना पड़ता है (मजबूरी/ज़रूरत)|I have to + [Verb 1]|मुझे [कोई काम] करना पड़ता है / करना है।|I have to finish this report before evening.|मुझे शाम से पहले यह रिपोर्ट पूरी करनी है।
+PATTERN|PATTERN 5: कोई काम करना पड़ता है (मजबूरी/ज़रूरत)|I have to + [Verb 1]|मुझे [कोई काम] करना पड़ता है / करना है।|We have to follow all the traffic rules.|हमें यातायात के सभी नियमों का पालन करना पड़ता है।
+PATTERN|PATTERN 5: कोई काम करना पड़ता है (मजबूरी/ज़रूरत)|I have to + [Verb 1]|मुझे [कोई काम] करना पड़ता है / करना है।|He had to cancel his trip due to rain.|बारिश के कारण उसे अपनी यात्रा रद्द करनी पड़ी।
+
+PATTERN|PATTERN 6: कोई फ़ायदा नहीं है|It is no use + [Verb-ing]|[कोई काम] करने का कोई फ़ायदा नहीं है।|It is no use worrying about the past.|बीते हुए कल के बारे में चिंता करने का कोई फ़ायदा नहीं है।
+PATTERN|PATTERN 6: कोई फ़ायदा नहीं है|It is no use + [Verb-ing]|[कोई काम] करने का कोई फ़ायदा नहीं है।|It is no use arguing with an arrogant person.|घमंडी व्यक्ति से बहस करने का कोई फ़ायदा नहीं है।
+PATTERN|PATTERN 6: कोई फ़ायदा नहीं है|It is no use + [Verb-ing]|[कोई काम] करने का कोई फ़ायदा नहीं है।|It is no use crying over spilled milk.|अब पछताने से कोई फ़ायदा नहीं है।
+
+PATTERN|PATTERN 7: किसी काम में अच्छा होना|I am good at + [Verb-ing / Noun]|मैं [किसी काम/विषय] में अच्छा हूँ।|She is very good at explaining difficult topics.|वह कठिन विषयों को समझाने में बहुत अच्छी है।
+PATTERN|PATTERN 7: किसी काम में अच्छा होना|I am good at + [Verb-ing / Noun]|मैं [किसी काम/विषय] में अच्छा हूँ।|I am trying to get good at spoken English.|मैं स्पोकन इंग्लिश में अच्छा बनने की कोशिश कर रहा हूँ।
+PATTERN|PATTERN 7: किसी काम में अच्छा होना|I am good at + [Verb-ing / Noun]|मैं [किसी काम/विषय] में अच्छा हूँ।|He is good at managing big team projects.|वह बड़े टीम प्रोजेक्ट्स को संभालने में माहिर है।
+
+PATTERN|PATTERN 8: किसी काम को करते रहना|Keep + [Verb-ing]|[कोई काम] करते रहो।|Keep practicing English every single day.|हर एक दिन इंग्लिश बोलने का अभ्यास करते रहो।
+PATTERN|PATTERN 8: किसी काम को करते रहना|Keep + [Verb-ing]|[कोई काम] करते रहो।|Keep smiling no matter what happens.|चाहे कुछ भी हो जाए मुस्कुराते रहो।
+PATTERN|PATTERN 8: किसी काम को करते रहना|Keep + [Verb-ing]|[कोई काम] करते रहो।|Why do you keep checking your phone?|तुम बार-बार अपना फ़ोन क्यों देखते रहते हो?
+
+PATTERN|PATTERN 9: समय लगना|It takes + [Time] + to + [Verb 1]|[कोई काम] करने में [इतना समय] लगता है।|It takes twenty minutes to reach the station.|स्टेशन पहुँचने में बीस मिनट लगते हैं।
+PATTERN|PATTERN 9: समय लगना|It takes + [Time] + to + [Verb 1]|[कोई काम] करने में [इतना समय] लगता है।|It takes patience to learn a new language.|एक नई भाषा सीखने में धैर्य लगता है।
+PATTERN|PATTERN 9: समय लगना|It takes + [Time] + to + [Verb 1]|[कोई काम] करने में [इतना समय] लगता है।|How long does it take to cook this dish?|इस पकवान को बनाने में कितना समय लगता है?
+
+PATTERN|PATTERN 10: सुझाव या सलाह देना|You had better + [Verb 1]|बेहतर होगा कि तुम [यह काम] करो।|You had better leave early to avoid traffic.|बेहतर होगा कि ट्रैफ़िक से बचने के लिए आप जल्दी निकलें।
+PATTERN|PATTERN 10: सुझाव या सलाह देना|You had better + [Verb 1]|बेहतर होगा कि तुम [यह काम] करो।|You had better consult a doctor right now.|बेहतर होगा कि आप अभी किसी डॉक्टर से सलाह लें।
+PATTERN|PATTERN 10: सुझाव या सलाह देना|You had better + [Verb 1]|बेहतर होगा कि तुम [यह काम] करो।|We had better double check all the documents.|बेहतर होगा कि हम सभी दस्तावेज़ों की दोबारा जाँच कर लें।
+
+PATTERN|PATTERN 11: उत्सुक होना|I am looking forward to + [Verb-ing]|मैं [कोई काम] करने के लिए उत्सुक हूँ।|I am looking forward to meeting you soon.|मैं जल्द ही आपसे मिलने के लिए उत्सुक हूँ।
+PATTERN|PATTERN 11: उत्सुक होना|I am looking forward to + [Verb-ing]|मैं [कोई काम] करने के लिए उत्सुक हूँ।|We are looking forward to starting this project.|हम इस प्रोजेक्ट को शुरू करने के लिए उत्सुक हैं।
+PATTERN|PATTERN 11: उत्सुक होना|I am looking forward to + [Verb-ing]|मैं [कोई काम] करने के लिए उत्सुक हूँ।|I look forward to hearing back from you.|मैं आपसे जल्द जवाब मिलने की उम्मीद करता हूँ।
+
+PATTERN|PATTERN 12: निर्णय लेना / मन बनाना|I have decided to + [Verb 1]|मैंने [कोई काम] करने का फैसला किया है।|I have decided to improve my communication skills.|मैंने अपने संवाद कौशल को सुधारने का फैसला किया है।
+PATTERN|PATTERN 12: निर्णय लेना / मन बनाना|I have decided to + [Verb 1]|मैंने [कोई काम] करने का फैसला किया है।|She has decided to start her own business.|उसने अपना खुद का व्यवसाय शुरू करने का फैसला किया है।
+PATTERN|PATTERN 12: निर्णय लेना / मन बनाना|I have decided to + [Verb 1]|मैंने [कोई काम] करने का फैसला किया है।|We have decided to wake up at 5 AM daily.|हमने रोज़ सुबह 5 बजे उठने का फैसला किया है।
+
+PATTERN|PATTERN 13: ऐसा लगता है कि|It seems that + [Sentence]|ऐसा लगता है कि [पूरी बात]।|It seems that it is going to rain today.|ऐसा लगता है कि आज बारिश होने वाली है।
+PATTERN|PATTERN 13: ऐसा लगता है कि|It seems that + [Sentence]|ऐसा लगता है कि [पूरी बात]।|It seems that he forgot about our meeting.|ऐसा लगता है कि वह हमारी मीटिंग के बारे में भूल गया।
+PATTERN|PATTERN 13: ऐसा लगता है कि|It seems that + [Sentence]|ऐसा लगता है कि [पूरी बात]।|It seems that everyone is satisfied with the plan.|ऐसा लगता है कि हर कोई इस योजना से संतुष्ट है।
+
+PATTERN|PATTERN 14: कोई काम करने में असमर्थ होना|I cannot help + [Verb-ing]|मैं [कोई काम] किए बिना नहीं रह सकता।|I cannot help laughing when I see his jokes.|जब मैं उसके चुटकुले देखता हूँ तो हँसे बिना नहीं रह सकता।
+PATTERN|PATTERN 14: कोई काम करने में असमर्थ होना|I cannot help + [Verb-ing]|मैं [कोई काम] किए बिना नहीं रह सकता।|She could not help crying after hearing the news.|खबर सुनने के बाद वह रोए बिना नहीं रह सकी।
+PATTERN|PATTERN 14: कोई काम करने में असमर्थ होना|I cannot help + [Verb-ing]|मैं [कोई काम] किए बिना नहीं रह सकता।|I cannot help admiring his hard work.|मैं उसकी कड़ी मेहनत की तारीफ़ किए बिना नहीं रह सकता।
+
+PATTERN|PATTERN 15: संभावना व्यक्त करना|There is no need to + [Verb 1]|[कोई काम] करने की कोई ज़रूरत नहीं है।|There is no need to worry about small mistakes.|छोटी गलतियों के बारे में चिंता करने की कोई ज़रूरत नहीं है।
+PATTERN|PATTERN 15: संभावना व्यक्त करना|There is no need to + [Verb 1]|[कोई काम] करने की कोई ज़रूरत नहीं है।|There is no need to rush; take your time.|जल्दबाज़ी करने की कोई ज़रूरत नहीं है; अपना समय लें।
+PATTERN|PATTERN 15: संभावना व्यक्त करना|There is no need to + [Verb 1]|[कोई काम] करने की कोई ज़रूरत नहीं है।|There is no need to apologize for this.|इसके लिए माफ़ी मांगने की कोई ज़रूरत नहीं है।
+
+PATTERN|PATTERN 16: पसंदीदा विकल्प बताना|I would rather + [Verb 1] + than + [Verb 1]|मैं [दूसरा काम] करने के बजाय [पहला काम] करना पसंद करूंगा।|I would rather drink tea than coffee.|मैं कॉफ़ी की बजाय चाय पीना पसंद करूंगा।
+PATTERN|PATTERN 16: पसंदीदा विकल्प बताना|I would rather + [Verb 1] + than + [Verb 1]|मैं [दूसरा काम] करने के बजाय [पहला काम] करना पसंद करूंगा।|I would rather stay home than go out in heat.|मैं गर्मी में बाहर जाने की बजाय घर पर रुकना पसंद करूंगा।
+PATTERN|PATTERN 16: पसंदीदा विकल्प बताना|I would rather + [Verb 1] + than + [Verb 1]|मैं [दूसरा काम] करने के बजाय [पहला काम] करना पसंद करूंगा।|She would rather read a book than watch TV.|वह टीवी देखने की बजाय किताब पढ़ना पसंद करेगी।
+
+PATTERN|PATTERN 17: समय आ गया है|It is high time + [Subject + Verb 2]|अब समय आ गया है कि [यह काम किया जाए]।|It is high time we started speaking English.|अब समय आ गया है कि हम इंग्लिश बोलना शुरू करें।
+PATTERN|PATTERN 17: समय आ गया है|It is high time + [Subject + Verb 2]|अब समय आ गया है कि [यह काम किया जाए]।|It is high time you took your health seriously.|अब समय आ गया है कि आप अपनी सेहत को गंभीरता से लें।
+PATTERN|PATTERN 17: समय आ गया है|It is high time + [Subject + Verb 2]|अब समय आ गया है कि [यह काम किया जाए]।|It is high time they repaired this broken road.|अब समय आ गया है कि वे इस टूटी सड़क की मरम्मत करें।
+
+PATTERN|PATTERN 18: शर्त रखना (अगर ऐसा होता तो)|If I were you, I would + [Verb 1]|अगर मैं आपकी जगह होता, तो मैं [यह काम] करता।|If I were you, I would accept this job offer.|अगर मैं आपकी जगह होता, तो मैं यह नौकरी का प्रस्ताव स्वीकार कर लेता।
+PATTERN|PATTERN 18: शर्त रखना (अगर ऐसा होता तो)|If I were you, I would + [Verb 1]|अगर मैं आपकी जगह होता, तो मैं [यह काम] करता।|If I were you, I would save some money monthly.|अगर मैं आपकी जगह होता, तो हर महीने कुछ पैसे बचाता।
+PATTERN|PATTERN 18: शर्त रखना (अगर ऐसा होता तो)|If I were you, I would + [Verb 1]|अगर मैं आपकी जगह होता, तो मैं [यह काम] करता।|If I were you, I would apologize politely.|अगर मैं आपकी जगह होता, तो विनम्रता से माफ़ी मांग लेता।
+
+PATTERN|PATTERN 19: पछतावा या सलाह (Past)|You should have + [Verb 3]|आपको [यह काम] करना चाहिए था।|You should have informed me earlier.|आपको मुझे पहले सूचित करना चाहिए था।
+PATTERN|PATTERN 19: पछतावा या सलाह (Past)|You should have + [Verb 3]|आपको [यह काम] करना चाहिए था।|I should have practiced more before the interview.|मुझे इंटरव्यू से पहले और अभ्यास करना चाहिए था।
+PATTERN|PATTERN 19: पछतावा या सलाह (Past)|You should have + [Verb 3]|आपको [यह काम] करना चाहिए था।|She should have checked the train timing first.|उसे पहले ट्रेन का समय जाँच लेना चाहिए था।
+
+PATTERN|PATTERN 20: कोई काम करने का शौकीन होना|I am fond of + [Verb-ing / Noun]|मैं [किसी चीज़/काम] का शौकीन हूँ।|I am fond of reading inspiring biographies.|मैं प्रेरक जीवनियाँ पढ़ने का शौकीन हूँ।
+PATTERN|PATTERN 20: कोई काम करने का शौकीन होना|I am fond of + [Verb-ing / Noun]|मैं [किसी चीज़/काम] का शौकीन हूँ।|Children are very fond of eating chocolates.|बच्चे चॉकलेट खाने के बहुत शौकीन होते हैं।
+PATTERN|PATTERN 20: कोई काम करने का शौकीन होना|I am fond of + [Verb-ing / Noun]|मैं [किसी चीज़/काम] का शौकीन हूँ।|He is fond of traveling to historical places.|वह ऐतिहासिक स्थानों की यात्रा करने का शौकीन है।
+
+PATTERN|PATTERN 21: किसी काम को करने में व्यस्त होना|I am busy + [Verb-ing]|मैं [कोई काम] करने में व्यस्त हूँ।|I am busy preparing for my upcoming exam.|मैं अपनी आगामी परीक्षा की तैयारी करने में व्यस्त हूँ।
+PATTERN|PATTERN 21: किसी काम को करने में व्यस्त होना|I am busy + [Verb-ing]|मैं [कोई काम] करने में व्यस्त हूँ।|She is busy cooking dinner in the kitchen.|वह रसोई में रात का खाना बनाने में व्यस्त है।
+PATTERN|PATTERN 21: किसी काम को करने में व्यस्त होना|I am busy + [Verb-ing]|मैं [कोई काम] करने में व्यस्त हूँ।|We are busy organizing the annual event.|हम वार्षिक कार्यक्रम का आयोजन करने में व्यस्त हैं।
+
+PATTERN|PATTERN 22: किसी चीज़ की कमी या आवश्यकता होना|I am in need of + [Noun]|मुझे [किसी चीज़] की सख्त ज़रूरत है।|I am in need of some good career advice.|मुझे कुछ अच्छी करियर सलाह की ज़रूरत है।
+PATTERN|PATTERN 22: किसी चीज़ की कमी या आवश्यकता होना|I am in need of + [Noun]|मुझे [किसी चीज़] की सख्त ज़रूरत है।|The plants are in need of water right now.|पौधों को अभी पानी की ज़रूरत है।
+PATTERN|PATTERN 22: किसी चीज़ की कमी या आवश्यकता होना|I am in need of + [Noun]|मुझे [किसी चीज़] की सख्त ज़रूरत है।|He was in need of urgent financial help.|उसे तत्काल वित्तीय मदद की ज़रूरत थी।
+
+PATTERN|PATTERN 23: काम शुरू करना|Let us get started with + [Noun / Verb-ing]|आइए [कोई काम] शुरू करें।|Let us get started with today's English lesson.|आइए आज का इंग्लिश पाठ शुरू करें।
+PATTERN|PATTERN 23: काम शुरू करना|Let us get started with + [Noun / Verb-ing]|आइए [कोई काम] शुरू करें।|Let us get started with the morning yoga session.|आइए सुबह का योगा सत्र शुरू करें।
+PATTERN|PATTERN 23: काम शुरू करना|Let us get started with + [Noun / Verb-ing]|आइए [कोई काम] शुरू करें।|Let us get started with our daily speaking practice.|आइए अपना दैनिक बोलने का अभ्यास शुरू करें।
+
+PATTERN|PATTERN 24: कृतज्ञता या धन्यवाद व्यक्त करना|Thank you for + [Verb-ing]|[कोई काम] करने के लिए आपका धन्यवाद।|Thank you for helping me understand this rule.|इस नियम को समझने में मेरी मदद करने के लिए धन्यवाद।
+PATTERN|PATTERN 24: कृतज्ञता या धन्यवाद व्यक्त करना|Thank you for + [Verb-ing]|[कोई काम] करने के लिए आपका धन्यवाद।|Thank you for sharing such useful information.|इतनी उपयोगी जानकारी साझा करने के लिए धन्यवाद।
+PATTERN|PATTERN 24: कृतज्ञता या धन्यवाद व्यक्त करना|Thank you for + [Verb-ing]|[कोई काम] करने के लिए आपका धन्यवाद।|Thank you for listening to me so patiently.|इतने धैर्यपूर्वक मेरी बात सुनने के लिए धन्यवाद।
+
+PATTERN|PATTERN 25: किसी काम की योजना बनाना|I am planning to + [Verb 1]|मैं [कोई काम] करने की योजना बना रहा हूँ।|I am planning to start a new YouTube channel.|मैं एक नया यूट्यूब चैनल शुरू करने की योजना बना रहा हूँ।
+PATTERN|PATTERN 25: किसी काम की योजना बनाना|I am planning to + [Verb 1]|मैं [कोई काम] करने की योजना बना रहा हूँ।|We are planning to visit Varanasi next month.|हम अगले महीने वाराणसी घूमने की योजना बना रहे हैं।
+PATTERN|PATTERN 25: किसी काम की योजना बनाना|I am planning to + [Verb 1]|मैं [कोई काम] करने की योजना बना रहा हूँ।|She is planning to learn a new skill this year.|वह इस साल एक नया कौशल सीखने की योजना बना रही है।
+
 CAT|🌶️|Spices (मसालों के नाम)|Turmeric|हल्दी
 CAT|🌶️|Spices (मसालों के नाम)|Cumin|जीरा
 CAT|🌶️|Spices (मसालों के नाम)|Coriander|धनिया
