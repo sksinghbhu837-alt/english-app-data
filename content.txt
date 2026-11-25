@@ -737,6 +737,206 @@ RANDOM | Stay focused on your goals and ignore distractions. | अपने ल�
 RANDOM | I am looking forward to the upcoming weekend. | मैं आने वाले वीकेंड का बेसब्री से इंतज़ार कर रहा हूँ।
 RANDOM | Thank you for always standing by me. | हमेशा मेरा साथ देने के लिए धन्यवाद।
 RANDOM | Have a safe and pleasant journey ahead. | आपकी आगे की यात्रा सुरक्षित और सुखद हो।
+RANDOM | I have no idea what you are talking about. | मुझे कोई अंदाज़ा नहीं है कि आप किस बारे में बात कर रहे हैं।
+RANDOM | Let me think about it for a while before deciding. | फैसला लेने से पहले मुझे इस बारे में थोड़ा सोचने दो।
+RANDOM | It is easier to preach than to practice. | उपदेश देना आसान है, पर उस पर अमल करना मुश्किल।
+RANDOM | You are making a mountain out of a molehill. | तुम राई का पहाड़ बना रहे हो।
+RANDOM | Please keep your voice down, the baby is sleeping. | कृपया अपनी आवाज़ धीमी रखें, बच्चा सो रहा है।
+RANDOM | I am trying to get rid of this bad habit. | मैं इस बुरी आदत से छुटकारा पाने की कोशिश कर रहा हूँ।
+RANDOM | Everything happens for a reason in life. | जीवन में जो कुछ भी होता है, किसी कारण से ही होता है।
+RANDOM | Do not count your chickens before they hatch. | काम पूरा होने से पहले ही खुशी मत मनाओ।
+RANDOM | I ran into an old friend at the market today. | आज बाज़ार में मेरी अचानक एक पुराने दोस्त से मुलाकात हो गई।
+RANDOM | Could you please drop me off at the metro station? | क्या आप कृपया मुझे मेट्रो स्टेशन पर छोड़ सकते हैं?
+RANDOM | I am feeling a bit sleepy after having lunch. | दोपहर का खाना खाने के बाद मुझे थोड़ी नींद आ रही है।
+RANDOM | Let us not waste time on unnecessary arguments. | चलो बेकार की बहसों में समय बर्बाद न करें।
+RANDOM | He is known for his honesty and hard work. | वह अपनी ईमानदारी और कड़ी मेहनत के लिए जाना जाता है।
+RANDOM | Please make yourself comfortable while I get some tea. | जब तक मैं चाय लाता हूँ, कृपया आप आराम से बैठिए।
+RANDOM | I had a narrow escape in that traffic accident. | उस ट्रैफिक दुर्घटना में मैं बाल-बाल बच गया।
+RANDOM | Time heals almost every wound eventually. | समय आखिरकार लगभग हर घाव को भर देता है।
+RANDOM | You should learn to say no when you are overburdened. | जब आप पर काम का बोझ ज़्यादा हो तो आपको 'ना' कहना सीखना चाहिए।
+RANDOM | I am saving up money to buy a new laptop. | मैं एक नया लैपटॉप खरीदने के लिए पैसे बचा रहा हूँ।
+RANDOM | That movie was totally worth watching twice. | वह फिल्म दो बार देखने लायक थी।
+RANDOM | Do not let minor setbacks ruin your confidence. | छोटी-मोटी असफलताओं को अपना आत्मविश्वास कमज़ोर न करने दें।
+RANDOM | I will let you know as soon as the deal is finalized. | जैसे ही सौदा पक्का हो जाएगा, मैं आपको बता दूँगा।
+RANDOM | Can you please turn off the lights before going to bed? | क्या आप सोने से पहले कृपया लाइट बंद कर देंगे?
+RANDOM | She has a knack for solving complicated puzzles. | उसमें उलझी हुई पहेलियों को सुलझाने का खास हुनर है।
+RANDOM | It took me almost an hour to reach the office today. | आज मुझे ऑफिस पहुँचने में लगभग एक घंटा लग गया।
+RANDOM | Always think positive and expect the best outcome. | हमेशा सकारात्मक सोचें और सबसे अच्छे परिणाम की उम्मीद करें।
+RANDOM | I am sorry, I mistook you for someone else. | माफ़ कीजिए, मैंने गलती से आपको कोई और समझ लिया।
+RANDOM | Let us split the cab fare equally between us. | चलो टैक्सी का किराया आपस में बराबर बांट लेते हैं।
+RANDOM | He is always ready to lend a helping hand. | वह हमेशा मदद का हाथ बढ़ाने के लिए तैयार रहता है।
+RANDOM | Please double-check the spelling before printing the banner. | बैनर प्रिंट करने से पहले कृपया स्पेलिंग की दोबारा जांच कर लें।
+RANDOM | I am trying to cut down on sugar and oily food. | मैं चीनी और तले हुए खाने में कटौती करने की कोशिश कर रहा हूँ।
+RANDOM | That news came as a complete shock to all of us. | वह खबर हम सभी के लिए एक बड़े झटके की तरह आई।
+RANDOM | You look exhausted, you should take a short nap. | तुम बहुत थके हुए लग रहे हो, तुम्हें थोड़ी देर झपकी ले लेनी चाहिए।
+RANDOM | Keep calm and handle the situation wisely. | शांत रहें और स्थिति को समझदारी से संभालें।
+RANDOM | I have been working on this project since morning. | मैं सुबह से इस प्रोजेक्ट पर काम कर रहा हूँ।
+RANDOM | Do not forget to carry your umbrella, it looks cloudy. | अपना छाता ले जाना मत भूलना, बादल छाए हुए दिख रहे हैं।
+RANDOM | A true friend stands by you in thick and thin. | एक सच्चा दोस्त सुख-दुख हर परिस्थिति में आपके साथ खड़ा रहता है।
+RANDOM | Could you please forward that message to my number? | क्या आप कृपया वह मैसेज मेरे नंबर पर फॉरवर्ड कर देंगे?
+RANDOM | I am gradually getting used to this new routine. | मुझे धीरे-धीरे इस नई दिनचर्या की आदत हो रही है।
+RANDOM | He spoke so softly that nobody could hear him clearly. | वह इतना धीमे बोला कि कोई भी उसे साफ़ सुन नहीं पाया।
+RANDOM | Let us celebrate this achievement with some sweets. | चलो इस उपलब्धि का जश्न कुछ मिठाई के साथ मनाते हैं।
+RANDOM | Make sure your phone is fully charged before traveling. | यात्रा करने से पहले सुनिश्चित करें कि आपका फ़ोन पूरी तरह चार्ज हो।
+RANDOM | I appreciate your patience and cooperation throughout this task. | इस पूरे काम के दौरान आपके धैर्य और सहयोग की मैं सराहना करता हूँ।
+RANDOM | Do not poke your nose into other people’s affairs. | दूसरों के मामलों में अपनी टांग मत अड़ाओ।
+RANDOM | The internet connection is extremely slow today. | आज इंटरनेट कनेक्शन बहुत ज़्यादा धीमा चल रहा है।
+RANDOM | I need some fresh air, let us go for a walk. | मुझे थोड़ी ताज़ी हवा चाहिए, चलो टहलने चलते हैं।
+RANDOM | She managed to complete the marathon despite her injury. | चोट लगने के बावजूद वह मैराथन पूरा करने में सफल रही।
+RANDOM | Please keep this confidential and do not share it with anyone. | कृपया इसे गोपनीय रखें और किसी के साथ साझा न करें।
+RANDOM | I am not sure whether he will attend the seminar. | मुझे यकीन नहीं है कि वह सेमिनार में शामिल होगा या नहीं।
+RANDOM | Hard work never goes unrewarded in the long run. | लंबे समय में कड़ी मेहनत कभी बेकार नहीं जाती।
+RANDOM | Could you please pass me the salt and pepper? | क्या आप कृपया मुझे नमक और काली मिर्च पकड़ा देंगे?
+RANDOM | I am looking for a reliable mechanic near my house. | मैं अपने घर के पास एक भरोसेमंद मैकेनिक की तलाश कर रहा हूँ।
+RANDOM | Let us put our heads together and find a solution. | चलो सब मिलकर दिमाग लगाते हैं और कोई समाधान निकालते हैं।
+RANDOM | He left the room without saying a single word. | वह बिना एक भी शब्द कहे कमरे से बाहर चला गया।
+RANDOM | You should back up your important photos regularly. | आपको अपनी महत्वपूर्ण तस्वीरों का नियमित रूप से बैकअप लेना चाहिए।
+RANDOM | The traffic at the main intersection is terrible during rush hour. | भीड़भाड़ के समय मुख्य चौराहे पर ट्रैफिक बहुत खराब रहता है।
+RANDOM | I feel much more energetic after doing morning yoga. | सुबह योग करने के बाद मैं खुद को काफी ऊर्जावान महसूस करता हूँ।
+RANDOM | Do not take your health and family for granted. | अपनी सेहत और परिवार को हल्के में मत लो।
+RANDOM | Can you explain this concept in simpler terms? | क्या आप इस अवधारणा को और सरल शब्दों में समझा सकते हैं?
+RANDOM | I accidentally deleted the entire folder from my computer. | मैंने गलती से अपने कंप्यूटर से पूरा फ़ोल्डर डिलीट कर दिया।
+RANDOM | It is never too late to start learning something new. | कुछ नया सीखना शुरू करने के लिए कभी भी बहुत देर नहीं होती।
+RANDOM | Please remind me to pay the electricity bill today. | कृपया मुझे आज बिजली का बिल भरने की याद दिला देना।
+RANDOM | He is very particular about cleanliness and discipline. | वह सफ़ाई और अनुशासन को लेकर बहुत सख्त (खास) है।
+RANDOM | Let us grab a quick bite before catching the train. | ट्रेन पकड़ने से पहले चलो जल्दी से कुछ खा लेते हैं।
+RANDOM | I was pleasantly surprised by his sudden visit. | उनके अचानक आने से मुझे बहुत सुखद आश्चर्य हुआ।
+RANDOM | Make a habit of reading at least ten pages every night. | हर रात कम से कम दस पन्ने पढ़ने की आदत डालें।
+RANDOM | The price of vegetables has gone up sharply this week. | इस हफ्ते सब्ज़ियों के दाम तेज़ी से बढ़ गए हैं।
+RANDOM | I am trying to figure out how this new software works. | मैं यह समझने की कोशिश कर रहा हूँ कि यह नया सॉफ़्टवेयर कैसे काम करता है।
+RANDOM | Do not lose heart; success is just around the corner. | हिम्मत मत हारो; सफलता बस करीब ही है।
+RANDOM | Could you please keep an eye on my bag for two minutes? | क्या आप कृपया दो मिनट के लिए मेरे बैग पर नज़र रखेंगे?
+RANDOM | She speaks three languages fluently without any hesitation. | वह बिना किसी झिझक के तीन भाषाएं धाराप्रवाह बोलती है।
+RANDOM | I prefer homemade food over restaurant meals any day. | मैं किसी भी दिन रेस्टोरेंट के खाने की तुलना में घर का बना खाना पसंद करता हूँ।
+RANDOM | Let us finalize the venue for the upcoming event. | चलो आगामी कार्यक्रम के लिए स्थान तय कर लेते हैं।
+RANDOM | He turned down the job offer because the salary was low. | वेतन कम होने के कारण उसने नौकरी का प्रस्ताव ठुकरा दिया।
+RANDOM | Please check the tire pressure before going on the highway. | हाईवे पर जाने से पहले कृपया टायर का प्रेशर जांच लें।
+RANDOM | I am completely booked for the entire week. | मैं पूरे हफ्ते के लिए पूरी तरह व्यस्त हूँ।
+RANDOM | You should apologize if you realize you were wrong. | यदि आपको एहसास हो कि आप गलत थे तो आपको माफ़ी मांगनी चाहिए।
+RANDOM | The view from the top of the hill was breathtaking. | पहाड़ी की चोटी से नज़ारा बेहद मनमोहक था।
+RANDOM | Let us not dwell on the past; focus on today. | चलो अतीत की बातों में न उलझें; आज पर ध्यान दें।
+RANDOM | I need a quiet place to concentrate on my studies. | मुझे अपनी पढ़ाई पर ध्यान केंद्रित करने के लिए एक शांत जगह चाहिए।
+RANDOM | He always finds a way out of every difficult situation. | वह हर कठिन परिस्थिति से बाहर निकलने का रास्ता हमेशा निकाल लेता है।
+RANDOM | Please water the rooftop plants every evening in summer. | गर्मियों में कृपया हर शाम छत के पौधों को पानी दें।
+RANDOM | I am glad we cleared up that misunderstanding quickly. | मुझे खुशी है कि हमने उस गलतफ़हमी को जल्दी दूर कर लिया।
+RANDOM | Do not trust everything you read on the internet. | इंटरनेट पर पढ़ी गई हर बात पर आंख मूंदकर भरोसा न करें।
+RANDOM | Can you suggest a good book on personal finance? | क्या आप पर्सनल फाइनेंस पर कोई अच्छी किताब सुझा सकते हैं?
+RANDOM | I am feeling a lot more confident about my presentation now. | अब मैं अपनी प्रेजेंटेशन को लेकर काफी अधिक आत्मविश्वासी महसूस कर रहा हूँ।
+RANDOM | Let us take a short break and resume work in ten minutes. | चलो एक छोटा ब्रेक लेते हैं और दस मिनट में फिर से काम शुरू करते हैं।
+RANDOM | He is saving every penny for his sister’s wedding. | वह अपनी बहन की शादी के लिए एक-एक पैसा बचा रहा है।
+RANDOM | Please make sure all the windows are shut properly. | कृपया सुनिश्चित करें कि सभी खिड़कियां ठीक से बंद हों।
+RANDOM | I had a terrible headache all afternoon yesterday. | कल पूरी दोपहर मुझे भयानक सिरदर्द रहा।
+RANDOM | Small consistent steps always lead to big transformations. | छोटे-छोटे निरंतर कदम हमेशा बड़े बदलावों की ओर ले जाते हैं।
+RANDOM | Could you please send me the location pin on WhatsApp? | क्या आप कृपया मुझे व्हाट्सएप पर लोकेशन पिन भेज देंगे?
+RANDOM | I am really impressed by the quality of your work. | मैं आपके काम की गुणवत्ता से वास्तव में बहुत प्रभावित हूँ।
+RANDOM | Do not rush; take your time to understand every detail. | जल्दबाज़ी न करें; हर बारीकी को समझने के लिए अपना समय लें।
+RANDOM | The battery of this inverter lasts for nearly six hours. | इस इन्वर्टर की बैटरी लगभग छह घंटे तक चलती है।
+RANDOM | Let us meet at the usual spot around six in the evening. | चलो शाम छह बजे के आसपास अपनी हमेशा वाली जगह पर मिलते हैं।
+RANDOM | He has a very positive attitude towards life. | जीवन के प्रति उनका दृष्टिकोण बहुत सकारात्मक है।
+RANDOM | Please excuse me for a second, I need to make an urgent call. | कृपया एक सेकंड के लिए मुझे क्षमा करें, मुझे एक ज़रूरी कॉल करना है।
+RANDOM | I am looking forward to learning new things every single day. | मैं हर दिन नई चीज़ें सीखने के लिए उत्सुक हूँ।
+RANDOM | Good communication skills open doors to endless opportunities. | अच्छे संवाद कौशल अनंत अवसरों के द्वार खोलते हैं।
+RANDOM | Thank you for taking the time to listen to my ideas. | मेरे विचारों को सुनने के लिए समय निकालने हेतु धन्यवाद।
+RANDOM | Do not judge anyone without knowing their full story. | किसी की पूरी कहानी जाने बिना उसके बारे में राय न बनाएं।
+RANDOM | I forgot to carry my wallet when I left home this morning. | आज सुबह घर से निकलते समय मैं अपना बटुआ ले जाना भूल गया।
+RANDOM | Could you please lower the fan speed a little bit? | क्या आप कृपया पंखे की गति थोड़ी कम कर देंगे?
+RANDOM | She has been preparing for this exam for over a year. | वह एक साल से अधिक समय से इस परीक्षा की तैयारी कर रही है।
+RANDOM | Let us keep our surroundings clean and green. | आइए अपने आसपास के वातावरण को स्वच्छ और हरा-भरा रखें।
+RANDOM | I am planning to plant some winter vegetables in my garden. | मैं अपने बगीचे में कुछ सर्दियों की सब्ज़ियां लगाने की योजना बना रहा हूँ।
+RANDOM | Please wipe your shoes on the doormat before entering. | अंदर आने से पहले कृपया अपने जूते पायदान पर पोंछ लें।
+RANDOM | He has a habit of waking up before sunrise every day. | उसे हर दिन सूर्योदय से पहले उठने की आदत है।
+RANDOM | Can you hold this umbrella for me while I tie my shoelaces? | जब तक मैं अपने जूते के फीते बांधूँ, क्या आप मेरे लिए यह छाता पकड़ सकते हैं?
+RANDOM | I completely forgot to reply to his email yesterday. | कल मैं उनके ईमेल का जवाब देना पूरी तरह भूल गया।
+RANDOM | Patience and persistence can overcome any obstacle. | धैर्य और निरंतरता किसी भी बाधा को पार कर सकते हैं।
+RANDOM | The milk boiled over because I forgot to turn off the stove. | दूध उबलकर गिर गया क्योंकि मैं चूल्हा बंद करना भूल गया था।
+RANDOM | Please check if the gas cylinder valve is closed properly. | कृपया जांच लें कि गैस सिलेंडर का वाल्व ठीक से बंद है या नहीं।
+RANDOM | I love listening to old melodious songs while driving. | मुझे गाड़ी चलाते समय पुराने मधुर गाने सुनना बहुत पसंद है।
+RANDOM | He is very good at managing both work and family life. | वह काम और पारिवारिक जीवन दोनों को संभालने में बहुत माहिर है।
+RANDOM | Could you please lend me your charger for half an hour? | क्या आप कृपया मुझे आधे घंटे के लिए अपना चार्जर दे सकते हैं?
+RANDOM | The road to success is always under construction. | सफलता का रास्ता हमेशा निर्माणाधीन (मेहनत मांगने वाला) रहता है।
+RANDOM | I need to get my scooter serviced before the long trip. | लंबी यात्रा से पहले मुझे अपने स्कूटर की सर्विसिंग करानी है।
+RANDOM | Please speak clearly so everyone in the room can understand. | कृपया स्पष्ट बोलें ताकि कमरे में मौजूद हर कोई समझ सके।
+RANDOM | She was thrilled to receive a promotion at her workplace. | अपने कार्यस्थल पर पदोन्नति (प्रमोशन) पाकर वह बेहद खुश थी।
+RANDOM | Do not leave your valuables unattended in public places. | सार्वजनिक स्थानों पर अपना कीमती सामान लावारिस न छोड़ें।
+RANDOM | I am trying to read at least one good book every month. | मैं हर महीने कम से कम एक अच्छी किताब पढ़ने की कोशिश कर रहा हूँ।
+RANDOM | Let us sit in the shade; the afternoon sun is too harsh. | चलो छांव में बैठते हैं; दोपहर की धूप बहुत तेज़ है।
+RANDOM | He apologized sincerely for arriving late to the ceremony. | समारोह में देर से पहुँचने के लिए उसने दिल से माफ़ी मांगी।
+RANDOM | Please switch off the geyser once the water is hot enough. | पानी पर्याप्त गर्म हो जाने पर कृपया गीज़र बंद कर दें।
+RANDOM | I always keep a spare key inside my office bag. | मैं हमेशा अपने ऑफिस बैग के अंदर एक अतिरिक्त चाबी रखता हूँ।
+RANDOM | Good manners cost nothing, yet they buy everything. | अच्छे संस्कारों की कोई कीमत नहीं लगती, फिर भी वे सब कुछ जीत लेते हैं।
+RANDOM | Can you help me move this heavy table to the corner? | क्या आप इस भारी मेज़ को कोने में खिसकाने में मेरी मदद कर सकते हैं?
+RANDOM | The children were playing happily in the courtyard. | बच्चे आंगन में खुशी-खुशी खेल रहे थे।
+RANDOM | I have been feeling much healthier since I started walking daily. | जब से मैंने रोज़ टहलना शुरू किया है, मैं काफी स्वस्थ महसूस कर रहा हूँ।
+RANDOM | Please double-check the address before booking the courier. | कूरियर बुक करने से पहले कृपया पते की दोबारा जांच कर लें।
+RANDOM | He solved that tricky math problem within seconds. | उसने गणित के उस कठिन सवाल को कुछ ही सेकंड में हल कर दिया।
+RANDOM | Do not let fear stop you from trying new opportunities. | डर को खुद को नए अवसर आज़माने से रोकने न दें।
+RANDOM | I am craving a hot bowl of homemade vegetable soup. | मेरा घर के बने गर्म वेजिटेबल सूप का एक कटोरा पीने का मन कर रहा है।
+RANDOM | Let us organize our files neatly so they are easy to find. | आइए अपनी फ़ाइलों को सफ़ाई से व्यवस्थित करें ताकि उन्हें ढूंढना आसान हो।
+RANDOM | She always greets everyone with a warm and genuine smile. | वह हमेशा हर किसी का गर्मजोशी और सच्ची मुस्कान के साथ अभिवादन करती है।
+RANDOM | Please remind me to buy fresh fruits on my way back. | वापस आते समय मुझे ताज़े फल खरीदने की याद दिला देना।
+RANDOM | The train was so crowded that there was barely space to stand. | ट्रेन में इतनी भीड़ थी कि खड़े होने की भी मुश्किल से जगह थी।
+RANDOM | I prefer writing down my daily goals in a physical diary. | मैं अपने दैनिक लक्ष्यों को एक डायरी में लिखना पसंद करता हूँ।
+RANDOM | Honesty is the foundation of every strong relationship. | ईमानदारी हर मजबूत रिश्ते की नींव होती है।
+RANDOM | Could you please translate this paragraph into simple Hindi? | क्या आप कृपया इस अनुच्छेद का सरल हिंदी में अनुवाद कर सकते हैं?
+RANDOM | He stayed up late last night to finish his pending assignment. | अपना अधूरा असाइनमेंट पूरा करने के लिए वह कल रात देर तक जागा रहा।
+RANDOM | Make sure you drink a glass of water right after waking up. | सुनिश्चित करें कि आप उठने के तुरंत बाद एक गिलास पानी पिएं।
+RANDOM | The sudden power outage interrupted our online class. | अचानक बिजली चले जाने से हमारी ऑनलाइन क्लास बाधित हो गई।
+RANDOM | I am really proud of the progress you have made this year. | इस साल आपने जो प्रगति की है, उस पर मुझे वास्तव में गर्व है।
+RANDOM | Do not waste food; take only as much as you can eat. | खाना बर्बाद न करें; उतना ही लें जितना आप खा सकें।
+RANDOM | Can you recommend a quiet café where we can talk peacefully? | क्या आप कोई शांत कैफ़े सुझा सकते हैं जहाँ हम शांति से बात कर सकें?
+RANDOM | I accidentally spilled coffee on my important notes. | मैंने गलती से अपने महत्वपूर्ण नोट्स पर कॉफ़ी गिरा दी।
+RANDOM | Consistency is what transforms average into excellence. | निरंतरता ही है जो साधारण को उत्कृष्टता में बदल देती है।
+RANDOM | Please lock the main gate properly before going upstairs. | ऊपर जाने से पहले कृपया मुख्य द्वार को अच्छी तरह बंद कर दें।
+RANDOM | He is known throughout the neighborhood for his helpful nature. | वह अपने मददगार स्वभाव के लिए पूरे मोहल्ले में जाना जाता है।
+RANDOM | I need to renew my driving license before next month. | मुझे अगले महीने से पहले अपना ड्राइविंग लाइसेंस रिन्यू कराना है।
+RANDOM | Let us take a group photo before everyone leaves the party. | पार्टी से सबके जाने से पहले चलो एक ग्रुप फोटो लेते हैं।
+RANDOM | She handled the unexpected situation with remarkable grace. | उसने अप्रत्याशित स्थिति को उल्लेखनीय शालीनता के साथ संभाला।
+RANDOM | Please keep your workspace tidy for better concentration. | बेहतर एकाग्रता के लिए कृपया अपने कार्यस्थल को साफ़-सुथरा रखें।
+RANDOM | I was stuck in a long queue at the bank for forty minutes. | मैं चालीस मिनट तक बैंक की लंबी कतार में फंसा रहा।
+RANDOM | Do not compare your beginning to someone else’s middle. | अपनी शुरुआत की तुलना किसी और के मध्य (सफलता) से न करें।
+RANDOM | Could you please check if my parcel has arrived at the gate? | क्या आप कृपया जांच सकते हैं कि मेरा पार्सल गेट पर आ गया है या नहीं?
+RANDOM | Fresh morning air clears the mind and boosts productivity. | सुबह की ताज़ी हवा दिमाग को तरोताज़ा करती है और कार्यक्षमता बढ़ाती है।
+RANDOM | I am learning how to edit videos on my mobile phone. | मैं अपने मोबाइल फ़ोन पर वीडियो एडिट करना सीख रहा हूँ।
+RANDOM | He never loses his cool even in the most stressful situations. | वह सबसे तनावपूर्ण स्थितियों में भी कभी अपना धैर्य नहीं खोता।
+RANDOM | Please put the wet clothes out in the sun to dry. | कृपया गीले कपड़ों को सूखने के लिए धूप में डाल दें।
+RANDOM | I had a wonderful conversation with my childhood teacher today. | आज मेरी अपने बचपन के शिक्षक से बहुत शानदार बातचीत हुई।
+RANDOM | Always read the terms and conditions carefully before signing. | हस्ताक्षर करने से पहले हमेशा नियम और शर्तों को ध्यान से पढ़ें।
+RANDOM | Let us plant more trees to make our city cooler and cleaner. | आइए अपने शहर को ठंडा और स्वच्छ बनाने के लिए अधिक पेड़ लगाएं।
+RANDOM | She has an incredible memory for names and faces. | नाम और चेहरे याद रखने की उसकी याददाश्त अद्भुत है।
+RANDOM | Please turn down the TV volume; I am attending an important call. | कृपया टीवी की आवाज़ कम कर दें; मैं एक ज़रूरी कॉल पर बात कर रहा हूँ।
+RANDOM | I am planning to visit my hometown during the upcoming holidays. | मैं आने वाली छुट्टियों के दौरान अपने गृहनगर जाने की योजना बना रहा हूँ।
+RANDOM | Every expert was once a beginner who refused to quit. | हर विशेषज्ञ कभी एक शुरुआती व्यक्ति था जिसने हार मानने से इनकार कर दिया।
+RANDOM | Can you show me how to use this new feature in the app? | क्या आप मुझे दिखा सकते हैं कि ऐप में इस नए फ़ीचर का उपयोग कैसे करें?
+RANDOM | The aroma of freshly brewed tea filled the entire kitchen. | ताज़ी बनी चाय की खुशबू पूरे रसोईघर में फैल गई।
+RANDOM | I forgot to set my alarm last night, so I woke up late today. | कल रात मैं अलार्म लगाना भूल गया था, इसलिए आज देर से उठा।
+RANDOM | Please handle this glass package with extreme care. | कृपया कांच के इस पैकेज को बेहद सावधानी से संभालें।
+RANDOM | He achieved all his goals through sheer determination and focus. | उसने अपने दृढ़ संकल्प और एकाग्रता के बल पर अपने सभी लक्ष्य हासिल किए।
+RANDOM | Let us review our weekly expenses to save more money. | अधिक पैसे बचाने के लिए आइए अपने साप्ताहिक खर्चों की समीक्षा करें।
+RANDOM | Do not let minor distractions steal your valuable time. | छोटी-मोटी भटकाव वाली चीज़ों को अपना कीमती समय न चुराने दें।
+RANDOM | I am grateful for all the lessons life has taught me so far. | जीवन ने मुझे अब तक जो भी सबक सिखाए हैं, मैं उन सभी के लिए आभारी हूँ।
+RANDOM | Could you please pass the scissors lying on that shelf? | क्या आप कृपया उस शेल्फ पर रखी कैंची पकड़ा देंगे?
+RANDOM | The sunset over the river Ganga looked truly mesmerizing. | गंगा नदी के ऊपर सूर्यास्त का दृश्य वास्तव में मंत्रमुग्ध कर देने वाला था।
+RANDOM | I need to buy some groceries and fresh vegetables on the way. | मुझे रास्ते में कुछ किराने का सामान और ताज़ी सब्ज़ियां खरीदनी हैं।
+RANDOM | She always finds something positive even in difficult times. | वह कठिन समय में भी हमेशा कुछ न कुछ सकारात्मक ढूंढ ही लेती है।
+RANDOM | Please make sure the tap is closed tightly after washing hands. | हाथ धोने के बाद कृपया सुनिश्चित करें कि नल कसकर बंद हो।
+RANDOM | I am trying to improve my posture while sitting at the desk. | मैं डेस्क पर बैठते समय अपनी बैठने की मुद्रा (पोस्चर) सुधारने की कोशिश कर रहा हूँ।
+RANDOM | A little kindness can brighten someone’s entire day. | थोड़ी सी दयालुता किसी का पूरा दिन खुशनुमा बना सकती है।
+RANDOM | Can you give me a quick summary of today’s news? | क्या आप मुझे आज की खबरों का संक्षिप्त सारांश दे सकते हैं?
+RANDOM | He left his umbrella at the office because it stopped raining. | बारिश रुक जाने के कारण वह अपना छाता ऑफिस में ही छोड़ आया।
+RANDOM | Let us celebrate small milestones along the way to big goals. | बड़े लक्ष्यों की ओर बढ़ते हुए रास्ते के छोटे पड़ावों का भी जश्न मनाएं।
+RANDOM | Please keep all important documents in a waterproof folder. | कृपया सभी महत्वपूर्ण दस्तावेज़ों को एक वाटरप्रूफ फ़ोल्डर में रखें।
+RANDOM | I was amazed by how quickly the team solved the technical glitch. | टीम ने तकनीकी खराबी को कितनी तेज़ी से सुलझाया, यह देखकर मैं हैरान रह गया।
+RANDOM | Do not hesitate to ask questions until your doubts are clear. | जब तक आपके संदेह दूर न हो जाएं, तब तक प्रश्न पूछने में संकोच न करें।
+RANDOM | The morning breeze felt so refreshing after last night’s rain. | कल रात की बारिश के बाद सुबह की हवा बहुत तरोताज़ा महसूस हो रही थी।
+RANDOM | I am looking forward to starting a new chapter in my career. | मैं अपने करियर में एक नया अध्याय शुरू करने के लिए उत्सुक हूँ।
+RANDOM | Always keep your promises if you want people to trust you. | यदि आप चाहते हैं कि लोग आप पर भरोसा करें, तो हमेशा अपने वादे निभाएं।
+RANDOM | Could you please check the internet router and restart it? | क्या आप कृपया इंटरनेट राउटर की जांच करके उसे रीस्टार्ट कर देंगे?
+RANDOM | He worked tirelessly behind the scenes to make the event a success. | कार्यक्रम को सफल बनाने के लिए उन्होंने पर्दे के पीछे अथक परिश्रम किया।
+RANDOM | Please carry a water bottle with you whenever you go out. | जब भी आप बाहर जाएं, कृपया अपने साथ पानी की बोतल ज़रूर रखें।
+RANDOM | I am feeling much calmer after practicing deep breathing exercises. | गहरी सांस लेने का व्यायाम करने के बाद मैं काफी शांत महसूस कर रहा हूँ।
+RANDOM | Learning a new skill is the best investment you can ever make. | कोई नया कौशल सीखना सबसे अच्छा निवेश है जो आप कभी भी कर सकते हैं।
+RANDOM | Thank you for your constant encouragement and support. | आपके निरंतर प्रोत्साहन और समर्थन के लिए धन्यवाद।
+RANDOM | Keep moving forward one step at a time, and you will reach your goal. | एक समय में एक कदम आगे बढ़ते रहें, और आप अपने लक्ष्य तक ज़रूर पहुँचेंगे।
 WORD | Reluctant | रिलक्टेंट | अनिच्छुक / हिचकिचाना | He was reluctant to speak English in public.
 WORD | Diligent | डिलिजेंट | मेहनती और लगनशील | She is a very diligent student.
 WORD | Inevitable | इनएविटेबल | जिसे टाला न जा सके | Change is inevitable in life.
