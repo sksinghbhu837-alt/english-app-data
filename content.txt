@@ -1434,6 +1434,106 @@ RANDOM|Could you pronounce thorough, through, and though distinctly?|क्य�
 RANDOM|She scheduled a physiotherapy session for next Wednesday.|उसने अगले बुधवार के लिए एक फिजियोथेरेपी सत्र निर्धारित किया।
 RANDOM|The magnificent waterfall cascaded down the rocky cliff.|शानदार झरना चट्टानी पहाड़ी से नीचे गिर रहा था।
 RANDOM|Clear pronunciation helps people understand you effortlessly.|स्पष्ट उच्चारण लोगों को आपकी बात आसानी से समझने में मदद करता है।
+GAME|यह मेरे दिमाग से निकल गया|It slipped my mind
+GAME|चलो आज का काम खत्म करते हैं|Let us call it a day
+GAME|इस बात को दिल पर मत लो|Do not take it to heart
+GAME|मुझे सुबह जल्दी उठने की आदत है|I am used to waking up early
+GAME|क्या आप कृपया मेरी मदद कर सकते हैं|Can you please help me
+GAME|मैं जल्द ही आपसे वापस संपर्क करूंगा|I will get back to you soon
+GAME|आपने आज बहुत अच्छा काम किया है|You have done a great job today
+GAME|मुझे इसके बारे में सोचने के लिए समय चाहिए|I need time to think about it
+GAME|कृपया मुझे इस बारे में जानकारी देते रहें|Please keep me updated on this
+GAME|आज बाहर मौसम बहुत सुहावना है|The weather outside is very pleasant today
+GAME|मैं अपनी पूरी कोशिश कर रहा हूँ|I am trying my best
+GAME|कृपया थोड़ा और धीरे बोलें|Please speak a little more slowly
+GAME|आपकी मदद के लिए बहुत बहुत धन्यवाद|Thank you so much for your help
+GAME|मैं आपसे मिलने के लिए उत्सुक हूँ|I am looking forward to meeting you
+GAME|यह मेरी उम्मीद से कहीं ज़्यादा बेहतर है|This is much better than I expected
+GAME|मुझे पहले अपना शेड्यूल देखने दीजिए|Let me check my schedule first
+GAME|फैसला लेने से पहले दो बार सोचें|Think twice before making a decision
+GAME|जो कुछ भी होता है अच्छे के लिए होता है|Everything happens for a good reason
+GAME|क्या सप्ताहांत के लिए आपकी कोई योजना है|Do you have any plans for the weekend
+GAME|मैं आपकी बात से पूरी तरह सहमत हूँ|I completely agree with your point
+GAME|क्या आप इसे एक बार फिर दोहरा सकते हैं|Could you repeat that one more time
+GAME|अपनी सेहत का ठीक से ख्याल रखें|Take care of your health properly
+GAME|इस समय आपको परेशान करने के लिए खेद है|Sorry to bother you at this time
+GAME|आइए एक दूसरे के संपर्क में बने रहें|Let us stay in touch with each other
+GAME|यह सबसे अच्छा निर्णय है जो हम ले सकते हैं|This is the best decision we can make
+GAME|काम पूरा होते ही मैं आपको बता दूंगा|I will let you know once it is done
+GAME|कृपया कुछ भी पूछने में संकोच न करें|Please do not hesitate to ask anything
+GAME|आज ऑफिस में आपका दिन कैसा रहा|How was your day at the office today
+GAME|काम के बाद मुझे थोड़ी थकान महसूस हो रही है|I am feeling a bit tired after work
+GAME|मैं आज अपना बटुआ लाना भूल गया|I forgot to bring my wallet today
+GAME|लगता है जल्द ही बारिश होने वाली है|It looks like it is going to rain soon
+GAME|मुझे सुबह कॉफ़ी की बजाय चाय पसंद है|I prefer tea over coffee in the morning
+GAME|क्या आप मुझे पानी की बोतल दे सकते हैं|Could you pass me the water bottle
+GAME|मैं स्टेशन के रास्ते में हूँ|I am on my way to the station
+GAME|घर पहुँचने पर कृपया मुझे फ़ोन कर देना|Please call me when you reach home
+GAME|चिंता मत करो सब कुछ ठीक हो जाएगा|Do not worry everything will be fine
+GAME|मैं यहाँ दस मिनट से इंतज़ार कर रहा हूँ|I have been waiting here for ten minutes
+GAME|इस वस्तु की कीमत कितनी है|How much does this item cost
+GAME|मैं एक कप कॉफ़ी ऑर्डर करना चाहूंगा|I would like to order a cup of coffee
+GAME|मुझे सुबह से हल्का सिरदर्द हो रहा है|I have a slight headache since morning
+GAME|आज आप बहुत खुश लग रहे हैं|You look very happy today
+GAME|हर दिन इंग्लिश बोलने का अभ्यास करें|Practice speaking English every single day
+GAME|अपने सपनों को कभी आसानी से मत छोड़ो|Never give up on your dreams easily
+GAME|ईमानदारी हमेशा सबसे अच्छी नीति होती है|Honesty is always the best policy
+GAME|क्या आप इस विषय को समझा सकते हैं|Can you explain this topic to me
+GAME|मुझे सही समय के बारे में पता नहीं है|I am not sure about the exact time
+GAME|आज आपसे बात करके बहुत अच्छा लगा|It was nice talking to you today
+GAME|आपकी यात्रा सुरक्षित और सुखद हो|Have a safe and pleasant journey ahead
+GAME|जाने से पहले कृपया लाइट बंद कर दें|Please turn off the lights before leaving
+GAME|किताबें पढ़ने से हमारा ज्ञान बढ़ता है|Reading books improves our knowledge
+GAME|मुझे आपकी उपलब्धि पर सच में गर्व है|I am really proud of your achievement
+GAME|चलो जल्दी से कुछ खा लेते हैं|Let us grab a quick bite to eat
+GAME|क्या आप पाँच मिनट बात करने के लिए खाली हैं|Are you free to talk for five minutes
+GAME|मीटिंग के बारे में याद दिलाने के लिए धन्यवाद|Thanks for reminding me about the meeting
+GAME|माफ़ कीजिए मैं ट्रैफ़िक में फँस गया था|I am sorry I got stuck in traffic
+GAME|मुझे यह एक शानदार विचार लग रहा है|That sounds like a brilliant idea to me
+GAME|कृपया यहाँ अपना फ़ोन नंबर लिख दें|Please write down your phone number here
+GAME|मैं अभी भी धाराप्रवाह बोलना सीख रहा हूँ|I am still learning how to speak fluently
+GAME|जल्दबाज़ी मत करो अपना पूरा समय लो|Do not rush take your own sweet time
+GAME|दबाव में शांत रहना बहुत महत्वपूर्ण है|It is important to stay calm under pressure
+GAME|क्या आप मुझे विवरण भेज सकते हैं|Could you send me the details please
+GAME|खाली समय में आपका पसंदीदा शौक क्या है|What is your favorite hobby in free time
+GAME|आप हर हफ्ते अच्छी प्रगति कर रहे हैं|You are making great progress every week
+GAME|भेजने से पहले दस्तावेज़ को दोबारा जाँच लें|Double check the document before sending
+GAME|नई शुरुआत करने के लिए कभी देर नहीं होती|It is never too late to start fresh
+GAME|आज मेरे पास जो कुछ है मैं आभारी हूँ|I am grateful for everything I have today
+GAME|हवा के लिए कृपया खिड़की खोल दें|Please open the window for fresh air
+GAME|सामने का दरवाज़ा ठीक से बंद करना याद रखें|Remember to lock the front door properly
+GAME|रोज़ सुबह टहलने से शरीर स्वस्थ रहता है|Walking every morning keeps the body fit
+GAME|मुझे अपने मोबाइल की बैटरी चार्ज करनी है|I need to charge my mobile phone battery
+GAME|आज इंटरनेट कनेक्शन काफी धीमा है|The internet connection is quite slow today
+GAME|आत्मविश्वास नियमित अभ्यास से आता है|Confidence comes from regular daily practice
+GAME|अपने लक्ष्यों पर ध्यान दें और निरंतर रहें|Focus on your goals and stay consistent
+GAME|हर दिन छोटे कदम बड़े परिणाम लाते हैं|Small steps every day lead to big results
+GAME|मैं किसी दिन उस जगह पर जाना चाहूंगा|I would love to visit that place someday
+GAME|कृपया अपना फ़ोन साइलेंट मोड पर रखें|Please keep your phone on silent mode
+GAME|कोई भी उत्तर देने से पहले ध्यान से सुनें|Listen carefully before giving any answer
+GAME|आपका उच्चारण दिन ब दिन साफ़ हो रहा है|Your pronunciation is getting clearer every day
+GAME|आज हमारी मीटिंग बहुत फलदायी रही|We had a really productive meeting today
+GAME|मैं आज रात तक यह रिपोर्ट पूरी कर लूंगा|I will finish this report by tonight
+GAME|रोज़ पर्याप्त पानी पीना न भूलें|Do not forget to drink enough water daily
+GAME|स्वस्थ आदतें एक खुशहाल जीवन बनाती हैं|Healthy habits create a happy life
+GAME|मेरे लिए समय निकालने के लिए धन्यवाद|Thank you for taking time out for me
+GAME|कृपया सावधानी से गाड़ी चलाएं|Please drive carefully on the road
+GAME|हम सब मिलकर यह काम पूरा करेंगे|We will complete this work together
+GAME|क्या आप मेरी कार की चाबियाँ ढूँढ सकते हैं|Can you help me find my car keys
+GAME|मैं आपको दस मिनट में वापस फ़ोन करूंगा|I will call you back in ten minutes
+GAME|आपात स्थिति के लिए पैसे बचाना समझदारी है|Saving money for emergencies is always wise
+GAME|इसे पढ़ने के बाद मुझे अपने विचार बताएं|Let me know your thoughts after reading this
+GAME|हमें अपने पर्यावरण की देखभाल करनी चाहिए|We must take care of our environment
+GAME|आपने अपनी इंग्लिश में बहुत सुधार किया है|You have improved your English a lot
+GAME|कृपया मेरे बैग पर थोड़ी नज़र रखें|Please keep an eye on my bag
+GAME|मैं सुनिश्चित करूंगा कि ऐसा दोबारा न हो|I will make sure this does not happen again
+GAME|इसे पूरा करने में मुझे एक घंटा लग गया|It took me an hour to finish this
+GAME|क्या हम इस समस्या का समाधान ढूँढ सकते हैं|Can we find a solution to this problem
+GAME|थोड़ा आराम करने के बाद मैं बेहतर महसूस कर रहा हूँ|I am feeling better after taking some rest
+GAME|क्या आप मुझे एक मिनट के लिए पेन दे सकते हैं|Could you lend me a pen for a minute
+GAME|चलो एक छोटा ब्रेक लेते हैं|Let us take a short break now
+GAME|आप इस शहर में कितने समय से रह रहे हैं|How long have you been living here
+GAME|आपके आगे के जीवन की बहुत बहुत शुभकामनाएं|Wishing you a wonderful life ahead
 WORD | Reluctant | रिलक्टेंट | अनिच्छुक / हिचकिचाना | He was reluctant to speak English in public.
 WORD | Diligent | डिलिजेंट | मेहनती और लगनशील | She is a very diligent student.
 WORD | Inevitable | इनएविटेबल | जिसे टाला न जा सके | Change is inevitable in life.
@@ -1666,3 +1766,103 @@ WORD | Panacea | पैनेसिया | रामबाण इलाज | Re
 WORD | Redundant | रिडंडेंट | अनावश्यक / फालतू | Remove redundant words to make your sentence crisp.
 WORD | Serendipity | सेरेंडिपिटी | सुखद संयोग / किस्मत से कुछ अच्छा मिलना | Finding that rare book was pure serendipity.
 GAME | यह मेरे दिमाग से निकल गया। | It slipped my mind
+WORD|Abundant|अबंडेंट|प्रचुर मात्रा में / भरपूर|India has abundant natural resources and talent.
+WORD|Accurate|एक्यूरेट|सटीक / बिल्कुल सही|Please provide accurate information in the form.
+WORD|Achieve|अचीव|हासिल करना / प्राप्त करना|You can achieve anything with consistent hard work.
+WORD|Acknowledge|एक्नॉलेज|स्वीकार करना / प्राप्ति की सूचना देना|Please acknowledge the receipt of this email.
+WORD|Acquire|एक्वायर|अर्जित करना / प्राप्त करना|She worked hard to acquire good communication skills.
+WORD|Adapt|अडैप्ट|ढालना / अनुकूल बनाना|Humans can adapt quickly to new environments.
+WORD|Adequate|एडिक्वेट|पर्याप्त / काफी|Make sure you get adequate sleep every night.
+WORD|Admire|एडमायर|प्रशंसा करना / तारीफ़ करना|I truly admire your dedication and honesty.
+WORD|Afford|अफ़ोर्ड|खर्च उठा पाना / समर्थ होना|We cannot afford to waste any more time.
+WORD|Ambitious|एम्बिशस|महत्वाकांक्षी / बड़े सपने देखने वाला|He is a very ambitious young entrepreneur.
+WORD|Ample|एम्पल|पर्याप्त / भरपूर|There is ample space for parking outside.
+WORD|Analyze|एनालाइज़|विश्लेषण करना / गहराई से जाँचना|We need to analyze the data before deciding.
+WORD|Ancient|एंशिएंट|प्राचीन / बहुत पुराना|Varanasi is one of the oldest ancient cities.
+WORD|Anxious|एंक्शस|चिंतित / बेचैन|Students often feel anxious before their exams.
+WORD|Apparent|अपेरेंट|स्पष्ट / साफ़ दिखाई देने वाला|It was apparent that he was very tired.
+WORD|Appreciate|अप्रीशिएट|सराहना करना / कद्र करना|I really appreciate your timely help today.
+WORD|Approach|अप्रोच|दृष्टिकोण / नज़दीक पहुँचना|We need a practical approach to solve this.
+WORD|Appropriate|अप्रोप्रिएट|उचित / उपयुक्त|Please wear appropriate clothes for the interview.
+WORD|Approve|अप्रूव|मंजूरी देना / स्वीकार करना|The manager will approve your leave tomorrow.
+WORD|Arrogant|एरोगेंट|घमंडी / अभिमानी|Nobody likes an arrogant and rude person.
+WORD|Artificial|आर्टिफ़िशियल|कृत्रिम / बनावटी|Avoid eating food with artificial colors.
+WORD|Assertive|असर्टिव|आत्मविश्वासी / दृढ़|Be polite yet assertive during salary negotiations.
+WORD|Assist|असिस्ट|सहायता करना / मदद करना|How may I assist you with your order?
+WORD|Assume|अज़्यूम|मान लेना / अंदाज़ा लगाना|Do not assume anything without knowing the facts.
+WORD|Assure|अश्योर|विश्वास दिलाना / आश्वस्त करना|I assure you that everything will be fine.
+WORD|Astonished|एस्टॉनिश्ड|हैरान / चकित|Everyone was astonished by his sudden success.
+WORD|Authentic|ऑथेंटिक|असली / प्रामाणिक|This restaurant serves authentic Indian food.
+WORD|Available|अवेलेबल|उपलब्ध|Is this medicine available at the local shop?
+WORD|Avoid|अवॉइड|बचना / टालना|Try to avoid junk food for better health.
+WORD|Aware|अवेयर|जागरूक / जानकार|People should be aware of their legal rights.
+WORD|Awkward|ऑकवर्ड|अजीब / असहज|There was an awkward silence in the room.
+WORD|Beneficial|बेनिफ़िशियल|फायदेमंद / लाभकारी|Morning walk is very beneficial for health.
+WORD|Bitter|बिटर|कड़वा / कटु|The medicine tasted extremely bitter.
+WORD|Blame|ब्लेम|दोष देना / इल्ज़ाम लगाना|Do not blame others for your own mistakes.
+WORD|Blessing|ब्लेसिंग|आशीर्वाद / वरदान|Good health is the greatest blessing in life.
+WORD|Boast|बोस्ट|डींग मारना / शेखी बघारना|He always boasts about his wealth.
+WORD|Bold|बोल्ड|साहसी / निडर|She took a bold decision to start her business.
+WORD|Bother|बॉदर|परेशान करना / तकलीफ़ देना|Sorry to bother you while you are working.
+WORD|Brief|ब्रीफ़|संक्षिप्त / छोटा|Please give me a brief summary of the report.
+WORD|Brilliant|ब्रिलियंट|शानदार / प्रतिभाशाली|That was a brilliant idea to save time.
+WORD|Brittle|ब्रिटल|नाज़ुक / आसानी से टूटने वाला|Dry leaves become very brittle in winter.
+WORD|Burden|बर्डन|बोझ / भार|I do not want to be a burden on anyone.
+WORD|Calm|काम|शांत / स्थिर|Stay calm even in difficult situations.
+WORD|Capable|केपेबल|सक्षम / योग्य|You are capable of achieving great success.
+WORD|Cautious|कॉशस|सतर्क / सावधान|Be cautious while driving on wet roads.
+WORD|Celebrate|सेलिब्रेट|जश्न मनाना|Let us celebrate your victory tonight.
+WORD|Challenge|चैलेंज|चुनौती|Learning a new skill is an exciting challenge.
+WORD|Clarify|क्लैरिफ़ाई|स्पष्ट करना / समझाना|Could you clarify what you mean by this?
+WORD|Clumsy|क्लम्ज़ी|अनाड़ी / बेढंगा|He is a bit clumsy and drops things often.
+WORD|Collaborate|कोलैबोरेट|मिलकर काम करना / सहयोग करना|Both teams will collaborate on this new project.
+WORD|Comfort|कम्फ़र्ट|आराम / सुकून|She always prioritizes family comfort over luxury.
+WORD|Command|कमांड|आदेश / पकड़|She has a strong command over spoken English.
+WORD|Compete|कम्पीट|प्रतिस्पर्धा करना / मुकाबला करना|Thousands of students compete for this exam.
+WORD|Complain|कम्प्लेन|शिकायत करना|Do not complain; focus on finding a solution.
+WORD|Complex|कॉम्प्लेक्स|जटिल / पेचीदा|This math problem looks quite complex.
+WORD|Compliment|कॉम्प्लिमेंट|तारीफ़ / प्रशंसा|She gave me a nice compliment on my shirt.
+WORD|Concentrate|कॉन्सन्ट्रेट|ध्यान केंद्रित करना|Turn off the TV so I can concentrate on study.
+WORD|Concern|कन्सर्न|चिंता / सरोकार|Thank you for showing concern for my health.
+WORD|Confess|कन्फ़ेस|कबूल करना / गलती मानना|He finally confessed that he broke the glass.
+WORD|Confident|कॉन्फ़िडेंट|आत्मविश्वासी|Speak clearly and look confident in interviews.
+WORD|Conflict|कॉन्फ़्लिक्ट|विवाद / टकराव|Try to resolve the conflict peacefully.
+WORD|Confuse|कन्फ़्यूज़|भ्रमित करना / उलझाना|Too many rules can confuse beginners.
+WORD|Conscience|कॉन्शन्स|अंतरात्मा / विवेक|Always listen to your inner conscience.
+WORD|Consequence|कॉन्सिक्वेंस|परिणाम / नतीजा|Every action has a natural consequence.
+WORD|Consider|कन्सिडर|विचार करना / मानना|We will consider your application carefully.
+WORD|Consistent|कन्सिस्टेंट|निरंतर / लगातार|Be consistent with your daily English practice.
+WORD|Consult|कन्सल्ट|सलाह लेना / परामर्श करना|You should consult a doctor for this fever.
+WORD|Consume|कन्ज़्यूम|खपत करना / सेवन करना|We should consume fresh fruits every day.
+WORD|Content|कन्टेन्ट|संतुष्ट / विषय-वस्तु|Be content with what you have while striving for more.
+WORD|Contribute|कॉन्ट्रिब्यूट|योगदान देना|Everyone should contribute to keeping the city clean.
+WORD|Convenient|कन्वीनिएंट|सुविधाजनक / आसान|Online banking is very convenient nowadays.
+WORD|Convince|कन्विन्स|मनाना / विश्वास दिलाना|It took hours to convince him to join us.
+WORD|Courage|करेज|साहस / हिम्मत|It takes courage to speak in front of a crowd.
+WORD|Courteous|कर्टियस|विनम्र / शिष्ट|The hotel staff was very polite and courteous.
+WORD|Crucial|क्रूशियल|अत्यंत महत्वपूर्ण / निर्णायक|Time management is crucial for exam success.
+WORD|Curious|क्यूरियस|जिज्ञासु / जानने को उत्सुक|Children are naturally curious about everything.
+WORD|Custom|कस्टम|रीति-रिवाज / परंपरा|Respecting elders is an important Indian custom.
+WORD|Damage|डैमेज|नुकसान / क्षति|Heavy rain caused severe damage to the crops.
+WORD|Daring|डेयरिंग|साहसी / हिम्मती|Climbing that steep mountain was a daring act.
+WORD|Debate|डिबेट|बहस / वाद-विवाद|They had a healthy debate on modern education.
+WORD|Decent|डीसेंट|सभ्य / अच्छा / ठीक-ठाक|He earns a decent salary in his new job.
+WORD|Decision|डिसीज़न|निर्णय / फैसला|Making the right decision at the right time matters.
+WORD|Dedication|डेडिकेशन|समर्पण / लगन|Her dedication to yoga is truly inspiring.
+WORD|Defeat|डिफ़ीट|हार / पराजित करना|Never accept defeat without giving your best.
+WORD|Defend|डिफ़ेंड|बचाव करना / रक्षा करना|Every citizen has the right to defend themselves.
+WORD|Definite|डेफ़िनिट|निश्चित / पक्का|We need a definite answer by tomorrow morning.
+WORD|Delay|डिले|देरी / विलंब|The flight was delayed due to dense fog.
+WORD|Delicate|डेलिकेट|नाज़ुक / कोमल|Handle the delicate glass items with care.
+WORD|Delicious|डिलीशियस|स्वादिष्ट / लज़ीज़|My mother cooked a delicious meal today.
+WORD|Deliver|डिलीवर|पहुँचाना / देना|The courier will deliver the parcel by evening.
+WORD|Demonstrate|डेमॉन्स्ट्रेट|प्रदर्शित करना / करके दिखाना|Let me demonstrate how this app works.
+WORD|Deny|डिनाई|इनकार करना / मना करना|He denied all the false allegations against him.
+WORD|Depend|डिपेंड|निर्भर होना|Success depends on your daily habits.
+WORD|Deserve|डिज़र्व|लायक होना / योग्य होना|You deserve a break after working so hard.
+WORD|Desire|डिज़ायर|इच्छा / कामना|She has a strong desire to learn English.
+WORD|Desperate|डेस्परेट|बेताब / निराश|He was desperate to find a good job.
+WORD|Destination|डेस्टिनेशन|मंज़िल / गंतव्य|We finally reached our destination before sunset.
+WORD|Destroy|डिस्ट्रॉय|नष्ट करना / बर्बाद करना|Anger can destroy even the strongest relationships.
+WORD|Determine|डिटरमिन|तय करना / दृढ़ निश्चय करना|Your mindset determines your future success.
+WORD|Diligent|डिलिजेंट|मेहनती / परिश्रमी|She is a diligent student who never misses class.
