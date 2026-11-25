@@ -104,11 +104,6 @@ WORD | Kindle | किंडल | जगाना / प्रेरित कर
 WORD | Lethal | लीथल | जानलेवा / घातक | Snake venom can be lethal if untreated.
 WORD | Mundane | मंडे्न | रोज़मर्रा का उबाऊ काम | He wanted a break from his mundane routine.
 WORD | Negligible | नेग्लिजिबल | न के बराबर | The difference in price is negligible.
-WORD | Obsolete | ऑब्सोलीट | पुराना / चलन से बाहर | Typewriters have become obsolete now.
-WORD | Perseverance | पर्सिवियरेंस | दृढ़ निश्चय और लगन | Perseverance is the key to mastering any language.
-WORD | Quandary | क्वांडरी | असमंजस की स्थिति | She was in a quandary over which dress to buy.
-WORD | Rectify | रेक्टिफ़ाई | सुधारना / ठीक करना | Please rectify the spelling mistakes in this file.
-WORD | Spontaneous | स्पॉन्टेनियस | स्वाभाविक / बिना तैयारी के | His spontaneous joke made everyone laugh.
 WORD | Tedious | टीडियस | थकाऊ और उबाऊ | Filling long forms can be very tedious.
 WORD | Ubiquitous | यूबिक्विटस | सर्वव्यापी / हर जगह मौजूद | Smartphones have become ubiquitous nowadays.
 WORD | Vivid | विविड | जीवंत / स्पष्ट | I still have vivid memories of my childhood.
