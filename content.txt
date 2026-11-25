@@ -74,9 +74,6 @@ WORD | Impeccable | इम्पेकेबल | त्रुटिहीन / 
 WORD | Jeopardize | जेपर्डाइज़ | ख़तरे में डालना | Do not jeopardize your career for small gains.
 WORD | Keen | कीन | उत्सुक / इच्छुक | He is very keen to learn spoken English.
 WORD | Lucid | ल्यूसिड | सरल और स्पष्ट | The teacher explained the topic in a lucid manner.
-WORD | Meticulous | मेटिक्युलस | हर बारीकी पर ध्यान देने वाला | She is meticulous about her daily routine.
-WORD | Nostalgia | नॉस्टैल्जिया | पुरानी यादों की तड़प | Seeing old photos filled me with nostalgia.
-WORD | Optimistic | ऑप्टिमिस्टिक | आशावादी | Always stay optimistic about your future.
 WORD | Pessimistic | पेसिमिस्टिक | निराशावादी | Do not be pessimistic before trying.
 WORD | Pragmatic | प्रैग्मैटिक | व्यावहारिक | We need a pragmatic solution to this problem.
 WORD | Acumen | एक्यूमेन | कुशाग्र बुद्धि / तेज़ समझ | Her business acumen helped the company grow fast.
