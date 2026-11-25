@@ -247,7 +247,6 @@ DAY | 13 | Day 13: Doctor & Health | Come back after three days if the fever doe
 DAY | 13 | Day 13: Doctor & Health | Where is the nearest medical store to buy these medicines? | ये दवाइयां खरीदने के लिए सबसे नज़दीकी मेडिकल स्टोर कहाँ है?
 DAY | 13 | Day 13: Doctor & Health | I am feeling much better after taking your treatment. | आपका इलाज लेने के बाद मैं काफी बेहतर महसूस कर रहा हूँ।
 DAY | 13 | Day 13: Doctor & Health | Thank you so much doctor for your care and guidance. | आपकी देखभाल और मार्गदर्शन के लिए बहुत-बहुत धन्यवाद डॉक्टर।
-
 DAY | 14 | Day 14: Travel & Directions | Excuse me, could you please guide me to the railway station? | माफ़ कीजिए, क्या आप कृपया मुझे रेलवे स्टेशन का रास्ता बता सकते हैं?
 DAY | 14 | Day 14: Travel & Directions | Go straight ahead and take the second left turn. | सीधे आगे जाएं और दूसरा बायां मोड़ लें।
 DAY | 14 | Day 14: Travel & Directions | The post office is right opposite the city hospital. | डाकघर शहर के अस्पताल के ठीक सामने है।
@@ -256,7 +255,204 @@ DAY | 14 | Day 14: Travel & Directions | It is just a five-minute walk from here
 DAY | 14 | Day 14: Travel & Directions | Am I on the right road to the airport? | क्या मैं एयरपोर्ट जाने वाले सही रास्ते पर हूँ?
 DAY | 14 | Day 14: Travel & Directions | No, you took a wrong turn; please go back and turn right. | नहीं, आपने गलत मोड़ ले लिया है; कृपया वापस जाएं और दाएं मुड़ें।
 DAY | 14 | Day 14: Travel & Directions | Could you please drop me at the main market? | क्या आप कृपया मुझे मुख्य बाज़ार में छोड़ सकते हैं?
-DAY | 14 | Day 14: Travel & Directions | How much will you
+DAY | 14 | Day 14: Travel & Directions | How much will you charge to go to the station? | स्टेशन जाने के लिए आप कितना किराया लेंगे?
+DAY | 14 | Day 14: Travel & Directions | Please turn on the meter or let us fix a fair price. | कृपया मीटर चालू करें या चलो एक उचित किराया तय कर लेते हैं।
+DAY | 14 | Day 14: Travel & Directions | I would like to book two tickets to New Delhi. | मैं नई दिल्ली के लिए दो टिकट बुक करना चाहूँगा।
+DAY | 14 | Day 14: Travel & Directions | Is there a direct train available for tomorrow morning? | क्या कल सुबह के लिए कोई सीधी ट्रेन उपलब्ध है?
+DAY | 14 | Day 14: Travel & Directions | Which platform does the Vande Bharat Express depart from? | वंदे भारत एक्सप्रेस किस प्लेटफॉर्म से रवाना होती है?
+DAY | 14 | Day 14: Travel & Directions | Is the train running on time or is it delayed? | क्या ट्रेन समय पर चल रही है या देरी से चल रही है?
+DAY | 14 | Day 14: Travel & Directions | Excuse me, I think you are sitting in my reserved seat. | माफ़ कीजिए, मुझे लगता है आप मेरी आरक्षित सीट पर बैठे हैं।
+DAY | 14 | Day 14: Travel & Directions | Could you please help me put this bag on the upper rack? | क्या आप कृपया इस बैग को ऊपर के रैक पर रखने में मेरी मदद कर सकते हैं?
+DAY | 14 | Day 14: Travel & Directions | Please keep an eye on my luggage for a minute. | कृपया एक मिनट के लिए मेरे सामान पर नज़र रखिएगा।
+DAY | 14 | Day 14: Travel & Directions | Could you wake me up when we reach Prayagraj? | जब हम प्रयागराज पहुँचें तो क्या आप मुझे जगा देंगे?
+DAY | 14 | Day 14: Travel & Directions | Where is the baggage claim counter at this airport? | इस एयरपोर्ट पर सामान लेने (बैगेज क्लेम) का काउंटर कहाँ है?
+DAY | 14 | Day 14: Travel & Directions | I have a confirmed hotel reservation under my name. | मेरे नाम से होटल में एक पक्का आरक्षण (रिज़र्वेशन) है।
+DAY | 14 | Day 14: Travel & Directions | What is the check-out time at your hotel? | आपके होटल में चेक-आउट का समय क्या है?
+DAY | 14 | Day 14: Travel & Directions | Can you arrange a local cab for sightseeing tomorrow? | क्या आप कल घूमने-फिरने के लिए एक स्थानीय कैब की व्यवस्था कर सकते हैं?
+DAY | 14 | Day 14: Travel & Directions | Please drive carefully, there is a sharp turn ahead. | कृपया सावधानी से गाड़ी चलाएं, आगे एक तीखा मोड़ है।
+DAY | 14 | Day 14: Travel & Directions | We reached our destination safely and right on time. | हम सुरक्षित रूप से और बिल्कुल समय पर अपनी मंज़िल पर पहुँच गए।
+DAY | 14 | Day 14: Travel & Directions | Wish you a very safe and pleasant journey ahead! | आपकी आगे की यात्रा बहुत सुरक्षित और सुखद हो!
+DAY | 15 | Day 15: Bank & Office | Good morning, I would like to open a new savings account. | सुप्रभात, मैं एक नया बचत खाता (सेविंग्स अकाउंट) खोलना चाहता हूँ।
+DAY | 15 | Day 15: Bank & Office | What documents are required for KYC verification? | केवाईसी (KYC) सत्यापन के लिए कौन-कौन से दस्तावेज़ आवश्यक हैं?
+DAY | 15 | Day 15: Bank & Office | I have brought my Aadhaar card, PAN card, and two photos. | मैं अपना आधार कार्ड, पैन कार्ड और दो फोटो साथ लाया हूँ।
+DAY | 15 | Day 15: Bank & Office | Where can I get the cash deposit slip? | मुझे नकद जमा करने की पर्ची (डिपॉजिट स्लिप) कहाँ से मिल सकती है?
+DAY | 15 | Day 15: Bank & Office | Could you please update my mobile number in my bank account? | क्या आप कृपया मेरे बैंक खाते में मेरा मोबाइल नंबर अपडेट कर सकते हैं?
+DAY | 15 | Day 15: Bank & Office | My ATM card has expired, and I need to apply for a new one. | मेरा एटीएम कार्ड समाप्त (एक्सपायर) हो गया है, और मुझे नए के लिए आवेदन करना है।
+DAY | 15 | Day 15: Bank & Office | Please get my passbook printed up to today’s date. | कृपया आज की तारीख तक मेरी पासबुक प्रिंट कर दीजिए।
+DAY | 15 | Day 15: Bank & Office | Which counter handles NEFT and RTGS fund transfers? | एनईएफटी (NEFT) और आरटीजीएस (RTGS) फंड ट्रांसफर किस काउंटर पर होता है?
+DAY | 15 | Day 15: Bank & Office | My online transaction failed, but the amount was deducted. | मेरा ऑनलाइन लेन-देन विफल हो गया, लेकिन पैसे कट गए हैं।
+DAY | 15 | Day 15: Bank & Office | How many working days will it take for the refund? | रिफंड आने में कितने कार्यदिवस (वर्किंग डेज़) लगेंगे?
+DAY | 15 | Day 15: Bank & Office | Good morning sir, I am here to submit my application form. | सुप्रभात सर, मैं यहाँ अपना आवेदन पत्र जमा करने आया हूँ।
+DAY | 15 | Day 15: Bank & Office | Could you please tell me which room the officer sits in? | क्या आप कृपया मुझे बता सकते हैं कि अधिकारी किस कमरे में बैठते हैं?
+DAY | 15 | Day 15: Bank & Office | Please put an official stamp and signature on this receipt. | कृपया इस रसीद पर आधिकारिक मुहर और हस्ताक्षर कर दीजिए।
+DAY | 15 | Day 15: Bank & Office | I have attached all the self-attested copies with the file. | मैंने फ़ाइल के साथ सभी स्व-सत्यापित (सेल्फ-अटेस्टेड) प्रतियां संलग्न कर दी हैं।
+DAY | 15 | Day 15: Bank & Office | May I know the current status of my pending file? | क्या मैं अपनी लंबित फ़ाइल की वर्तमान स्थिति जान सकता हूँ?
+DAY | 15 | Day 15: Bank & Office | Please check if any signature is missing on this page. | कृपया जांच लें कि इस पृष्ठ पर कोई हस्ताक्षर छूट तो नहीं गया है।
+DAY | 15 | Day 15: Bank & Office | Could you please forward this document to the accounts department? | क्या आप कृपया इस दस्तावेज़ को लेखा विभाग (अकाउंट्स डिपार्टमेंट) में भेज सकते हैं?
+DAY | 15 | Day 15: Bank & Office | I need a hard copy of this quotation for our office records. | हमें अपने ऑफिस रिकॉर्ड के लिए इस कोटेशन की एक हार्ड कॉपी चाहिए।
+DAY | 15 | Day 15: Bank & Office | Let me scan and email these papers to you right away. | मैं अभी इन कागज़ात को स्कैन करके आपको ईमेल कर देता हूँ।
+DAY | 15 | Day 15: Bank & Office | The printer is out of paper, let me refill it quickly. | प्रिंटर में कागज़ खत्म हो गया है, मैं इसे जल्दी से भर देता हूँ।
+DAY | 15 | Day 15: Bank & Office | Please verify the bill amount before releasing the payment. | भुगतान जारी करने से पहले कृपया बिल की राशि सत्यापित कर लें।
+DAY | 15 | Day 15: Bank & Office | Our office timings are from 10 AM to 6 PM, Monday to Saturday. | हमारे ऑफिस का समय सोमवार से शनिवार सुबह 10 बजे से शाम 6 बजे तक है।
+DAY | 15 | Day 15: Bank & Office | I need two days of casual leave next week for personal work. | मुझे निजी काम के लिए अगले हफ्ते दो दिन की आकस्मिक छुट्टी (कैज़ुअल लीव) चाहिए।
+DAY | 15 | Day 15: Bank & Office | Please hand over the charge to Rohit before going on leave. | छुट्टी पर जाने से पहले कृपया कार्यभार रोहित को सौंप दें।
+DAY | 15 | Day 15: Bank & Office | Thank you very much for processing my request so quickly. | मेरे अनुरोध को इतनी जल्दी पूरा करने के लिए बहुत-बहुत धन्यवाद।
+
+DAY | 16 | Day 16: Making Excuses | I am really sorry for being late, I got stuck in a huge traffic jam. | देर से आने के लिए मुझे वास्तव में खेद है, मैं भारी ट्रैफिक जाम में फंस गया था।
+DAY | 16 | Day 16: Making Excuses | My bike broke down halfway, so I had to look for a mechanic. | मेरी बाइक आधे रास्ते में खराब हो गई, इसलिए मुझे मैकेनिक ढूंढना पड़ा।
+DAY | 16 | Day 16: Making Excuses | I missed the morning bus by just two minutes today. | आज सुबह की बस मुझसे बस दो मिनट से छूट गई।
+DAY | 16 | Day 16: Making Excuses | My phone battery died, so I could not inform you on time. | मेरे फ़ोन की बैटरी खत्म हो गई थी, इसलिए मैं आपको समय पर सूचित नहीं कर सका।
+DAY | 16 | Day 16: Making Excuses | There was a severe power cut and Wi-Fi outage in my area. | मेरे इलाके में बिजली की भारी कटौती थी और वाई-फ़ाई बंद था।
+DAY | 16 | Day 16: Making Excuses | Something urgent came up at home, so I had to rush back. | घर पर अचानक कुछ ज़रूरी काम आ गया, इसलिए मुझे तुरंत वापस भागना पड़ा।
+DAY | 16 | Day 16: Making Excuses | I had to take my father to the hospital for a routine checkup. | मुझे अपने पिताजी को नियमित जांच के लिए अस्पताल ले जाना पड़ा।
+DAY | 16 | Day 16: Making Excuses | I have been down with a viral fever since last night. | मुझे कल रात से वायरल बुखार हो गया है।
+DAY | 16 | Day 16: Making Excuses | The doctor has advised me to take complete bed rest for two days. | डॉक्टर ने मुझे दो दिन तक पूरी तरह बिस्तर पर आराम करने की सलाह दी है।
+DAY | 16 | Day 16: Making Excuses | I will not be able to attend today’s party due to prior commitments. | पहले से तय व्यस्तताओं के कारण मैं आज की पार्टी में शामिल नहीं हो पाऊँगा।
+DAY | 16 | Day 16: Making Excuses | Honestly, it completely slipped my mind because of heavy workload. | सच कहूँ तो काम के भारी दबाव के कारण यह मेरे दिमाग से पूरी तरह निकल गया।
+DAY | 16 | Day 16: Making Excuses | My laptop crashed suddenly while I was saving the presentation. | जब मैं प्रेजेंटेशन सेव कर रहा था, तभी मेरा लैपटॉप अचानक क्रैश हो गया।
+DAY | 16 | Day 16: Making Excuses | Heavy rain flooded the main road, making it impossible to drive. | भारी बारिश के कारण मुख्य सड़क पर पानी भर गया, जिससे गाड़ी चलाना असंभव हो गया।
+DAY | 16 | Day 16: Making Excuses | I accidentally set my alarm for PM instead of AM. | मैंने गलती से सुबह (AM) के बजाय शाम (PM) का अलार्म लगा दिया था।
+DAY | 16 | Day 16: Making Excuses | Some unexpected guests arrived at our house just as I was leaving. | जैसे ही मैं निकलने वाला था, हमारे घर पर कुछ बिन बुलाए मेहमान आ गए।
+DAY | 16 | Day 16: Making Excuses | I was held up in a long meeting with our senior client. | मैं अपने सीनियर क्लाइंट के साथ एक लंबी मीटिंग में फंस गया था।
+DAY | 16 | Day 16: Making Excuses | I misplaced my house keys and spent thirty minutes searching for them. | मैंने अपने घर की चाबियां कहीं रख दी थीं और उन्हें ढूंढने में तीस मिनट लग गए।
+DAY | 16 | Day 16: Making Excuses | My stomach is upset today, so I should avoid outside food. | आज मेरा पेट खराब है, इसलिए मुझे बाहर के खाने से बचना चाहिए।
+DAY | 16 | Day 16: Making Excuses | I have an early morning train tomorrow, so I must leave now. | कल सुबह मेरी जल्दी की ट्रेन है, इसलिए मुझे अब निकलना होगा।
+DAY | 16 | Day 16: Making Excuses | I would love to join you guys, but I am tight on budget this month. | मैं आप लोगों के साथ ज़रूर जुड़ना चाहता, लेकिन इस महीने मेरा बजट थोड़ा तंग है।
+DAY | 16 | Day 16: Making Excuses | The bank server was down all afternoon, so the transfer got delayed. | पूरी दोपहर बैंक का सर्वर डाउन था, इसलिए ट्रांसफर में देरी हो गई।
+DAY | 16 | Day 16: Making Excuses | I misunderstood the date and thought the event was next Sunday. | मुझे तारीख समझने में गलती हो गई और मुझे लगा कार्यक्रम अगले रविवार को है।
+DAY | 16 | Day 16: Making Excuses | Please give me one more day, I will definitely finish it by tomorrow. | कृपया मुझे एक दिन और दे दें, मैं इसे कल तक निश्चित रूप से पूरा कर लूँगा।
+DAY | 16 | Day 16: Making Excuses | It was beyond my control, otherwise I would have been there on time. | यह मेरे नियंत्रण से बाहर था, वरना मैं समय पर वहाँ पहुँच जाता।
+DAY | 16 | Day 16: Making Excuses | Thank you so much for understanding my situation so patiently. | मेरी स्थिति को इतने धैर्य से समझने के लिए आपका बहुत-बहुत धन्यवाद।
+
+DAY | 17 | Day 17: Giving Advice | You should practice speaking English for at least fifteen minutes daily. | आपको रोज़ाना कम से कम पंद्रह मिनट अंग्रेजी बोलने का अभ्यास करना चाहिए।
+DAY | 17 | Day 17: Giving Advice | Why do not you start waking up an hour earlier every morning? | आप हर सुबह एक घंटा पहले उठना क्यों नहीं शुरू करते?
+DAY | 17 | Day 17: Giving Advice | If I were you, I would accept that job offer immediately. | अगर मैं आपकी जगह होता, तो मैं उस नौकरी के प्रस्ताव को तुरंत स्वीकार कर लेता।
+DAY | 17 | Day 17: Giving Advice | You had better consult a good doctor before taking any medicine. | कोई भी दवा लेने से पहले आपके लिए किसी अच्छे डॉक्टर से सलाह लेना बेहतर होगा।
+DAY | 17 | Day 17: Giving Advice | It would be wise to save a portion of your salary every month. | हर महीने अपने वेतन का एक हिस्सा बचाना बुद्धिमानी होगी।
+DAY | 17 | Day 17: Giving Advice | Do not waste your precious time scrolling on social media. | सोशल मीडिया पर स्क्रॉल करके अपना कीमती समय बर्बाद मत करो।
+DAY | 17 | Day 17: Giving Advice | You ought to respect your elders and listen to their experience. | आपको अपने बड़ों का सम्मान करना चाहिए और उनके अनुभव को सुनना चाहिए।
+DAY | 17 | Day 17: Giving Advice | Make sure you double-check every document before signing it. | सुनिश्चित करें कि आप हस्ताक्षर करने से पहले हर दस्तावेज़ की दोबारा जांच कर लें।
+DAY | 17 | Day 17: Giving Advice | Why do not you try learning a new skill during your free time? | आप अपने खाली समय में कोई नया कौशल सीखने की कोशिश क्यों नहीं करते?
+DAY | 17 | Day 17: Giving Advice | You should avoid eating junk food late at night. | आपको देर रात जंक फ़ूड खाने से बचना चाहिए।
+DAY | 17 | Day 17: Giving Advice | Always keep a backup of your important files on Google Drive. | अपनी महत्वपूर्ण फ़ाइलों का बैकअप हमेशा गूगल ड्राइव पर रखें।
+DAY | 17 | Day 17: Giving Advice | Do not make hasty decisions when you are angry or stressed. | जब आप गुस्से या तनाव में हों तो जल्दबाज़ी में फैसले न लें।
+DAY | 17 | Day 17: Giving Advice | You should drink plenty of water to stay hydrated in summer. | गर्मियों में हाइड्रेटेड रहने के लिए आपको खूब पानी पीना चाहिए।
+DAY | 17 | Day 17: Giving Advice | Have you thought about investing in a monthly SIP plan? | क्या आपने मासिक एसआईपी (SIP) योजना में निवेश करने के बारे में सोचा है?
+DAY | 17 | Day 17: Giving Advice | Never compare your journey with someone else’s success. | कभी भी अपनी यात्रा की तुलना किसी और की सफलता से न करें।
+DAY | 17 | Day 17: Giving Advice | You need to focus on one goal at a time for better results. | बेहतर परिणामों के लिए आपको एक समय में एक ही लक्ष्य पर ध्यान केंद्रित करने की ज़रूरत है।
+DAY | 17 | Day 17: Giving Advice | Try writing down your daily tasks in a small notebook. | अपने रोज़मर्रा के कामों को एक छोटी नोटबुक में लिखने का प्रयास करें।
+DAY | 17 | Day 17: Giving Advice | It is always better to ask questions than to stay confused. | भ्रमित रहने से हमेशा बेहतर है कि सवाल पूछ लिए जाएं।
+DAY | 17 | Day 17: Giving Advice | You should apologize to him and clear up the misunderstanding. | आपको उससे माफ़ी मांगनी चाहिए और गलतफ़हमी दूर करनी चाहिए।
+DAY | 17 | Day 17: Giving Advice | Do not give up just because things are getting tough right now. | सिर्फ़ इसलिए हार मत मानो क्योंकि अभी चीज़ें कठिन हो रही हैं।
+DAY | 17 | Day 17: Giving Advice | Wear a helmet every time you ride your scooter, even for short distances. | जब भी आप स्कूटर चलाएं, चाहे छोटी दूरी के लिए ही क्यों न हो, हेलमेट ज़रूर पहनें।
+DAY | 17 | Day 17: Giving Advice | You should read good books to improve your vocabulary naturally. | स्वाभाविक रूप से अपनी शब्दावली सुधारने के लिए आपको अच्छी किताबें पढ़नी चाहिए।
+DAY | 17 | Day 17: Giving Advice | Listen more and speak thoughtfully during important discussions. | महत्वपूर्ण चर्चाओं के दौरान अधिक सुनें और सोच-समझकर बोलें।
+DAY | 17 | Day 17: Giving Advice | Take care of your health first, everything else comes second. | पहले अपनी सेहत का ख्याल रखें, बाकी सब कुछ बाद में आता है।
+DAY | 17 | Day 17: Giving Advice | I am only telling you this because I truly care about your future. | मैं आपको यह केवल इसलिए बता रहा हूँ क्योंकि मुझे वास्तव में आपके भविष्य की परवाह है।
+
+DAY | 18 | Day 18: Compliments | You did a fantastic job on that presentation today! | आपने आज उस प्रेजेंटेशन में शानदार काम किया!
+DAY | 18 | Day 18: Compliments | That color really suits you, you are looking very smart. | यह रंग आप पर वाकई जंच रहा है, आप बहुत स्मार्ट लग रहे हैं।
+DAY | 18 | Day 18: Compliments | I really admire your dedication and hard work. | मैं वास्तव में आपके समर्पण और कड़ी मेहनत की प्रशंसा करता हूँ।
+DAY | 18 | Day 18: Compliments | Your English fluency has improved remarkably over the past month. | पिछले एक महीने में आपकी अंग्रेजी बोलने की प्रवाहता में उल्लेखनीय सुधार हुआ है।
+DAY | 18 | Day 18: Compliments | You have a wonderful sense of humor that brightens the room. | आपका सेंस ऑफ़ ह्यूमर कमाल का है जो पूरे माहौल को खुशनुमा बना देता है।
+DAY | 18 | Day 18: Compliments | This homemade meal tastes absolutely delicious, you are a great cook! | घर का बना यह खाना वाकई लाजवाब है, आप बहुत बेहतरीन रसोइया हैं!
+DAY | 18 | Day 18: Compliments | I love how calm and patient you stay even under pressure. | मुझे यह बहुत पसंद है कि आप दबाव में भी कितने शांत और धैर्यवान रहते हैं।
+DAY | 18 | Day 18: Compliments | That was a very thoughtful and creative solution to the problem. | समस्या का वह एक बहुत ही विचारशील और रचनात्मक समाधान था।
+DAY | 18 | Day 18: Compliments | You always bring positive energy wherever you go. | आप जहाँ भी जाते हैं, हमेशा सकारात्मक ऊर्जा लेकर आते हैं।
+DAY | 18 | Day 18: Compliments | Your handwriting is so neat and legible! | आपकी लिखावट बहुत साफ़ और पढ़ने योग्य है!
+DAY | 18 | Day 18: Compliments | You have a great taste in music and books. | संगीत और किताबों में आपकी पसंद बहुत बढ़िया है।
+DAY | 18 | Day 18: Compliments | I am truly impressed by your attention to every small detail. | हर छोटी बारीकी पर आपके ध्यान से मैं वास्तव में प्रभावित हूँ।
+DAY | 18 | Day 18: Compliments | You are such a reliable and trustworthy friend. | आप एक बहुत ही भरोसेमंद और विश्वसनीय दोस्त हैं।
+DAY | 18 | Day 18: Compliments | That watch looks super classy on your wrist. | आपकी कलाई पर वह घड़ी बेहद क्लासी लग रही है।
+DAY | 18 | Day 18: Compliments | You handled that difficult customer with great professionalism. | आपने उस कठिन ग्राहक को बहुत ही व्यावसायिकता के साथ संभाला।
+DAY | 18 | Day 18: Compliments | Your smile is truly contagious and warm. | आपकी मुस्कान वास्तव में संक्रामक और आत्मीय है।
+DAY | 18 | Day 18: Compliments | You explain complex topics in such a simple and clear way. | आप जटिल विषयों को इतने सरल और स्पष्ट तरीके से समझाते हैं।
+DAY | 18 | Day 18: Compliments | Keep up the amazing work, you are going to achieve big things! | यह शानदार काम जारी रखें, आप बहुत बड़ी उपलब्धियां हासिल करने वाले हैं!
+DAY | 18 | Day 18: Compliments | Your home is decorated so tastefully and neatly. | आपका घर बहुत ही सुरुचिपूर्ण और सफ़ाई से सजाया गया है।
+DAY | 18 | Day 18: Compliments | You are an inspiration to everyone in our team. | आप हमारी टीम में हर किसी के लिए एक प्रेरणा हैं।
+DAY | 18 | Day 18: Compliments | I appreciate how helpful and kind you are to everyone. | मैं इस बात की सराहना करता हूँ कि आप सभी के प्रति कितने मददगार और दयालु हैं।
+DAY | 18 | Day 18: Compliments | That haircut looks great on you! | यह हेयरकट आप पर बहुत अच्छा लग रहा है!
+DAY | 18 | Day 18: Compliments | You have a natural talent for public speaking. | आपमें सार्वजनिक रूप से बोलने की स्वाभाविक प्रतिभा है।
+DAY | 18 | Day 18: Compliments | Working with you is always a smooth and enjoyable experience. | आपके साथ काम करना हमेशा एक सहज और सुखद अनुभव होता है।
+DAY | 18 | Day 18: Compliments | Thank you so much for your kind words, that means a lot to me! | आपके प्यारे शब्दों के लिए बहुत-बहुत धन्यवाद, यह मेरे लिए बहुत मायने रखता है!
+
+DAY | 19 | Day 19: Handling Anger | Please calm down, shouting will not solve this problem. | कृपया शांत हो जाइए, चिल्लाने से इस समस्या का समाधान नहीं होगा।
+DAY | 19 | Day 19: Handling Anger | Let us take a deep breath and talk about this peacefully. | आइए एक गहरी सांस लें और इस बारे में शांति से बात करें।
+DAY | 19 | Day 19: Handling Anger | I understand why you are upset, please listen to my side too. | मैं समझता हूँ कि आप क्यों परेशान हैं, कृपया मेरा पक्ष भी सुन लीजिए।
+DAY | 19 | Day 19: Handling Anger | Please do not raise your voice at me, let us speak respectfully. | कृपया मुझ पर अपनी आवाज़ ऊँची न करें, आइए सम्मानपूर्वक बात करें।
+DAY | 19 | Day 19: Handling Anger | We are both angry right now, let us discuss this after ten minutes. | हम दोनों अभी गुस्से में हैं, आइए दस मिनट बाद इस पर चर्चा करते हैं।
+DAY | 19 | Day 19: Handling Anger | That is not what I meant, there is a clear misunderstanding here. | मेरा यह मतलब नहीं था, यहाँ एक साफ़ गलतफ़हमी हो गई है।
+DAY | 19 | Day 19: Handling Anger | Blaming each other is a waste of time, let us find a solution. | एक-दूसरे को दोष देना समय की बर्बादी है, आइए कोई समाधान निकालें।
+DAY | 19 | Day 19: Handling Anger | Please mind your language, I am trying to be polite with you. | कृपया अपनी भाषा पर ध्यान दें, मैं आपके साथ विनम्र रहने की कोशिश कर रहा हूँ।
+DAY | 19 | Day 19: Handling Anger | I do not want to argue over such a trivial matter. | मैं इतनी मामूली बात पर बहस नहीं करना चाहता।
+DAY | 19 | Day 19: Handling Anger | Give me a moment to explain what actually happened. | मुझे यह समझाने के लिए एक पल दें कि वास्तव में क्या हुआ था।
+DAY | 19 | Day 19: Handling Anger | It is totally unfair to judge the situation without knowing the facts. | तथ्यों को जाने बिना स्थिति का आकलन करना पूरी तरह अनुचित है।
+DAY | 19 | Day 19: Handling Anger | I am really disappointed with how this was handled. | इस मामले को जिस तरह से संभाला गया, उससे मैं वास्तव में निराश हूँ।
+DAY | 19 | Day 19: Handling Anger | Let us stick to the main issue instead of bringing up old things. | पुरानी बातें उखाड़ने के बजाय आइए मुख्य मुद्दे पर टिके रहें।
+DAY | 19 | Day 19: Handling Anger | I refuse to continue this conversation if you keep interrupting me. | यदि आप मुझे बार-बार टोकते रहेंगे तो मैं इस बातचीत को जारी रखने से इनकार करता हूँ।
+DAY | 19 | Day 19: Handling Anger | You have every right to feel frustrated, I am here to help fix it. | आपको निराश महसूस करने का पूरा अधिकार है, मैं इसे ठीक करने में मदद करने के लिए यहाँ हूँ।
+DAY | 19 | Day 19: Handling Anger | Please lower your tone, everyone around us is watching. | कृपया अपनी आवाज़ धीमी करें, हमारे आसपास हर कोई देख रहा है।
+DAY | 19 | Day 19: Handling Anger | Let us not say things in anger that we will regret later. | आइए गुस्से में ऐसी बातें न कहें जिन पर हमें बाद में पछताना पड़े।
+DAY | 19 | Day 19: Handling Anger | I need some space right now to cool down and think clearly. | मुझे शांत होने और स्पष्ट रूप से सोचने के लिए अभी थोड़ा समय (स्पेस) चाहिए।
+DAY | 19 | Day 19: Handling Anger | Stop jumping to conclusions before hearing the whole story. | पूरी कहानी सुनने से पहले किसी नतीजे पर पहुँचना बंद करें।
+DAY | 19 | Day 19: Handling Anger | I am willing to compromise if you are ready to cooperate. | यदि आप सहयोग करने के लिए तैयार हैं तो मैं समझौता करने को तैयार हूँ।
+DAY | 19 | Day 19: Handling Anger | Let us keep our personal ego aside for the sake of our relationship. | आइए अपने रिश्ते की खातिर अपने व्यक्तिगत अहंकार को किनारे रखें।
+DAY | 19 | Day 19: Handling Anger | That remark was completely unnecessary and hurtful. | वह टिप्पणी पूरी तरह अनावश्यक और दुख पहुँचाने वाली थी।
+DAY | 19 | Day 19: Handling Anger | I appreciate that you stayed calm during such a tense moment. | मैं इस बात की सराहना करता हूँ कि आप इतने तनावपूर्ण क्षण में भी शांत रहे।
+DAY | 19 | Day 19: Handling Anger | Glad we cleared the air and resolved our differences. | खुशी है कि हमने गलतफ़हमी दूर की और अपने मतभेद सुलझा लिए।
+DAY | 19 | Day 19: Handling Anger | Peace of mind is far more important than winning an argument. | बहस जीतने की तुलना में मन की शांति कहीं अधिक महत्वपूर्ण है।
+
+DAY | 20 | Day 20: Weather Talks | What a pleasant morning! There is a lovely cool breeze blowing. | कितनी सुहावनी सुबह है! बहुत प्यारी ठंडी हवा चल रही है।
+DAY | 20 | Day 20: Weather Talks | It is scorching hot outside today, make sure you carry water. | आज बाहर झुलसाने वाली गर्मी है, सुनिश्चित करें कि आप पानी साथ रखें।
+DAY | 20 | Day 20: Weather Talks | Look at those dark clouds, it seems like it is going to pour soon. | उन काले बादलों को देखो, ऐसा लग रहा है कि जल्द ही मूसलाधार बारिश होने वाली है।
+DAY | 20 | Day 20: Weather Talks | Did you bring an umbrella? The weather forecast predicted heavy rain. | क्या आप छाता लाए हैं? मौसम के पूर्वानुमान में भारी बारिश की भविष्यवाणी की गई थी।
+DAY | 20 | Day 20: Weather Talks | It has been drizzling continuously since early morning. | सुबह तड़के से ही लगातार बूंदाबांदी हो रही है।
+DAY | 20 | Day 20: Weather Talks | The weather has turned quite chilly over the last two days. | पिछले दो दिनों में मौसम काफी सर्द हो गया है।
+DAY | 20 | Day 20: Weather Talks | There is dense fog outside, so drive with your fog lights on. | बाहर घना कोहरा है, इसलिए अपनी फ़ॉग लाइट जलाकर गाड़ी चलाएं।
+DAY | 20 | Day 20: Weather Talks | I am sweating profusely because of this high humidity. | इस अत्यधिक उमस के कारण मुझे बहुत पसीना आ रहा है।
+DAY | 20 | Day 20: Weather Talks | Finally, the monsoon showers have brought relief from the heat! | आखिरकार, मानसून की बौछारों ने गर्मी से राहत दिला दी है!
+DAY | 20 | Day 20: Weather Talks | Winter mornings in Varanasi are always misty and peaceful. | वाराणसी में सर्दियों की सुबह हमेशा धुंध भरी और शांत होती है।
+DAY | 20 | Day 20: Weather Talks | Let us sit outside on the terrace and enjoy this lovely weather. | चलो बाहर छत पर बैठते हैं और इस प्यारे मौसम का आनंद लेते हैं।
+DAY | 20 | Day 20: Weather Talks | It is freezing cold tonight, put on an extra sweater. | आज रात कड़ाके की ठंड है, एक अतिरिक्त स्वेटर पहन लें।
+DAY | 20 | Day 20: Weather Talks | The heatwave this May is much stronger than last year. | इस मई में लू (हीटवेव) पिछले साल की तुलना में काफी तेज़ है।
+DAY | 20 | Day 20: Weather Talks | I got completely drenched in the sudden downpour on my way home. | घर आते समय अचानक हुई तेज़ बारिश में मैं पूरी तरह भीग गया।
+DAY | 20 | Day 20: Weather Talks | Look at that beautiful rainbow across the sky after the rain! | बारिश के बाद आसमान में उस खूबसूरत इंद्रधनुष को देखो!
+DAY | 20 | Day 20: Weather Talks | The weather is so unpredictable these days, sunny one hour and rainy the next. | इन दिनों मौसम इतना अप्रत्याशित है, एक घंटे धूप और अगले ही घंटे बारिश।
+DAY | 20 | Day 20: Weather Talks | Autumn is my favorite season because it is neither too hot nor too cold. | शरद ऋतु मेरा पसंदीदा मौसम है क्योंकि न तो बहुत गर्मी होती है और न ही बहुत ठंड।
+DAY | 20 | Day 20: Weather Talks | Strong winds are blowing outside, please close all the windows. | बाहर तेज़ हवाएं चल रही हैं, कृपया सभी खिड़कियां बंद कर दें।
+DAY | 20 | Day 20: Weather Talks | A hot cup of ginger tea feels heavenly in this rainy weather. | इस बरसाती मौसम में एक कप गर्म अदरक वाली चाय स्वर्ग जैसा अहसास देती है।
+DAY | 20 | Day 20: Weather Talks | The sun is shining brightly, it is a great day to wash clothes. | सूरज तेज़ी से चमक रहा है, कपड़े धोने के लिए यह एक बढ़िया दिन है।
+DAY | 20 | Day 20: Weather Talks | Avoid stepping out in the afternoon to protect yourself from heatstroke. | लू से खुद को बचाने के लिए दोपहर में बाहर निकलने से बचें।
+DAY | 20 | Day 20: Weather Talks | The temperature dropped suddenly after last night’s thunderstorm. | कल रात के तूफ़ान के बाद तापमान अचानक गिर गया।
+DAY | 20 | Day 20: Weather Talks | Everything looks so fresh and green after the first rain. | पहली बारिश के बाद सब कुछ बहुत ताज़ा और हरा-भरा दिखता है।
+DAY | 20 | Day 20: Weather Talks | How is the weather in your city right now? | अभी आपके शहर में मौसम कैसा है?
+DAY | 20 | Day 20: Weather Talks | Hopefully, the skies will clear up before our outdoor event tomorrow. | उम्मीद है कि कल हमारे बाहरी कार्यक्रम से पहले आसमान साफ़ हो जाएगा।
+
+DAY | 21 | Day 21: Job Interview | Good morning, thank you for giving me this opportunity for an interview. | सुप्रभात, मुझे साक्षात्कार (इंटरव्यू) का यह अवसर देने के लिए धन्यवाद।
+DAY | 21 | Day 21: Job Interview | May I come in, sir? | क्या मैं अंदर आ सकता हूँ, सर?
+DAY | 21 | Day 21: Job Interview | I have five years of hands-on experience in tender management and operations. | मुझे टेंडर प्रबंधन और संचालन में पाँच वर्षों का व्यावहारिक अनुभव है।
+DAY | 21 | Day 21: Job Interview | My core strengths are analytical thinking, punctuality, and problem-solving. | मेरी मुख्य ताकत विश्लेषणात्मक सोच, समय की पाबंदी और समस्या-समाधान है।
+DAY | 21 | Day 21: Job Interview | I hold a degree in law along with a master’s in business administration. | मेरे पास व्यवसाय प्रशासन में मास्टर डिग्री के साथ-साथ कानून (लॉ) की डिग्री भी है।
+DAY | 21 | Day 21: Job Interview | I am a quick learner who adapts easily to new software and workflows. | मैं तेज़ी से सीखने वाला व्यक्ति हूँ जो नए सॉफ़्टवेयर और कार्यप्रणाली के अनुकूल आसानी से ढल जाता है।
+DAY | 21 | Day 21: Job Interview | In my previous role, I successfully managed multiple government bids on time. | अपनी पिछली भूमिका में, मैंने समय पर कई सरकारी बोलियों (बिड्स) का सफलतापूर्वक प्रबंधन किया।
+DAY | 21 | Day 21: Job Interview | I enjoy working in a team as well as taking independent responsibility. | मुझे टीम में काम करने के साथ-साथ स्वतंत्र ज़िम्मेदारी लेना भी पसंद है।
+DAY | 21 | Day 21: Job Interview | Why do you want to join our organization? | आप हमारी संस्था से क्यों जुड़ना चाहते हैं?
+DAY | 21 | Day 21: Job Interview | Your company has a strong reputation for innovation and employee growth. | नवाचार और कर्मचारियों के विकास के लिए आपकी कंपनी की मजबूत प्रतिष्ठा है।
+DAY | 21 | Day 21: Job Interview | How do you handle tight deadlines and work pressure? | आप सख्त समय-सीमा (डेडलाइन) और काम के दबाव को कैसे संभालते हैं?
+DAY | 21 | Day 21: Job Interview | I prioritize tasks based on urgency and stay calm until the job is done. | मैं तात्कालिकता के आधार पर कार्यों को प्राथमिकता देता हूँ और काम पूरा होने तक शांत रहता हूँ।
+DAY | 21 | Day 21: Job Interview | Where do you see yourself five years from now? | आप आज से पाँच साल बाद खुद को कहाँ देखते हैं?
+DAY | 21 | Day 21: Job Interview | I see myself in a senior leadership role contributing to company growth. | मैं खुद को कंपनी के विकास में योगदान देने वाली एक वरिष्ठ नेतृत्व भूमिका में देखता हूँ।
+DAY | 21 | Day 21: Job Interview | What is one area where you are currently trying to improve yourself? | वह कौन सा एक क्षेत्र है जहाँ आप वर्तमान में खुद को सुधारने की कोशिश कर रहे हैं?
+DAY | 21 | Day 21: Job Interview | I am continuously refining my advanced data analysis and public speaking skills. | मैं अपने उन्नत डेटा विश्लेषण और सार्वजनिक बोलने के कौशल को लगातार निखार रहा हूँ।
+DAY | 21 | Day 21: Job Interview | Are you comfortable relocating or traveling for official projects? | क्या आप आधिकारिक परियोजनाओं के लिए स्थान बदलने या यात्रा करने में सहज हैं?
+DAY | 21 | Day 21: Job Interview | Yes, I am completely flexible and open to traveling whenever required. | हाँ, मैं पूरी तरह लचीला हूँ और जब भी आवश्यकता हो यात्रा करने के लिए तैयार हूँ।
+DAY | 21 | Day 21: Job Interview | What are your salary expectations for this position? | इस पद के लिए आपकी वेतन अपेक्षाएं क्या हैं?
+DAY | 21 | Day 21: Job Interview | I am open to a competitive package that matches my skills and industry standards. | मैं एक ऐसे प्रतिस्पर्धी पैकेज के लिए तैयार हूँ जो मेरे कौशल और उद्योग मानकों से मेल खाता हो।
+DAY | 21 | Day 21: Job Interview | How soon can you join if you are selected for this role? | यदि आप इस भूमिका के लिए चुने जाते हैं तो आप कितनी जल्दी जुड़ सकते हैं?
+DAY | 21 | Day 21: Job Interview | I can join within fifteen days after completing my current handover. | मैं अपना वर्तमान कार्यभार सौंपने के बाद पंद्रह दिनों के भीतर जुड़ सकता हूँ।
+DAY | 21 | Day 21: Job Interview | Do you have any questions for us before we wrap up? | समाप्त करने से पहले क्या आपके पास हमारे लिए कोई प्रश्न है?
+DAY | 21 | Day 21: Job Interview | Could you tell me more about the team I will be working with? | क्या आप मुझे उस टीम के बारे में कुछ और बता सकते हैं जिसके साथ मैं काम करूँगा?
+DAY | 21 | Day 21: Job Interview | Thank you for your time and consideration, I look forward to hearing from you. | आपके समय और विचार के लिए धन्यवाद, मैं आपके जवाब की प्रतीक्षा करूँगा।
 RANDOM | Better late than never. | देर आए दुरुस्त आए।
 RANDOM | Things will fall into place soon. | जल्द ही सब कुछ ठीक हो जाएगा।
 RANDOM | I am running a little behind schedule today. | आज मैं अपने तय समय से थोड़ा पीछे चल रहा हूँ।
