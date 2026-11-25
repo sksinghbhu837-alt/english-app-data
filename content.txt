@@ -28,6 +28,70 @@ DAY | 2 | Day 2: Polite Requests | Please bear with me while I check the file. |
 DAY | 2 | Day 2: Polite Requests | Could you please turn down the volume a bit? | क्या आप कृपया आवाज़ थोड़ी कम कर देंगे?
 DAY | 2 | Day 2: Polite Requests | I would really appreciate it if you could guide me. | यदि आप मेरा मार्गदर्शन कर सकें तो मैं वास्तव में आभारी रहूँगा।
 DAY | 2 | Day 2: Polite Requests | Thank you so much for your kind cooperation. | आपके विनम्र सहयोग के लिए बहुत-बहुत धन्यवाद।
+DAY | 3 | Day 3: Daily Routine | I usually wake up at 6 AM every morning. | मैं आमतौर पर हर सुबह 6 बजे उठता हूँ।
+DAY | 3 | Day 3: Daily Routine | First, I drink a glass of warm water and freshen up. | सबसे पहले, मैं एक गिलास गुनगुना पानी पीता हूँ और फ्रेश होता हूँ।
+DAY | 3 | Day 3: Daily Routine | Then I go for a brisk morning walk in the park. | फिर मैं पार्क में तेज़ सुबह की सैर के लिए जाता हूँ।
+DAY | 3 | Day 3: Daily Routine | After coming back, I take a bath and get ready for work. | वापस आने के बाद, मैं नहाता हूँ और काम के लिए तैयार होता हूँ।
+DAY | 3 | Day 3: Daily Routine | I have a healthy breakfast around 8:30 AM. | मैं सुबह लगभग 8:30 बजे पौष्टिक नाश्ता करता हूँ।
+DAY | 3 | Day 3: Daily Routine | I leave for my office at 9:30 AM sharp. | मैं ठीक सुबह 9:30 बजे अपने ऑफिस के लिए निकलता हूँ।
+DAY | 3 | Day 3: Daily Routine | I check my emails and plan my tasks for the day. | मैं अपने ईमेल चेक करता हूँ और दिन भर के कामों की योजना बनाता हूँ।
+DAY | 3 | Day 3: Daily Routine | I take a short lunch break at 1:30 PM. | मैं दोपहर 1:30 बजे लंच के लिए छोटा ब्रेक लेता हूँ।
+DAY | 3 | Day 3: Daily Routine | I return home from work by 6:30 in the evening. | मैं शाम 6:30 बजे तक काम से घर लौट आता हूँ।
+DAY | 3 | Day 3: Daily Routine | In the evening, I spend quality time with my family. | शाम को मैं अपने परिवार के साथ अच्छा समय बिताता हूँ।
+DAY | 3 | Day 3: Daily Routine | We have dinner together around 9 PM. | हम रात 9 बजे के आसपास साथ में रात का खाना खाते हैं।
+DAY | 3 | Day 3: Daily Routine | Finally, I read a book for a while and go to bed by 10:30 PM. | अंत में, मैं थोड़ी देर किताब पढ़ता हूँ और रात 10:30 बजे तक सो जाता हूँ।
+
+DAY | 4 | Day 4: Asking Questions | What are your plans for today? | आज के लिए आपकी क्या योजनाएं हैं?
+DAY | 4 | Day 4: Asking Questions | Where are you heading right now? | आप अभी कहाँ जा रहे हैं?
+DAY | 4 | Day 4: Asking Questions | When will the next train arrive at this platform? | इस प्लेटफॉर्म पर अगली ट्रेन कब आएगी?
+DAY | 4 | Day 4: Asking Questions | How long does it take to reach the airport from here? | यहाँ से एयरपोर्ट पहुँचने में कितना समय लगता है?
+DAY | 4 | Day 4: Asking Questions | Why are you looking so worried today? | आज आप इतने चिंतित क्यों दिख रहे हैं?
+DAY | 4 | Day 4: Asking Questions | Whose bag is lying on that chair? | उस कुर्सी पर किसका बैग पड़ा है?
+DAY | 4 | Day 4: Asking Questions | Which bus goes directly to the city center? | कौन सी बस सीधे शहर के बीचों-बीच जाती है?
+DAY | 4 | Day 4: Asking Questions | How much does this item cost? | इस सामान की कीमत कितनी है?
+DAY | 4 | Day 4: Asking Questions | How many people are attending the meeting today? | आज की मीटिंग में कितने लोग शामिल हो रहे हैं?
+DAY | 4 | Day 4: Asking Questions | Could you tell me where the nearest ATM is? | क्या आप मुझे बता सकते हैं कि सबसे नज़दीकी एटीएम कहाँ है?
+DAY | 4 | Day 4: Asking Questions | Have you ever visited Varanasi before? | क्या आप इससे पहले कभी वाराणसी गए हैं?
+DAY | 4 | Day 4: Asking Questions | What do you think about this new idea? | इस नए विचार के बारे में आपकी क्या राय है?
+
+DAY | 5 | Day 5: Time & Schedule | Excuse me, could you please tell me the exact time? | माफ़ कीजिए, क्या आप कृपया मुझे सही समय बता सकते हैं?
+DAY | 5 | Day 5: Time & Schedule | It is a quarter past ten right now. | अभी सवा दस बजे हैं।
+DAY | 5 | Day 5: Time & Schedule | We still have half an hour left before the meeting starts. | मीटिंग शुरू होने में अभी भी आधा घंटा बाकी है।
+DAY | 5 | Day 5: Time & Schedule | Please make sure you arrive on time tomorrow. | कृपया सुनिश्चित करें कि आप कल समय पर पहुँच जाएं।
+DAY | 5 | Day 5: Time & Schedule | My schedule is completely packed for the next two days. | अगले दो दिनों के लिए मेरा कार्यक्रम पूरी तरह व्यस्त है।
+DAY | 5 | Day 5: Time & Schedule | Let us fix our appointment for Friday at 4 PM. | चलो शुक्रवार को शाम 4 बजे अपनी मुलाकात तय करते हैं।
+DAY | 5 | Day 5: Time & Schedule | Are you available sometime tomorrow afternoon? | क्या आप कल दोपहर किसी समय उपलब्ध हैं?
+DAY | 5 | Day 5: Time & Schedule | I am running ten minutes late due to heavy traffic. | भारी ट्रैफिक के कारण मैं दस मिनट देरी से चल रहा हूँ।
+DAY | 5 | Day 5: Time & Schedule | Can we postpone today’s discussion until Monday? | क्या हम आज की चर्चा को सोमवार तक टाल सकते हैं?
+DAY | 5 | Day 5: Time & Schedule | Time flies when you are busy doing something you love. | जब आप अपने पसंदीदा काम में व्यस्त होते हैं तो समय पंख लगाकर उड़ जाता है।
+DAY | 5 | Day 5: Time & Schedule | Better late than never, let us start right away. | देर आए दुरुस्त आए, चलो अभी शुरू करते हैं।
+DAY | 5 | Day 5: Time & Schedule | I will wrap up this work before 5 o’clock. | मैं 5 बजे से पहले यह काम समेट लूँगा।
+
+DAY | 6 | Day 6: Phone Calls | Hello, may I know who is speaking? | नमस्ते, क्या मैं जान सकता हूँ कि कौन बोल रहा है?
+DAY | 6 | Day 6: Phone Calls | Hi, this is Saurabh calling from Varanasi. | नमस्ते, मैं वाराणसी से सौरभ बोल रहा हूँ।
+DAY | 6 | Day 6: Phone Calls | Could you please connect me to the manager? | क्या आप कृपया मेरी बात मैनेजर से करा सकते हैं?
+DAY | 6 | Day 6: Phone Calls | Please hold the line for a moment, I will check. | कृपया एक पल के लिए लाइन पर बने रहें, मैं चेक करता हूँ।
+DAY | 6 | Day 6: Phone Calls | Sorry, your voice is breaking up. Can you hear me? | माफ़ कीजिए, आपकी आवाज़ कट रही है। क्या आप मुझे सुन पा रहे हैं?
+DAY | 6 | Day 6: Phone Calls | There is a network issue here, let me call you back. | यहाँ नेटवर्क की समस्या है, मैं आपको वापस कॉल करता हूँ।
+DAY | 6 | Day 6: Phone Calls | I tried calling you twice, but your phone was busy. | मैंने आपको दो बार कॉल करने की कोशिश की, लेकिन आपका फ़ोन व्यस्त था।
+DAY | 6 | Day 6: Phone Calls | Sorry I missed your call earlier, I was in a meeting. | माफ़ कीजिए मैं पहले आपका कॉल नहीं उठा पाया, मैं एक मीटिंग में था।
+DAY | 6 | Day 6: Phone Calls | Could you please put the phone on speaker mode? | क्या आप कृपया फ़ोन को स्पीकर मोड पर रख सकते हैं?
+DAY | 6 | Day 6: Phone Calls | I am calling to remind you about tomorrow’s event. | मैं आपको कल के कार्यक्रम की याद दिलाने के लिए कॉल कर रहा हूँ।
+DAY | 6 | Day 6: Phone Calls | Let me text you the address right after this call. | इस कॉल के तुरंत बाद मैं आपको पता मैसेज कर देता हूँ।
+DAY | 6 | Day 6: Phone Calls | Alright, talk to you later. Have a nice day! | ठीक है, बाद में बात करते हैं। आपका दिन शुभ हो!
+
+DAY | 7 | Day 7: Expressing Feelings | I am feeling super excited about this new project. | मैं इस नए प्रोजेक्ट को लेकर बेहद उत्साहित महसूस कर रहा हूँ।
+DAY | 7 | Day 7: Expressing Feelings | Thank you so much, you really made my day! | बहुत-बहुत धन्यवाद, आपने सचमुच मेरा दिन बना दिया!
+DAY | 7 | Day 7: Expressing Feelings | I am feeling a bit under the weather today. | आज मेरी तबीयत थोड़ी सुस्त (नासाज़) लग रही है।
+DAY | 7 | Day 7: Expressing Feelings | Honestly, I am quite nervous about the presentation. | सच कहूँ तो मैं प्रेजेंटेशन को लेकर काफी घबराया हुआ हूँ।
+DAY | 7 | Day 7: Expressing Feelings | What a relief! Everything went smoothly in the end. | कितनी राहत की बात है! अंत में सब कुछ ठीक से हो गया।
+DAY | 7 | Day 7: Expressing Feelings | I feel deeply grateful for all your support. | मैं आपके सभी सहयोग के लिए दिल से आभारी महसूस करता हूँ।
+DAY | 7 | Day 7: Expressing Feelings | He was disappointed with the final results. | वह अंतिम परिणामों से निराश था।
+DAY | 7 | Day 7: Expressing Feelings | Do not feel discouraged; every mistake teaches us something. | हतोत्साहित महसूस न करें; हर गलती हमें कुछ सिखाती है।
+DAY | 7 | Day 7: Expressing Feelings | I am exhausted after working continuously for eight hours. | लगातार आठ घंटे काम करने के बाद मैं पूरी तरह थक गया हूँ।
+DAY | 7 | Day 7: Expressing Feelings | It breaks my heart to see people wasting food. | लोगों को खाना बर्बाद करते देखकर मेरा दिल दुखता है।
+DAY | 7 | Day 7: Expressing Feelings | I am proud of how far we have come together. | हमें इस बात पर गर्व है कि हम साथ मिलकर कितनी दूर आ गए हैं।
+DAY | 7 | Day 7: Expressing Feelings | Stay positive, good things take time to happen. | सकारात्मक रहें, अच्छी चीज़ें होने में समय लगता है।
 RANDOM | Better late than never. | देर आए दुरुस्त आए।
 RANDOM | Things will fall into place soon. | जल्द ही सब कुछ ठीक हो जाएगा।
 RANDOM | I am running a little behind schedule today. | आज मैं अपने तय समय से थोड़ा पीछे चल रहा हूँ।
