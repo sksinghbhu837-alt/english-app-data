@@ -67,17 +67,6 @@ WORD | Benevolent | बेनेवोलेंट | दयालु / परो
 WORD | Candid | कैंडिड | स्पष्टवादी / साफ़ दिल | Thank you for your candid feedback.
 WORD | Drastic | ड्रास्टिक | कठोर / बड़ा बदलाव | We need to take drastic steps to save water.
 WORD | Empathize | एम्पेथाइज़ | दूसरे का दर्द समझना | I can completely empathize with your situation.
-WORD | Fluctuate | फ्लक्चुएट | उतार-चढ़ाव होना | Prices of vegetables fluctuate every week.
-WORD | Pessimistic | पेसिमिस्टिक | निराशावादी | Do not be pessimistic before trying.
-WORD | Pragmatic | प्रैग्मैटिक | व्यावहारिक | We need a pragmatic solution to this problem.
-WORD | Acumen | एक्यूमेन | कुशाग्र बुद्धि / तेज़ समझ | Her business acumen helped the company grow fast.
-WORD | Pragmatic | प्रैग्मैटिक | व्यावहारिक / यथार्थवादी | We need a pragmatic approach to solve this issue.
-WORD | Quench | क्वेंच | प्यास बुझाना | Drink cold water to quench your thirst.
-WORD | Reckless | रेकलेस | लापरवाह / जल्दबाज़ | Reckless driving causes serious accidents.
-WORD | Scrutinize | स्क्रूटिनाइज़ | बारीकी से जांच करना | Please scrutinize the documents before signing.
-WORD | Tangible | टैंजिबल | ठोस / जिसे महसूस किया जा सके | We need tangible results this month.
-WORD | Unanimous | यूनैनिमस | एकमत / सर्वसम्मत | The committee took a unanimous decision.
-WORD | Vulnerable | वल्नरेबल | असुरक्षित / कमज़ोर | Children are vulnerable to seasonal flu.
 WORD | Wary | वेरी | सतर्क / सावधान | Be wary of fake online offers.
 WORD | Gratitude | ग्रैटिट्यूड | आभार / कृतज्ञता | Express gratitude for what you have.
 WORD | Hinder | हिंडर | बाधा डालना / रोकना | Bad weather may hinder our travel plans.
