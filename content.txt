@@ -92,6 +92,171 @@ DAY | 7 | Day 7: Expressing Feelings | I am exhausted after working continuously
 DAY | 7 | Day 7: Expressing Feelings | It breaks my heart to see people wasting food. | लोगों को खाना बर्बाद करते देखकर मेरा दिल दुखता है।
 DAY | 7 | Day 7: Expressing Feelings | I am proud of how far we have come together. | हमें इस बात पर गर्व है कि हम साथ मिलकर कितनी दूर आ गए हैं।
 DAY | 7 | Day 7: Expressing Feelings | Stay positive, good things take time to happen. | सकारात्मक रहें, अच्छी चीज़ें होने में समय लगता है।
+DAY | 8 | Day 8: Agree & Disagree | I completely agree with your point of view. | मैं आपके दृष्टिकोण से पूरी तरह सहमत हूँ।
+DAY | 8 | Day 8: Agree & Disagree | You are absolutely right about this matter. | इस मामले में आप बिल्कुल सही कह रहे हैं।
+DAY | 8 | Day 8: Agree & Disagree | That makes a lot of sense to me. | यह बात मुझे बिल्कुल तर्कसंगत लग रही है।
+DAY | 8 | Day 8: Agree & Disagree | I could not agree with you more. | मैं आपसे इससे ज़्यादा सहमत नहीं हो सकता।
+DAY | 8 | Day 8: Agree & Disagree | Yes, that is a very valid point indeed. | हाँ, यह वास्तव में एक बहुत ही सही बात है।
+DAY | 8 | Day 8: Agree & Disagree | We are definitely on the same page here. | हम निश्चित रूप से इस बात पर एकमत हैं।
+DAY | 8 | Day 8: Agree & Disagree | You took the words right out of my mouth. | आपने मेरे मन की बात कह दी।
+DAY | 8 | Day 8: Agree & Disagree | I think you have hit the nail on the head. | मुझे लगता है आपने बिल्कुल सटीक बात कही है।
+DAY | 8 | Day 8: Agree & Disagree | That is exactly how I feel about it too. | इस बारे में मैं भी बिल्कुल ऐसा ही महसूस करता हूँ।
+DAY | 8 | Day 8: Agree & Disagree | I am with you hundred percent on this decision. | इस फैसले पर मैं सौ प्रतिशत आपके साथ हूँ।
+DAY | 8 | Day 8: Agree & Disagree | Fair enough, let us go with your plan. | बिल्कुल ठीक है, चलो आपकी योजना के अनुसार चलते हैं।
+DAY | 8 | Day 8: Agree & Disagree | I agree up to a certain point, but there is one issue. | मैं एक हद तक सहमत हूँ, लेकिन एक समस्या है।
+DAY | 8 | Day 8: Agree & Disagree | You have a point there, though I see it differently. | आपकी बात में दम है, हालांकि मैं इसे अलग तरह से देखता हूँ।
+DAY | 8 | Day 8: Agree & Disagree | I respectfully disagree with that statement. | मैं सम्मानपूर्वक उस कथन से असहमत हूँ।
+DAY | 8 | Day 8: Agree & Disagree | I am afraid I cannot agree with you on this. | मुझे खेद है कि मैं इस पर आपसे सहमत नहीं हो सकता।
+DAY | 8 | Day 8: Agree & Disagree | That is not always true in real-life situations. | वास्तविक जीवन की परिस्थितियों में यह हमेशा सच नहीं होता।
+DAY | 8 | Day 8: Agree & Disagree | I beg to differ on this particular topic. | इस खास विषय पर मेरी राय थोड़ी अलग है।
+DAY | 8 | Day 8: Agree & Disagree | Let us look at the other side of the coin as well. | आइए सिक्के के दूसरे पहलू को भी देखते हैं।
+DAY | 8 | Day 8: Agree & Disagree | I am not so sure about that idea honestly. | सच कहूँ तो मुझे उस विचार के बारे में पूरा यकीन नहीं है।
+DAY | 8 | Day 8: Agree & Disagree | That sounds good in theory, not in practice. | यह सुनने में अच्छा लगता है, लेकिन व्यवहार में नहीं।
+DAY | 8 | Day 8: Agree & Disagree | We might need to rethink this strategy carefully. | हमें इस रणनीति पर ध्यान से दोबारा सोचने की ज़रूरत हो सकती है।
+DAY | 8 | Day 8: Agree & Disagree | I see where you are coming from, yet I disagree. | मैं समझ रहा हूँ आप क्या कहना चाहते हैं, फिर भी मैं असहमत हूँ।
+DAY | 8 | Day 8: Agree & Disagree | Let us agree to disagree and move forward. | चलो अपनी-अपनी राय पर कायम रहते हुए आगे बढ़ते हैं।
+DAY | 8 | Day 8: Agree & Disagree | Everyone is entitled to their own opinion. | हर किसी को अपनी राय रखने का अधिकार है।
+DAY | 8 | Day 8: Agree & Disagree | Thank you for sharing your honest perspective. | अपना ईमानदार नज़रिया साझा करने के लिए धन्यवाद।
+
+DAY | 9 | Day 9: Smart Apologies | I am really sorry for the mistake I made. | मुझसे हुई गलती के लिए मैं वास्तव में क्षमा चाहता हूँ।
+DAY | 9 | Day 9: Smart Apologies | Please accept my sincere apologies for the delay. | देरी के लिए कृपया मेरी हार्दिक क्षमा स्वीकार करें।
+DAY | 9 | Day 9: Smart Apologies | I deeply regret any inconvenience caused to you. | आपको हुई किसी भी असुविधा के लिए मुझे गहरा खेद है।
+DAY | 9 | Day 9: Smart Apologies | Sorry to keep you waiting for so long. | आपको इतनी देर तक इंतज़ार कराने के लिए माफ़ी चाहता हूँ।
+DAY | 9 | Day 9: Smart Apologies | My apologies, it completely slipped my mind. | माफ़ कीजिएगा, यह मेरे दिमाग से पूरी तरह निकल गया।
+DAY | 9 | Day 9: Smart Apologies | That was entirely my fault, I take full responsibility. | वह पूरी तरह मेरी गलती थी, मैं इसकी पूरी ज़िम्मेदारी लेता हूँ।
+DAY | 9 | Day 9: Smart Apologies | I did not mean to hurt your feelings at all. | मेरा इरादा आपकी भावनाओं को ठेस पहुँचाने का बिल्कुल नहीं था।
+DAY | 9 | Day 9: Smart Apologies | Please forgive me, I will never repeat this again. | कृपया मुझे माफ़ कर दें, मैं इसे दोबारा कभी नहीं दोहराऊँगा।
+DAY | 9 | Day 9: Smart Apologies | Sorry for interrupting you while you were speaking. | जब आप बोल रहे थे तब बीच में टोकने के लिए माफ़ी चाहता हूँ।
+DAY | 9 | Day 9: Smart Apologies | I owe you a huge apology for yesterday’s behavior. | कल के व्यवहार के लिए मैं आपसे दिल से माफ़ी मांगता हूँ।
+DAY | 9 | Day 9: Smart Apologies | Excuse me for a moment, I need to take this call. | एक पल के लिए क्षमा करें, मुझे यह कॉल उठाना ज़रूरी है।
+DAY | 9 | Day 9: Smart Apologies | Pardon me, I could not hear what you just said. | माफ़ कीजिएगा, आपने अभी जो कहा मैं सुन नहीं पाया।
+DAY | 9 | Day 9: Smart Apologies | I apologize for sending you the wrong file earlier. | पहले आपको गलत फ़ाइल भेजने के लिए मैं क्षमा चाहता हूँ।
+DAY | 9 | Day 9: Smart Apologies | Sorry to bother you during your busy schedule. | आपके व्यस्त समय में आपको परेशान करने के लिए माफ़ी चाहता हूँ।
+DAY | 9 | Day 9: Smart Apologies | It was an honest mistake, please do not take it to heart. | यह अनजाने में हुई गलती थी, कृपया इसे दिल पर न लें।
+DAY | 9 | Day 9: Smart Apologies | I promise I will make it up to you soon. | मैं वादा करता हूँ कि जल्द ही इसकी भरपाई कर दूँगा।
+DAY | 9 | Day 9: Smart Apologies | How can I fix this mistake right now? | मैं अभी इस गलती को कैसे सुधार सकता हूँ?
+DAY | 9 | Day 9: Smart Apologies | That is totally fine, please do not worry about it. | यह बिल्कुल ठीक है, कृपया इसके बारे में चिंता न करें।
+DAY | 9 | Day 9: Smart Apologies | No problem at all, it happens to everyone sometimes. | कोई बात नहीं, ऐसा कभी-कभी हर किसी के साथ हो जाता है।
+DAY | 9 | Day 9: Smart Apologies | Apology accepted, let us forget about it now. | माफ़ी स्वीकार की, चलो अब इसे भूल जाते हैं।
+DAY | 9 | Day 9: Smart Apologies | Do not beat yourself up over a small error. | एक छोटी सी गलती के लिए खुद को इतना दोष मत दो।
+DAY | 9 | Day 9: Smart Apologies | It is okay, I understand that traffic was heavy today. | कोई बात नहीं, मैं समझता हूँ कि आज ट्रैफिक बहुत ज़्यादा था।
+DAY | 9 | Day 9: Smart Apologies | Never mind, we still have plenty of time left. | कोई बात नहीं, हमारे पास अभी भी काफी समय बचा है।
+DAY | 9 | Day 9: Smart Apologies | I appreciate your honesty in admitting the error. | गलती स्वीकार करने में आपकी ईमानदारी की मैं सराहना करता हूँ।
+DAY | 9 | Day 9: Smart Apologies | Let us put this behind us and move on. | चलो इस बात को पीछे छोड़ते हैं और आगे बढ़ते हैं।
+
+DAY | 10 | Day 10: Weekend Plans | Do you have any special plans for this weekend? | क्या इस वीकेंड के लिए आपकी कोई खास योजना है?
+DAY | 10 | Day 10: Weekend Plans | I am planning to relax at home and read a book. | मैं घर पर आराम करने और एक किताब पढ़ने की योजना बना रहा हूँ।
+DAY | 10 | Day 10: Weekend Plans | Why do not we go for a movie this Saturday evening? | क्यों न हम इस शनिवार की शाम को एक फिल्म देखने चलें?
+DAY | 10 | Day 10: Weekend Plans | Would you like to join us for dinner tomorrow night? | क्या आप कल रात हमारे साथ डिनर पर चलना पसंद करेंगे?
+DAY | 10 | Day 10: Weekend Plans | Let us go on a short road trip this Sunday. | चलो इस रविवार को एक छोटी रोड ट्रिप पर चलते हैं।
+DAY | 10 | Day 10: Weekend Plans | That sounds like a fantastic idea, count me in! | यह एक शानदार विचार लग रहा है, मुझे भी शामिल समझो!
+DAY | 10 | Day 10: Weekend Plans | What time should we meet at the main gate? | हमें मुख्य द्वार पर किस समय मिलना चाहिए?
+DAY | 10 | Day 10: Weekend Plans | Let us meet around 5 PM near the coffee shop. | चलो शाम 5 बजे के आसपास कॉफ़ी शॉप के पास मिलते हैं।
+DAY | 10 | Day 10: Weekend Plans | I am inviting a few close friends over for lunch. | मैं कुछ करीबी दोस्तों को दोपहर के खाने पर घर बुला रहा हूँ।
+DAY | 10 | Day 10: Weekend Plans | Feel free to bring your family along with you. | बेझिझक अपने परिवार को भी अपने साथ ले आइएगा।
+DAY | 10 | Day 10: Weekend Plans | We are planning a picnic by the riverside. | हम नदी के किनारे पिकनिक मनाने की योजना बना रहे हैं।
+DAY | 10 | Day 10: Weekend Plans | I need a break from my hectic work routine. | मुझे अपने व्यस्त कामकाजी रूटीन से एक ब्रेक चाहिए।
+DAY | 10 | Day 10: Weekend Plans | Let us catch up over a cup of hot tea. | चलो एक कप गर्म चाय पर बैठकर गपशप करते हैं।
+DAY | 10 | Day 10: Weekend Plans | Which movie are we going to watch tonight? | आज रात हम कौन सी फिल्म देखने जा रहे हैं?
+DAY | 10 | Day 10: Weekend Plans | I will book the tickets online in advance. | मैं पहले से ऑनलाइन टिकट बुक कर लूँगा।
+DAY | 10 | Day 10: Weekend Plans | Let me check my schedule and confirm by tonight. | मुझे अपना शेड्यूल देखने दो, मैं आज रात तक पक्का बता दूँगा।
+DAY | 10 | Day 10: Weekend Plans | Sorry, I already have a family function on Sunday. | माफ़ करना, रविवार को पहले से ही मेरा एक पारिवारिक समारोह है।
+DAY | 10 | Day 10: Weekend Plans | Maybe we can plan this outing next weekend. | शायद हम इस सैर की योजना अगले वीकेंड बना सकते हैं।
+DAY | 10 | Day 10: Weekend Plans | I am looking forward to spending time outdoors. | मैं बाहर खुले में समय बिताने का बेसब्री से इंतज़ार कर रहा हूँ।
+DAY | 10 | Day 10: Weekend Plans | Should I bring anything special for the party? | क्या मुझे पार्टी के लिए कुछ खास लाना चाहिए?
+DAY | 10 | Day 10: Weekend Plans | Just bring yourself and a big smile! | बस आप खुद आ जाइए और एक प्यारी सी मुस्कान ले आइए!
+DAY | 10 | Day 10: Weekend Plans | We had an amazing time together last weekend. | पिछले वीकेंड हमने साथ में बहुत शानदार समय बिताया।
+DAY | 10 | Day 10: Weekend Plans | Let us take lots of photos to remember this day. | चलो इस दिन को याद रखने के लिए ढेर सारी तस्वीरें लेते हैं।
+DAY | 10 | Day 10: Weekend Plans | Where should we go for breakfast tomorrow morning? | कल सुबह नाश्ते के लिए हमें कहाँ जाना चाहिए?
+DAY | 10 | Day 10: Weekend Plans | Have a wonderful and relaxing weekend ahead! | आपका आने वाला वीकेंड शानदार और आरामदायक हो!
+
+DAY | 11 | Day 11: At a Restaurant | Good evening, I would like to book a table for four. | शुभ संध्या, मैं चार लोगों के लिए एक टेबल बुक करना चाहूँगा।
+DAY | 11 | Day 11: At a Restaurant | Do you have a table available near the window? | क्या आपके पास खिड़की के पास कोई टेबल खाली है?
+DAY | 11 | Day 11: At a Restaurant | How long is the waiting time right now? | अभी प्रतीक्षा समय (वेटिंग टाइम) कितना है?
+DAY | 11 | Day 11: At a Restaurant | Could you please bring us the menu card? | क्या आप कृपया हमारे लिए मेन्यू कार्ड ला सकते हैं?
+DAY | 11 | Day 11: At a Restaurant | What is the special dish of your restaurant today? | आज आपके रेस्टोरेंट की खास डिश क्या है?
+DAY | 11 | Day 11: At a Restaurant | We are pure vegetarians, please suggest good options. | हम शुद्ध शाकाहारी हैं, कृपया अच्छे विकल्प सुझाएं।
+DAY | 11 | Day 11: At a Restaurant | Could you please make the food less spicy? | क्या आप कृपया खाने को कम मसालेदार बना सकते हैं?
+DAY | 11 | Day 11: At a Restaurant | We would like to start with some hot tomato soup. | हम कुछ गर्म टमाटर के सूप के साथ शुरुआत करना चाहेंगे।
+DAY | 11 | Day 11: At a Restaurant | Please bring two bottles of regular mineral water. | कृपया दो बोतल सामान्य मिनरल वाटर ले आएं।
+DAY | 11 | Day 11: At a Restaurant | Are you ready to place your main course order? | क्या आप अपना मुख्य भोजन (मेन कोर्स) ऑर्डर करने के लिए तैयार हैं?
+DAY | 11 | Day 11: At a Restaurant | We will have paneer butter masala and butter naan. | हम पनीर बटर मसाला और बटर नान लेंगे।
+DAY | 11 | Day 11: At a Restaurant | How much time will it take to serve the food? | खाना परोसने में कितना समय लगेगा?
+DAY | 11 | Day 11: At a Restaurant | Excuse me, could you please bring some extra napkins? | माफ़ कीजिए, क्या आप कृपया कुछ अतिरिक्त नैपकिन ला सकते हैं?
+DAY | 11 | Day 11: At a Restaurant | Could we get some fresh lemon and onions on the side? | क्या हमें साथ में थोड़ा ताज़ा नींबू और प्याज मिल सकता है?
+DAY | 11 | Day 11: At a Restaurant | This food tastes absolutely delicious! | इस खाने का स्वाद वाकई लाजवाब है!
+DAY | 11 | Day 11: At a Restaurant | Sorry, this dish is a bit too salty for us. | माफ़ कीजिए, यह डिश हमारे लिए थोड़ी ज़्यादा नमकीन है।
+DAY | 11 | Day 11: At a Restaurant | Would you like to order any dessert or ice cream? | क्या आप कोई मिठाई या आइसक्रीम ऑर्डर करना चाहेंगे?
+DAY | 11 | Day 11: At a Restaurant | No thank you, we are completely full now. | नहीं धन्यवाद, अब हमारा पेट पूरी तरह भर चुका है।
+DAY | 11 | Day 11: At a Restaurant | Please pack the leftover food for takeaway. | कृपया बचा हुआ खाना घर ले जाने के लिए पैक कर दें।
+DAY | 11 | Day 11: At a Restaurant | Excuse me, could you please bring the bill? | माफ़ कीजिए, क्या आप कृपया बिल ला सकते हैं?
+DAY | 11 | Day 11: At a Restaurant | Do you accept UPI or credit card payments here? | क्या आप यहाँ यूपीआई या क्रेडिट कार्ड से भुगतान स्वीकार करते हैं?
+DAY | 11 | Day 11: At a Restaurant | Let us split the bill equally among all of us. | चलो हम सभी के बीच बिल को बराबर बांट लेते हैं।
+DAY | 11 | Day 11: At a Restaurant | No, today’s treat is on me, keep your wallet away. | नहीं, आज की दावत मेरी तरफ़ से है, अपना बटुआ अंदर रखो।
+DAY | 11 | Day 11: At a Restaurant | Keep the change, thank you for the wonderful service. | बाकी पैसे आप रख लीजिए, शानदार सेवा के लिए धन्यवाद।
+DAY | 11 | Day 11: At a Restaurant | We really enjoyed the ambiance and hospitality here. | हमें यहाँ का माहौल और आतिथ्य बहुत पसंद आया।
+
+DAY | 12 | Day 12: Shopping Talks | Excuse me, how much does this shirt cost? | माफ़ कीजिए, इस शर्ट की कीमत कितनी है?
+DAY | 12 | Day 12: Shopping Talks | I am just looking around right now, thank you. | मैं अभी बस ऐसे ही देख रहा हूँ, धन्यवाद।
+DAY | 12 | Day 12: Shopping Talks | Could you show me this jacket in a medium size? | क्या आप मुझे यह जैकेट मीडियम साइज़ में दिखा सकते हैं?
+DAY | 12 | Day 12: Shopping Talks | Do you have this same design in dark blue color? | क्या आपके पास यही डिज़ाइन गहरे नीले रंग में है?
+DAY | 12 | Day 12: Shopping Talks | Where is the trial room so I can check the fit? | ट्रायल रूम कहाँ है ताकि मैं इसकी फिटिंग देख सकूँ?
+DAY | 12 | Day 12: Shopping Talks | This shirt is a little too tight around the shoulders. | यह शर्ट कंधों के पास से थोड़ी ज़्यादा तंग है।
+DAY | 12 | Day 12: Shopping Talks | The fabric quality feels very soft and comfortable. | कपड़े की गुणवत्ता बहुत मुलायम और आरामदायक लग रही है।
+DAY | 12 | Day 12: Shopping Talks | Is this material pure cotton or a synthetic blend? | क्या यह कपड़ा शुद्ध सूती है या सिंथेटिक मिश्रण है?
+DAY | 12 | Day 12: Shopping Talks | That seems a bit expensive for my budget. | यह मेरे बजट के हिसाब से थोड़ा महंगा लग रहा है।
+DAY | 12 | Day 12: Shopping Talks | Is there any festival discount available on this item? | क्या इस सामान पर कोई त्योहारी छूट उपलब्ध है?
+DAY | 12 | Day 12: Shopping Talks | Can you give me a slightly better price on this? | क्या आप मुझे इस पर थोड़ा बेहतर दाम दे सकते हैं?
+DAY | 12 | Day 12: Shopping Talks | Sorry sir, we have fixed prices in our showroom. | माफ़ कीजिए सर, हमारे शोरूम में दाम तय (फिक्स्ड) हैं।
+DAY | 12 | Day 12: Shopping Talks | What is the final price if I buy two pairs together? | अगर मैं दो जोड़ी एक साथ खरीदूँ तो अंतिम कीमत क्या होगी?
+DAY | 12 | Day 12: Shopping Talks | Will the color fade after the first wash? | क्या पहली धुलाई के बाद इसका रंग फीका पड़ जाएगा?
+DAY | 12 | Day 12: Shopping Talks | Does this electronic gadget come with a warranty? | क्या इस इलेक्ट्रॉनिक गैजेट के साथ वारंटी मिलती है?
+DAY | 12 | Day 12: Shopping Talks | What is your return or exchange policy? | आपकी वापसी या अदला-बदली (एक्सचेंज) की नीति क्या है?
+DAY | 12 | Day 12: Shopping Talks | I would like to exchange this for a larger size. | मैं इसे एक बड़े साइज़ के साथ बदलना चाहूँगा।
+DAY | 12 | Day 12: Shopping Talks | Please check the expiry date before buying groceries. | किराने का सामान खरीदने से पहले समाप्ति तिथि (एक्सपायरी डेट) ज़रूर जांच लें।
+DAY | 12 | Day 12: Shopping Talks | These vegetables look very fresh today. | आज ये सब्ज़ियाँ बहुत ताज़ा दिख रही हैं।
+DAY | 12 | Day 12: Shopping Talks | Please weigh one kilogram of fresh apples for me. | कृपया मेरे लिए एक किलो ताज़ा सेब तौल दीजिए।
+DAY | 12 | Day 12: Shopping Talks | Could you please pack this nicely as a gift? | क्या आप कृपया इसे उपहार के रूप में अच्छे से पैक कर सकते हैं?
+DAY | 12 | Day 12: Shopping Talks | Where is the billing counter in this store? | इस स्टोर में बिलिंग काउंटर कहाँ है?
+DAY | 12 | Day 12: Shopping Talks | Do you provide a carry bag or should I bring my own? | क्या आप कैरी बैग देते हैं या मुझे अपना लाना होगा?
+DAY | 12 | Day 12: Shopping Talks | Please give me the printed receipt for this purchase. | कृपया इस खरीदारी की प्रिंटेड रसीद मुझे दे दीजिए।
+DAY | 12 | Day 12: Shopping Talks | Thank you, I am very happy with my purchase today. | धन्यवाद, मैं आज की अपनी खरीदारी से बहुत खुश हूँ।
+
+DAY | 13 | Day 13: Doctor & Health | Good morning doctor, I am not feeling well today. | सुप्रभात डॉक्टर, आज मेरी तबीयत ठीक नहीं लग रही है।
+DAY | 13 | Day 13: Doctor & Health | I have been having a high fever since yesterday evening. | मुझे कल शाम से तेज़ बुखार आ रहा है।
+DAY | 13 | Day 13: Doctor & Health | I have a severe headache and body ache right now. | मुझे अभी तेज़ सिरदर्द और बदन दर्द हो रहा है।
+DAY | 13 | Day 13: Doctor & Health | My throat feels very sore and painful while swallowing. | निगलते समय मेरे गले में बहुत खराश और दर्द महसूस हो रहा है।
+DAY | 13 | Day 13: Doctor & Health | I have been suffering from a dry cough for three days. | मैं तीन दिनों से सूखी खांसी से परेशान हूँ।
+DAY | 13 | Day 13: Doctor & Health | I feel dizzy and weak whenever I stand up suddenly. | जब भी मैं अचानक खड़ा होता हूँ तो मुझे चक्कर और कमज़ोरी महसूस होती है।
+DAY | 13 | Day 13: Doctor & Health | I have an upset stomach and acidity since last night. | कल रात से मेरा पेट खराब है और एसिडिटी हो रही है।
+DAY | 13 | Day 13: Doctor & Health | I twisted my ankle while walking down the stairs. | सीढ़ियों से नीचे उतरते समय मेरे टखने में मोच आ गई।
+DAY | 13 | Day 13: Doctor & Health | There is a sharp pain in my lower back. | मेरी पीठ के निचले हिस्से में तेज़ दर्द हो रहा है।
+DAY | 13 | Day 13: Doctor & Health | I have lost my appetite for the past two days. | पिछले दो दिनों से मेरी भूख खत्म हो गई है।
+DAY | 13 | Day 13: Doctor & Health | Please check my blood pressure and temperature first. | कृपया पहले मेरा ब्लड प्रेशर और तापमान जांच लें।
+DAY | 13 | Day 13: Doctor & Health | Are you allergic to any specific medicine? | क्या आपको किसी खास दवा से एलर्जी है?
+DAY | 13 | Day 13: Doctor & Health | No doctor, I do not have any known drug allergies. | नहीं डॉक्टर, मुझे किसी भी दवा से कोई ज्ञात एलर्जी नहीं है।
+DAY | 13 | Day 13: Doctor & Health | Is it just a seasonal viral infection or something serious? | क्या यह केवल मौसमी वायरल संक्रमण है या कुछ गंभीर बात है?
+DAY | 13 | Day 13: Doctor & Health | Do I need to get any blood tests done? | क्या मुझे कोई खून की जांच कराने की ज़रूरत है?
+DAY | 13 | Day 13: Doctor & Health | How many times a day should I take this medicine? | मुझे यह दवा दिन में कितनी बार लेनी चाहिए?
+DAY | 13 | Day 13: Doctor & Health | Should I take these tablets before or after meals? | क्या मुझे ये गोलियां खाने से पहले लेनी चाहिए या बाद में?
+DAY | 13 | Day 13: Doctor & Health | What foods should I avoid during this recovery period? | ठीक होने के इस समय के दौरान मुझे किन चीज़ों से परहेज़ करना चाहिए?
+DAY | 13 | Day 13: Doctor & Health | Drink plenty of warm water and take complete rest. | खूब सारा गुनगुना पानी पिएं और पूरा आराम करें।
+DAY | 13 | Day 13: Doctor & Health | Avoid cold drinks, oily food, and outside snacks. | ठंडे पेय, तैलीय भोजन और बाहर के नाश्ते से बचें।
+DAY | 13 | Day 13: Doctor & Health | When should I come back for a follow-up checkup? | मुझे दोबारा जांच (फॉलो-अप) के लिए कब वापस आना चाहिए?
+DAY | 13 | Day 13: Doctor & Health | Come back after three days if the fever does not subside. | यदि बुखार कम न हो तो तीन दिन बाद वापस आएं।
+DAY | 13 | Day 13: Doctor & Health | Where is the nearest medical store to buy these medicines? | ये दवाइयां खरीदने के लिए सबसे नज़दीकी मेडिकल स्टोर कहाँ है?
+DAY | 13 | Day 13: Doctor & Health | I am feeling much better after taking your treatment. | आपका इलाज लेने के बाद मैं काफी बेहतर महसूस कर रहा हूँ।
+DAY | 13 | Day 13: Doctor & Health | Thank you so much doctor for your care and guidance. | आपकी देखभाल और मार्गदर्शन के लिए बहुत-बहुत धन्यवाद डॉक्टर।
+
+DAY | 14 | Day 14: Travel & Directions | Excuse me, could you please guide me to the railway station? | माफ़ कीजिए, क्या आप कृपया मुझे रेलवे स्टेशन का रास्ता बता सकते हैं?
+DAY | 14 | Day 14: Travel & Directions | Go straight ahead and take the second left turn. | सीधे आगे जाएं और दूसरा बायां मोड़ लें।
+DAY | 14 | Day 14: Travel & Directions | The post office is right opposite the city hospital. | डाकघर शहर के अस्पताल के ठीक सामने है।
+DAY | 14 | Day 14: Travel & Directions | How far is the bus stand from this crossing? | इस चौराहे से बस स्टैंड कितनी दूर है?
+DAY | 14 | Day 14: Travel & Directions | It is just a five-minute walk from here. | यह यहाँ से केवल पाँच मिनट की पैदल दूरी पर है।
+DAY | 14 | Day 14: Travel & Directions | Am I on the right road to the airport? | क्या मैं एयरपोर्ट जाने वाले सही रास्ते पर हूँ?
+DAY | 14 | Day 14: Travel & Directions | No, you took a wrong turn; please go back and turn right. | नहीं, आपने गलत मोड़ ले लिया है; कृपया वापस जाएं और दाएं मुड़ें।
+DAY | 14 | Day 14: Travel & Directions | Could you please drop me at the main market? | क्या आप कृपया मुझे मुख्य बाज़ार में छोड़ सकते हैं?
+DAY | 14 | Day 14: Travel & Directions | How much will you
 RANDOM | Better late than never. | देर आए दुरुस्त आए।
 RANDOM | Things will fall into place soon. | जल्द ही सब कुछ ठीक हो जाएगा।
 RANDOM | I am running a little behind schedule today. | आज मैं अपने तय समय से थोड़ा पीछे चल रहा हूँ।
