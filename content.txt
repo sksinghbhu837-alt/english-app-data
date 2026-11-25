@@ -453,6 +453,239 @@ DAY | 21 | Day 21: Job Interview | I can join within fifteen days after completi
 DAY | 21 | Day 21: Job Interview | Do you have any questions for us before we wrap up? | समाप्त करने से पहले क्या आपके पास हमारे लिए कोई प्रश्न है?
 DAY | 21 | Day 21: Job Interview | Could you tell me more about the team I will be working with? | क्या आप मुझे उस टीम के बारे में कुछ और बता सकते हैं जिसके साथ मैं काम करूँगा?
 DAY | 21 | Day 21: Job Interview | Thank you for your time and consideration, I look forward to hearing from you. | आपके समय और विचार के लिए धन्यवाद, मैं आपके जवाब की प्रतीक्षा करूँगा।
+DAY | 22 | Day 22: Team Meetings | Good morning everyone, thank you for joining today’s meeting on time. | सुप्रभात सभी को, आज की मीटिंग में समय पर शामिल होने के लिए धन्यवाद।
+DAY | 22 | Day 22: Team Meetings | Let us quickly review the agenda before we begin our discussion. | चर्चा शुरू करने से पहले आइए जल्दी से आज के एजेंडे की समीक्षा कर लें।
+DAY | 22 | Day 22: Team Meetings | The main purpose of this meeting is to finalize our monthly targets. | इस मीटिंग का मुख्य उद्देश्य हमारे मासिक लक्ष्यों को अंतिम रूप देना है।
+DAY | 22 | Day 22: Team Meetings | I would like to share a quick update on our ongoing project. | मैं हमारे चल रहे प्रोजेक्ट पर एक संक्षिप्त अपडेट साझा करना चाहूँगा।
+DAY | 22 | Day 22: Team Meetings | We have completed eighty percent of the work ahead of schedule. | हमने तय समय से पहले अस्सी प्रतिशत काम पूरा कर लिया है।
+DAY | 22 | Day 22: Team Meetings | However, we are facing a minor bottleneck in the supply chain. | हालांकि, हमें सप्लाई चेन में एक छोटी सी रुकावट का सामना करना पड़ रहा है।
+DAY | 22 | Day 22: Team Meetings | Does anyone have any suggestions on how to speed up this process? | क्या इस प्रक्रिया को तेज़ करने के बारे में किसी के पास कोई सुझाव है?
+DAY | 22 | Day 22: Team Meetings | May I add a quick point to what Rohit just mentioned? | क्या मैं रोहित द्वारा अभी कही गई बात में एक छोटा सा बिंदु जोड़ सकता हूँ?
+DAY | 22 | Day 22: Team Meetings | In my view, automating this step will save us two hours daily. | मेरे विचार से, इस चरण को स्वचालित (ऑटोमेट) करने से हमारे रोज़ाना दो घंटे बचेंगे।
+DAY | 22 | Day 22: Team Meetings | Could you please clarify the budget allocation for this campaign? | क्या आप कृपया इस अभियान के लिए बजट आवंटन स्पष्ट कर सकते हैं?
+DAY | 22 | Day 22: Team Meetings | Let us stick to the core topic so we finish within thirty minutes. | आइए मुख्य विषय पर ही टिके रहें ताकि हम तीस मिनट के भीतर समाप्त कर सकें।
+DAY | 22 | Day 22: Team Meetings | Who is taking the lead on preparing the final client report? | अंतिम क्लाइंट रिपोर्ट तैयार करने की ज़िम्मेदारी कौन ले रहा है?
+DAY | 22 | Day 22: Team Meetings | I will take full responsibility for coordinating with the vendors. | विक्रेताओं (वेंडर्स) के साथ समन्वय करने की पूरी ज़िम्मेदारी मैं लूँगा।
+DAY | 22 | Day 22: Team Meetings | Let us set Friday evening as the strict deadline for this task. | आइए इस कार्य के लिए शुक्रवार शाम को सख्त समय-सीमा (डेडलाइन) तय करते हैं।
+DAY | 22 | Day 22: Team Meetings | Are we all aligned on the next steps discussed today? | क्या आज चर्चा किए गए अगले कदमों पर हम सभी सहमत हैं?
+DAY | 22 | Day 22: Team Meetings | Please share the minutes of this meeting over email by tonight. | कृपया आज रात तक ईमेल पर इस मीटिंग के मुख्य बिंदु (मिनट्स) साझा कर दें।
+DAY | 22 | Day 22: Team Meetings | Let us schedule a brief follow-up call next Monday morning. | आइए अगले सोमवार सुबह एक संक्षिप्त फॉलो-अप कॉल निर्धारित करते हैं।
+DAY | 22 | Day 22: Team Meetings | Great teamwork everyone, your efforts are truly paying off! | सभी का शानदार टीमवर्क, आपके प्रयास वास्तव में रंग ला रहे हैं!
+DAY | 22 | Day 22: Team Meetings | If there are no further questions, let us wrap up for today. | यदि कोई और प्रश्न नहीं हैं, तो आइए आज की मीटिंग यहीं समाप्त करते हैं।
+DAY | 22 | Day 22: Team Meetings | Feel free to reach out to me directly if you need any support. | यदि आपको किसी सहायता की आवश्यकता हो तो बेझिझक मुझसे सीधे संपर्क करें।
+DAY | 22 | Day 22: Team Meetings | Let us brainstorm some fresh ideas to attract more customers. | आइए अधिक ग्राहकों को आकर्षित करने के लिए कुछ नए विचारों पर मंथन करें।
+DAY | 22 | Day 22: Team Meetings | Data clearly shows that customer satisfaction has improved this quarter. | डेटा स्पष्ट रूप से दिखाता है कि इस तिमाही में ग्राहक संतुष्टि में सुधार हुआ है।
+DAY | 22 | Day 22: Team Meetings | We need to prioritize quality over speed in this critical phase. | इस महत्वपूर्ण चरण में हमें गति की तुलना में गुणवत्ता को प्राथमिकता देने की ज़रूरत है।
+DAY | 22 | Day 22: Team Meetings | Thank you for your valuable inputs and active participation today. | आज आपके बहुमूल्य सुझावों और सक्रिय भागीदारी के लिए धन्यवाद।
+DAY | 22 | Day 22: Team Meetings | Have a productive day ahead, let us get to work! | आपका आगे का दिन उत्पादक हो, चलो काम पर लग जाते हैं!
+
+DAY | 23 | Day 23: Email to Spoken | Instead of "Please find attached", say "I have attached the file for you." | "Please find attached" के बजाय बोलें "मैंने आपके लिए फ़ाइल संलग्न कर दी है।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "Kindly revert at the earliest", say "Please reply as soon as you can." | "Kindly revert at the earliest" के बजाय बोलें "कृपया जितनी जल्दी हो सके जवाब दें।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "Per our conversation", say "As we discussed earlier on the call." | "Per our conversation" के बजाय बोलें "जैसा कि हमने पहले कॉल पर चर्चा की थी।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "I am writing to inform you", say "I just wanted to let you know." | "I am writing to inform you" के बजाय बोलें "मैं बस आपको यह बताना चाहता था।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "Please do the needful", say "Could you please take care of this?" | "Please do the needful" के बजाय बोलें "क्या आप कृपया इस काम को संभाल लेंगे?"
+DAY | 23 | Day 23: Email to Spoken | Instead of "With reference to your query", say "Regarding the question you asked." | "With reference to your query" के बजाय बोलें "आपने जो सवाल पूछा था उसके संबंध में।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "Ensure compliance", say "Make sure we follow all the rules." | "Ensure compliance" के बजाय बोलें "सुनिश्चित करें कि हम सभी नियमों का पालन करें।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "Expedite the process", say "Let us speed things up a bit." | "Expedite the process" के बजाय बोलें "चलो काम को थोड़ा तेज़ करते हैं।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "At your earliest convenience", say "Whenever you get a free moment." | "At your earliest convenience" के बजाय बोलें "जब भी आपको थोड़ा खाली समय मिले।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "Acknowledge receipt", say "Let me know once you receive this." | "Acknowledge receipt" के बजाय बोलें "यह मिलने पर मुझे बता दीजिएगा।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "We regret to inform you", say "Unfortunately, we have some bad news." | "We regret to inform you" के बजाय बोलें "दुर्भाग्य से, हमारे पास एक बुरी खबर है।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "Subsequent to our meeting", say "Right after our meeting ended." | "Subsequent to our meeting" के बजाय बोलें "हमारी मीटिंग खत्म होने के तुरंत बाद।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "Furnish the details", say "Share all the required information." | "Furnish the details" के बजाय बोलें "सभी आवश्यक जानकारी साझा करें।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "Prior to the deadline", say "Before the final due date." | "Prior to the deadline" के बजाय बोलें "अंतिम नियत तारीख से पहले।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "In light of recent events", say "Considering what happened recently." | "In light of recent events" के बजाय बोलें "हाल ही में जो हुआ उसे देखते हुए।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "Reach out to us", say "Feel free to call or message us anytime." | "Reach out to us" के बजाय बोलें "किसी भी समय हमें कॉल या मैसेज करने में संकोच न करें।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "Finalize the deliverables", say "Decide exactly what needs to be submitted." | "Finalize the deliverables" के बजाय बोलें "तय करें कि वास्तव में क्या जमा करना है।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "Keep me in the loop", say "Keep me updated on what is happening." | "Keep me in the loop" के बजाय बोलें "जो कुछ भी हो रहा है मुझे उसकी जानकारी देते रहें।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "Commence operations", say "Start the work officially." | "Commence operations" के बजाय बोलें "आधिकारिक रूप से काम शुरू करें।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "Terminate the agreement", say "End the contract mutually." | "Terminate the agreement" के बजाय बोलें "आपसी सहमति से अनुबंध समाप्त करें।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "Seek approval", say "Ask the manager for permission." | "Seek approval" के बजाय बोलें "प्रबंधक से अनुमति मांगें।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "Rectify the discrepancy", say "Fix the mismatch in the numbers." | "Rectify the discrepancy" के बजाय बोलें "आंकड़ों में गड़बड़ी को ठीक करें।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "Avail the discount", say "Use this special offer before it ends." | "Avail the discount" के बजाय बोलें "समाप्त होने से पहले इस विशेष ऑफ़र का लाभ उठाएं।"
+DAY | 23 | Day 23: Email to Spoken | Instead of "Pursuant to your instructions", say "Just like you told us to do." | "Pursuant to your instructions" के बजाय बोलें "बिल्कुल वैसे ही जैसा आपने हमें करने को कहा था।"
+DAY | 23 | Day 23: Email to Spoken | Simple spoken English always connects faster than heavy formal words. | भारी औपचारिक शब्दों की तुलना में सरल बोलचाल की अंग्रेजी हमेशा तेज़ी से जुड़ती है।
+
+DAY | 24 | Day 24: Storytelling | You will never believe what happened to me on my way home yesterday! | आप कभी विश्वास नहीं करेंगे कि कल घर आते समय मेरे साथ क्या हुआ!
+DAY | 24 | Day 24: Storytelling | It all started on a rainy Sunday morning last summer. | यह सब पिछली गर्मियों में एक बरसाती रविवार की सुबह शुरू हुआ था।
+DAY | 24 | Day 24: Storytelling | At first, everything seemed completely normal and peaceful. | शुरुआत में, सब कुछ पूरी तरह सामान्य और शांत लग रहा था।
+DAY | 24 | Day 24: Storytelling | Out of nowhere, the streetlights went off and it became pitch dark. | अचानक, स्ट्रीटलाइट्स बंद हो गईं और घुप अंधेरा छा गया।
+DAY | 24 | Day 24: Storytelling | To make matters worse, my phone had only two percent battery left. | मुसीबत को और बढ़ाने के लिए, मेरे फ़ोन में केवल दो प्रतिशत बैटरी बची थी।
+DAY | 24 | Day 24: Storytelling | For a moment, I honestly did not know what to do next. | एक पल के लिए, सच कहूँ तो मुझे समझ नहीं आया कि आगे क्या करूँ।
+DAY | 24 | Day 24: Storytelling | Luckily, a kind shopkeeper offered me his flashlight and a warm cup of tea. | सौभाग्य से, एक दयालु दुकानदार ने मुझे अपनी टॉर्च और एक कप गर्म चाय दी।
+DAY | 24 | Day 24: Storytelling | While we were talking, we realized we both studied in the same college! | बात करते-करते हमें एहसास हुआ कि हम दोनों ने एक ही कॉलेज में पढ़ाई की है!
+DAY | 24 | Day 24: Storytelling | What a small world! That coincidence turned a bad evening into a great memory. | दुनिया कितनी छोटी है! उस संयोग ने एक खराब शाम को एक बेहतरीन याद में बदल दिया।
+DAY | 24 | Day 24: Storytelling | Let me tell you about the first time I spoke on a public stage. | मैं आपको पहली बार सार्वजनिक मंच पर बोलने के अपने अनुभव के बारे में बताता हूँ।
+DAY | 24 | Day 24: Storytelling | My hands were shaking, and my heart was beating super fast. | मेरे हाथ कांप रहे थे, और मेरा दिल बहुत तेज़ धड़क रहा था।
+DAY | 24 | Day 24: Storytelling | Once I spoke the first two sentences, all my fear vanished instantly. | जैसे ही मैंने पहले दो वाक्य बोले, मेरा सारा डर तुरंत गायब हो गया।
+DAY | 24 | Day 24: Storytelling | By the end of my speech, the entire audience gave me a loud round of applause. | मेरे भाषण के अंत तक, पूरे दर्शकों ने ज़ोरदार तालियां बजाईं।
+DAY | 24 | Day 24: Storytelling | That single experience boosted my self-confidence forever. | उस एक अनुभव ने हमेशा के लिए मेरा आत्मविश्वास बढ़ा दिया।
+DAY | 24 | Day 24: Storytelling | Looking back now, I laugh at how nervous I used to be. | अब पीछे मुड़कर देखता हूँ, तो मुझे हंसी आती है कि मैं कितना घबराया करता था।
+DAY | 24 | Day 24: Storytelling | Suddenly, a stray puppy ran across the road right in front of our car. | अचानक, एक आवारा पिल्ला हमारी कार के ठीक सामने सड़क पार करने लगा।
+DAY | 24 | Day 24: Storytelling | Thankfully, my father hit the brakes just in time and saved it. | शुक्र है, मेरे पिताजी ने बिल्कुल समय पर ब्रेक लगाया और उसे बचा लिया।
+DAY | 24 | Day 24: Storytelling | It taught me how important it is to stay alert while driving. | इसने मुझे सिखाया कि गाड़ी चलाते समय सतर्क रहना कितना ज़रूरी है।
+DAY | 24 | Day 24: Storytelling | Long story short, we reached the station just two minutes before departure. | संक्षेप में कहूँ तो, हम ट्रेन छूटने से ठीक दो मिनट पहले स्टेशन पहुँच गए।
+DAY | 24 | Day 24: Storytelling | We were panting heavily, yet laughing uncontrollably inside the coach. | हम तेज़ी से हांफ रहे थे, फिर भी डिब्बे के अंदर बेकाबू होकर हंस रहे थे।
+DAY | 24 | Day 24: Storytelling | Have you ever had a trip where everything went opposite to your plan? | क्या आपकी कभी ऐसी यात्रा हुई है जहाँ सब कुछ आपकी योजना के विपरीत हुआ हो?
+DAY | 24 | Day 24: Storytelling | That incident completely changed the way I look at life. | उस घटना ने जीवन को देखने का मेरा नज़रिया पूरी तरह बदल दिया।
+DAY | 24 | Day 24: Storytelling | Even today, whenever our family meets, we talk about that funny day. | आज भी, जब भी हमारा परिवार मिलता है, हम उस मज़ेदार दिन के बारे में बात करते हैं।
+DAY | 24 | Day 24: Storytelling | The moral of the story is to never panic in tough situations. | कहानी की सीख यह है कि कठिन परिस्थितियों में कभी घबराएं नहीं।
+DAY | 24 | Day 24: Storytelling | Every challenge eventually turns into a great story to tell later. | हर चुनौती अंततः बाद में सुनाने के लिए एक शानदार कहानी बन जाती है।
+
+DAY | 25 | Day 25: Debate & Opinions | In my opinion, artificial intelligence is a huge blessing for students. | मेरी राय में, आर्टिफिशियल इंटेलिजेंस छात्रों के लिए एक बहुत बड़ा वरदान है।
+DAY | 25 | Day 25: Debate & Opinions | On the other hand, over-dependence on technology can reduce creativity. | दूसरी ओर, तकनीक पर अत्यधिक निर्भरता रचनात्मकता को कम कर सकती है।
+DAY | 25 | Day 25: Debate & Opinions | I firmly believe that practical skills matter more than just bookish degrees. | मेरा दृढ़ विश्वास है कि केवल किताबी डिग्रियों की तुलना में व्यावहारिक कौशल अधिक मायने रखते हैं।
+DAY | 25 | Day 25: Debate & Opinions | From my perspective, working from home improves overall work-life balance. | मेरे दृष्टिकोण से, घर से काम करना समग्र कार्य-जीवन संतुलन में सुधार करता है।
+DAY | 25 | Day 25: Debate & Opinions | However, critics argue that remote work weakens team bonding. | हालांकि, आलोचकों का तर्क है कि रिमोट वर्क टीम के आपसी जुड़ाव को कमज़ोर करता है।
+DAY | 25 | Day 25: Debate & Opinions | There is no doubt that social media connects people across the globe. | इसमें कोई संदेह नहीं है कि सोशल मीडिया दुनिया भर के लोगों को जोड़ता है।
+DAY | 25 | Day 25: Debate & Opinions | At the same time, it spreads misinformation faster than ever before. | साथ ही, यह पहले से कहीं अधिक तेज़ी से गलत सूचनाएं फैलाता है।
+DAY | 25 | Day 25: Debate & Opinions | Let me back up my argument with some real-world statistics. | मुझे कुछ वास्तविक आंकड़ों के साथ अपने तर्क का समर्थन करने दें।
+DAY | 25 | Day 25: Debate & Opinions | That is a fair point, yet it overlooks the financial aspect of the problem. | यह एक उचित बात है, फिर भी यह समस्या के वित्तीय पहलू को नज़रअंदाज़ करता है।
+DAY | 25 | Day 25: Debate & Opinions | As far as I am concerned, health should always be our top priority. | जहाँ तक मेरा संबंध है, स्वास्थ्य हमेशा हमारी सर्वोच्च प्राथमिकता होनी चाहिए।
+DAY | 25 | Day 25: Debate & Opinions | Many people think money buys happiness, whereas I believe peace does. | कई लोग सोचते हैं कि पैसा खुशी खरीदता है, जबकि मेरा मानना है कि शांति खुशी देती है।
+DAY | 25 | Day 25: Debate & Opinions | We must look at both the pros and cons before passing judgment. | कोई फैसला सुनाने से पहले हमें फायदे और नुकसान दोनों को देखना चाहिए।
+DAY | 25 | Day 25: Debate & Opinions | What is your honest take on electric vehicles replacing petrol cars? | पेट्रोल कारों की जगह इलेक्ट्रिक वाहनों के आने पर आपकी ईमानदार राय क्या है?
+DAY | 25 | Day 25: Debate & Opinions | While initial costs are high, long-term fuel savings are undeniable. | हालांकि शुरुआती लागत अधिक है, लेकिन लंबे समय में ईंधन की बचत निर्विवाद है।
+DAY | 25 | Day 25: Debate & Opinions | I strongly feel that financial literacy should be taught in every school. | मुझे दृढ़ता से लगता है कि हर स्कूल में वित्तीय साक्षरता पढ़ाई जानी चाहिए।
+DAY | 25 | Day 25: Debate & Opinions | That argument sounds convincing, though we need more evidence to prove it. | वह तर्क विश्वसनीय लगता है, हालांकि इसे साबित करने के लिए हमें और सबूत चाहिए।
+DAY | 25 | Day 25: Debate & Opinions | To put it simply, discipline beats motivation every single day. | सीधे शब्दों में कहें तो, अनुशासन हर दिन प्रेरणा (मोटिवेशन) को मात देता है।
+DAY | 25 | Day 25: Debate & Opinions | I tend to agree with the majority on this environmental issue. | मैं इस पर्यावरणीय मुद्दे पर बहुमत से सहमत होने की प्रवृत्ति रखता हूँ।
+DAY | 25 | Day 25: Debate & Opinions | Conversely, small towns offer a much cleaner and calmer lifestyle. | इसके विपरीत, छोटे शहर बहुत अधिक स्वच्छ और शांत जीवनशैली प्रदान करते हैं।
+DAY | 25 | Day 25: Debate & Opinions | It goes without saying that education is the backbone of any nation. | यह कहने की आवश्यकता नहीं है कि शिक्षा किसी भी राष्ट्र की रीढ़ है।
+DAY | 25 | Day 25: Debate & Opinions | Let us not confuse temporary trends with permanent success. | आइए अस्थायी रुझानों को स्थायी सफलता समझकर भ्रमित न हों।
+DAY | 25 | Day 25: Debate & Opinions | I respect your viewpoint even though our conclusions are completely opposite. | मैं आपके दृष्टिकोण का सम्मान करता हूँ भले ही हमारे निष्कर्ष पूरी तरह विपरीत हों।
+DAY | 25 | Day 25: Debate & Opinions | Healthy debate always leads to better and smarter decisions. | स्वस्थ बहस हमेशा बेहतर और समझदारी भरे निर्णयों की ओर ले जाती है।
+DAY | 25 | Day 25: Debate & Opinions | All things considered, adopting solar energy is the smartest move today. | सभी बातों पर विचार करने के बाद, सौर ऊर्जा अपनाना आज सबसे समझदारी भरा कदम है।
+DAY | 25 | Day 25: Debate & Opinions | That brings us to the conclusion that balance is the key to everything. | यह हमें इस निष्कर्ष पर लाता है कि संतुलन ही हर चीज़ की कुंजी है।
+
+DAY | 26 | Day 26: Daily Idioms | Speaking English fluently is a piece of cake if you practice daily. | यदि आप रोज़ अभ्यास करें तो धाराप्रवाह अंग्रेजी बोलना बाएं हाथ का खेल (Piece of cake) है।
+DAY | 26 | Day 26: Daily Idioms | I only eat fast food once in a blue moon. | मैं फास्ट फ़ूड केवल कभी-कभार (Once in a blue moon) ही खाता हूँ।
+DAY | 26 | Day 26: Daily Idioms | Stop beating around the bush and come straight to the point. | इधर-उधर की बातें घुमाना बंद करो और सीधे मुद्दे पर आओ।
+DAY | 26 | Day 26: Daily Idioms | Losing that job was a blessing in disguise because he started his own business. | वह नौकरी छूटना छिपा हुआ वरदान साबित हुआ क्योंकि उसने अपना खुद का व्यवसाय शुरू कर दिया।
+DAY | 26 | Day 26: Daily Idioms | Let us call it a day and continue the rest of the work tomorrow. | चलो आज का काम यहीं खत्म करते हैं और बाकी काम कल जारी रखेंगे।
+DAY | 26 | Day 26: Daily Idioms | Buying a luxury car in Mumbai costs an arm and a leg. | मुंबई में एक लक्ज़री कार खरीदना बहुत ज़्यादा महंगा (Costs an arm and a leg) पड़ता है।
+DAY | 26 | Day 26: Daily Idioms | Do not judge a book by its cover; he is actually very humble. | किसी को उसके बाहरी रूप से मत आंकिए; वह वास्तव में बहुत विनम्र है।
+DAY | 26 | Day 26: Daily Idioms | She hit the nail on the head with her accurate analysis. | उसने अपने सटीक विश्लेषण से बिल्कुल सही बात कही (Hit the nail on the head)।
+DAY | 26 | Day 26: Daily Idioms | I am feeling a bit under the weather today, so I will rest at home. | आज मेरी तबीयत थोड़ी नासाज़ (Under the weather) लग रही है, इसलिए मैं घर पर आराम करूँगा।
+DAY | 26 | Day 26: Daily Idioms | Break a leg! I know you will do wonderfully in your exam. | शुभकामनाएं (Break a leg)! मुझे पता है तुम अपनी परीक्षा में शानदार प्रदर्शन करोगे।
+DAY | 26 | Day 26: Daily Idioms | It is no use crying over spilt milk; focus on fixing the future. | अब पछताए होत क्या जब चिड़िया चुग गई खेत (Crying over spilt milk); भविष्य सुधारने पर ध्यान दें।
+DAY | 26 | Day 26: Daily Idioms | He burned the midnight oil to finish his MBA project report on time. | उसने अपनी एमबीए प्रोजेक्ट रिपोर्ट समय पर पूरी करने के लिए रात-दिन एक कर दिया (Burned the midnight oil)।
+DAY | 26 | Day 26: Daily Idioms | Who let the cat out of the bag about our surprise party? | हमारी सरप्राइज़ पार्टी का राज़ किसने खोला (Let the cat out of the bag)?
+DAY | 26 | Day 26: Daily Idioms | Every cloud has a silver lining, so never lose hope in hard times. | हर मुश्किल के पीछे एक उम्मीद की किरण होती है, इसलिए कठिन समय में कभी उम्मीद न खोएं।
+DAY | 26 | Day 26: Daily Idioms | Bite the bullet and tell him the truth before it is too late. | हिम्मत जुटाओ (Bite the bullet) और बहुत देर होने से पहले उसे सच बता दो।
+DAY | 26 | Day 26: Daily Idioms | You have to go the extra mile if you want to stand out from the crowd. | यदि आप भीड़ से अलग दिखना चाहते हैं तो आपको अतिरिक्त मेहनत (Go the extra mile) करनी होगी।
+DAY | 26 | Day 26: Daily Idioms | Actions speak louder than words in every walk of life. | जीवन के हर क्षेत्र में आपकी करनी आपकी कथनी से ज़्यादा बोलती है।
+DAY | 26 | Day 26: Daily Idioms | I will keep my fingers crossed for your interview results tomorrow! | मैं कल तुम्हारे इंटरव्यू के नतीजों के लिए अच्छे की कामना (Fingers crossed) करूँगा!
+DAY | 26 | Day 26: Daily Idioms | Don’t put all your eggs in one basket while investing your savings. | अपनी बचत का निवेश करते समय सारा पैसा एक ही जगह न लगाएं।
+DAY | 26 | Day 26: Daily Idioms | He is sitting on the fence and cannot decide which offer to accept. | वह दुविधा में है (Sitting on the fence) और तय नहीं कर पा रहा कि कौन सा प्रस्ताव स्वीकार करे।
+DAY | 26 | Day 26: Daily Idioms | That new smartphone is selling like hotcakes in the market. | वह नया स्मार्टफोन बाज़ार में हाथों-हाथ बिक रहा है (Selling like hotcakes)।
+DAY | 26 | Day 26: Daily Idioms | Let us cut corners on unnecessary expenses this month. | आइए इस महीने अनावश्यक खर्चों में कटौती (Cut corners) करें।
+DAY | 26 | Day 26: Daily Idioms | She has a heart of gold and always helps stray animals. | उसका दिल सोने जैसा है (Heart of gold) और वह हमेशा बेसहारा जानवरों की मदद करती है।
+DAY | 26 | Day 26: Daily Idioms | Better late than never, I am glad you finally joined our group. | देर आए दुरुस्त आए, मुझे खुशी है कि आप आखिरकार हमारे समूह में शामिल हो गए।
+DAY | 26 | Day 26: Daily Idioms | Practice makes a man perfect, so keep using these idioms daily! | अभ्यास ही इंसान को निपुण बनाता है, इसलिए रोज़ाना इन मुहावरों का उपयोग करते रहें!
+
+DAY | 27 | Day 27: Normal vs Native | Normal: I am very tired. → Native: I am completely exhausted / worn out. | सामान्य: मैं बहुत थका हुआ हूँ। → स्मार्ट: मैं पूरी तरह थक कर चूर हो गया हूँ।
+DAY | 27 | Day 27: Normal vs Native | Normal: I am very hungry. → Native: I am starving! | सामान्य: मुझे बहुत भूख लगी है। → स्मार्ट: मेरे पेट में चूहे दौड़ रहे हैं!
+DAY | 27 | Day 27: Normal vs Native | Normal: Let us meet today. → Native: Let us catch up today. | सामान्य: चलो आज मिलते हैं। → स्मार्ट: चलो आज मुलाकात करते हैं।
+DAY | 27 | Day 27: Normal vs Native | Normal: I am very busy. → Native: I am swamped with work right now. | सामान्य: मैं बहुत व्यस्त हूँ। → स्मार्ट: मैं अभी काम में पूरी तरह डूबा हुआ हूँ।
+DAY | 27 | Day 27: Normal vs Native | Normal: Keep it a secret. → Native: Keep it under wraps. | सामान्य: इसे गुप्त रखें। → स्मार्ट: इस बात को पर्दे के पीछे ही रखें।
+DAY | 27 | Day 27: Normal vs Native | Normal: I do not understand it. → Native: I cannot wrap my head around it. | सामान्य: मुझे यह समझ नहीं आ रहा। → स्मार्ट: यह बात मेरी समझ से परे है।
+DAY | 27 | Day 27: Normal vs Native | Normal: Good luck! → Native: Fingers crossed for you! | सामान्य: शुभकामनाएं! → स्मार्ट: तुम्हारे लिए मेरी शुभकामनाएं हैं!
+DAY | 27 | Day 27: Normal vs Native | Normal: Stop wasting time. → Native: Stop fooling around. | सामान्य: समय बर्बाद करना बंद करो। → स्मार्ट: इधर-उधर समय गंवाना बंद करो।
+DAY | 27 | Day 27: Normal vs Native | Normal: I will pay the bill. → Native: It is on me today. | सामान्य: मैं बिल भरूँगा। → स्मार्ट: आज की पार्टी मेरी तरफ़ से है।
+DAY | 27 | Day 27: Normal vs Native | Normal: Tell me what happened. → Native: Fill me in on what happened. | सामान्य: मुझे बताओ क्या हुआ। → स्मार्ट: मुझे पूरी बात विस्तार से बताओ।
+DAY | 27 | Day 27: Normal vs Native | Normal: I made a big mistake. → Native: I messed up big time. | सामान्य: मुझसे बड़ी गलती हो गई। → स्मार्ट: मैंने बहुत बड़ी गड़बड़ कर दी।
+DAY | 27 | Day 27: Normal vs Native | Normal: Calm down! → Native: Pull yourself together! | सामान्य: शांत हो जाओ! → स्मार्ट: खुद को संभालो!
+DAY | 27 | Day 27: Normal vs Native | Normal: I am going to sleep. → Native: I am going to hit the sack. | सामान्य: मैं सोने जा रहा हूँ। → स्मार्ट: मैं अब सोने के लिए बिस्तर पर जा रहा हूँ।
+DAY | 27 | Day 27: Normal vs Native | Normal: Think carefully before deciding. → Native: Sleep on it before deciding. | सामान्य: फैसला लेने से पहले ध्यान से सोचो। → स्मार्ट: फैसला लेने से पहले रात भर इस पर विचार करो।
+DAY | 27 | Day 27: Normal vs Native | Normal: You are very lucky. → Native: You are so fortunate! | सामान्य: तुम बहुत भाग्यशाली हो। → स्मार्ट: तुम्हारी किस्मत वाकई बहुत अच्छी है!
+DAY | 27 | Day 27: Normal vs Native | Normal: Leave me alone. → Native: Give me a break. | सामान्य: मुझे अकेला छोड़ दो। → स्मार्ट: मुझे थोड़ी राहत दो।
+DAY | 27 | Day 27: Normal vs Native | Normal: I agree with you. → Native: You took the words right out of my mouth. | सामान्य: मैं तुमसे सहमत हूँ। → स्मार्ट: तुमने मेरे मन की बात छीन ली।
+DAY | 27 | Day 27: Normal vs Native | Normal: Do not get angry. → Native: Do not lose your temper. | सामान्य: गुस्सा मत करो। → स्मार्ट: अपना आपा मत खोओ।
+DAY | 27 | Day 27: Normal vs Native | Normal: It is very cold outside. → Native: It is freezing outside! | सामान्य: बाहर बहुत ठंड है। → स्मार्ट: बाहर हाड़ कंपा देने वाली ठंड है!
+DAY | 27 | Day 27: Normal vs Native | Normal: Text me when you reach. → Native: Drop me a text once you get there. | सामान्य: पहुँचने पर मुझे मैसेज करना। → स्मार्ट: वहाँ पहुँचते ही मुझे एक मैसेज डाल देना।
+DAY | 27 | Day 27: Normal vs Native | Normal: I like it very much. → Native: I am really into it. | सामान्य: मुझे यह बहुत पसंद है। → स्मार्ट: मुझे इसमें वाकई बहुत दिलचस्पी है।
+DAY | 27 | Day 27: Normal vs Native | Normal: Can you help me? → Native: Can you give me a hand? | सामान्य: क्या तुम मेरी मदद कर सकते हो? → स्मार्ट: क्या तुम मेरा थोड़ा हाथ बंटा सकते हो?
+DAY | 27 | Day 27: Normal vs Native | Normal: It is easy to do. → Native: It is a walk in the park. | सामान्य: यह करना आसान है। → स्मार्ट: यह तो बेहद आसान काम है।
+DAY | 27 | Day 27: Normal vs Native | Normal: Let us start now. → Native: Let us get the ball rolling. | सामान्य: चलो अब शुरू करते हैं। → स्मार्ट: चलो काम का श्रीगणेश करते हैं।
+DAY | 27 | Day 27: Normal vs Native | Normal: Goodbye, see you soon. → Native: Catch you on the flip side! | सामान्य: अलविदा, जल्द मिलेंगे। → स्मार्ट: जल्द ही फिर मिलते हैं!
+
+DAY | 28 | Day 28: Public Speaking | Respected guests and dear friends, a very warm good morning to all of you. | आदरणीय अतिथियों और प्रिय मित्रों, आप सभी को बहुत-बहुत सुप्रभात।
+DAY | 28 | Day 28: Public Speaking | It is an honor to stand before you today and share my thoughts. | आज आप सभी के सामने खड़े होकर अपने विचार साझा करना मेरे लिए सम्मान की बात है।
+DAY | 28 | Day 28: Public Speaking | Let me begin by asking you a simple yet powerful question. | मुझे आपसे एक सरल लेकिन प्रभावशाली प्रश्न पूछकर शुरुआत करने दें।
+DAY | 28 | Day 28: Public Speaking | Have you ever wondered why some people achieve their dreams effortlessly? | क्या आपने कभी सोचा है कि कुछ लोग अपने सपनों को सहजता से क्यों हासिल कर लेते हैं?
+DAY | 28 | Day 28: Public Speaking | Today, I am going to talk about the power of daily consistency. | आज, मैं दैनिक निरंतरता (कंसिस्टेंसी) की शक्ति के बारे में बात करने जा रहा हूँ।
+DAY | 28 | Day 28: Public Speaking | I have divided my presentation into three simple parts for clarity. | स्पष्टता के लिए मैंने अपनी प्रस्तुति को तीन सरल भागों में विभाजित किया है।
+DAY | 28 | Day 28: Public Speaking | First and foremost, let us understand the root cause of hesitation. | सबसे पहले, आइए झिझक के मूल कारण को समझते हैं।
+DAY | 28 | Day 28: Public Speaking | Many of us fear making grammar mistakes while speaking English. | हम में से कई लोग अंग्रेजी बोलते समय व्याकरण की गलतियाँ करने से डरते हैं।
+DAY | 28 | Day 28: Public Speaking | Remember, confidence matters far more than perfection in communication. | याद रखें, संवाद में पूर्णता से कहीं अधिक आत्मविश्वास मायने रखता है।
+DAY | 28 | Day 28: Public Speaking | Moving on to my second point, small daily habits create massive results. | अपने दूसरे बिंदु पर आगे बढ़ते हुए, छोटी दैनिक आदतें बड़े परिणाम पैदा करती हैं।
+DAY | 28 | Day 28: Public Speaking | Improving just one percent every day makes you thirty-seven times better in a year. | हर दिन केवल एक प्रतिशत सुधार करने से आप एक साल में सैंतीस गुना बेहतर बन जाते हैं।
+DAY | 28 | Day 28: Public Speaking | Let me illustrate this with a quick real-life example. | मुझे एक त्वरित वास्तविक जीवन के उदाहरण के साथ इसे स्पष्ट करने दें।
+DAY | 28 | Day 28: Public Speaking | Can everyone at the back hear me clearly? | क्या पीछे बैठे सभी लोग मुझे स्पष्ट रूप से सुन पा रहे हैं?
+DAY | 28 | Day 28: Public Speaking | Look at the person sitting next to you and say, "You can do it!" | अपने बगल में बैठे व्यक्ति की ओर देखें और कहें, "आप यह कर सकते हैं!"
+DAY | 28 | Day 28: Public Speaking | Now, let us look at the final takeaway from today’s session. | अब, आइए आज के सत्र के अंतिम मुख्य संदेश पर नज़र डालें।
+DAY | 28 | Day 28: Public Speaking | Never wait for the perfect moment; take the moment and make it perfect. | कभी भी सही पल का इंतज़ार न करें; पल को अपनाएं और उसे सही बनाएं।
+DAY | 28 | Day 28: Public Speaking | To summarize what we discussed today, start small, stay consistent, and speak boldly. | आज हमने जो चर्चा की उसका सारांश यह है कि छोटी शुरुआत करें, निरंतर रहें और निडर होकर बोलें।
+DAY | 28 | Day 28: Public Speaking | Before I conclude, I would love to take two or three questions from the audience. | समाप्त करने से पहले, मैं दर्शकों से दो या तीन प्रश्न लेना चाहूँगा।
+DAY | 28 | Day 28: Public Speaking | Thank you for that wonderful question, let me answer it briefly. | उस शानदार प्रश्न के लिए धन्यवाद, मुझे इसका संक्षेप में उत्तर देने दें।
+DAY | 28 | Day 28: Public Speaking | Maintain eye contact with your listeners to build instant trust. | तुरंत विश्वास बनाने के लिए अपने श्रोताओं के साथ आंखों का संपर्क (आई कॉन्टैक्ट) बनाए रखें।
+DAY | 28 | Day 28: Public Speaking | Pause for two seconds after making an important point so it sinks in. | कोई महत्वपूर्ण बात कहने के बाद दो सेकंड के लिए रुकें ताकि वह लोगों के मन में उतर जाए।
+DAY | 28 | Day 28: Public Speaking | Use natural hand gestures to make your speech lively and engaging. | अपने भाषण को जीवंत और आकर्षक बनाने के लिए स्वाभाविक हाथों के इशारों का उपयोग करें।
+DAY | 28 | Day 28: Public Speaking | Thank you so much for being such a patient and wonderful audience! | इतने धैर्यवान और शानदार श्रोता बनने के लिए आप सभी का बहुत-बहुत धन्यवाद!
+DAY | 28 | Day 28: Public Speaking | I wish you all tremendous success in your personal and professional lives. | मैं आप सभी के व्यक्तिगत और व्यावसायिक जीवन में अपार सफलता की कामना करता हूँ।
+DAY | 28 | Day 28: Public Speaking | Jai Hind, and have a fantastic day ahead! | जय हिंद, और आपका आगे का दिन शानदार हो!
+
+DAY | 29 | Day 29: Emergencies | Help! Please somebody call an ambulance immediately! | बचाओ! कृपया कोई तुरंत एम्बुलेंस को कॉल करें!
+DAY | 29 | Day 29: Emergencies | There has been a serious road accident near the highway crossing. | हाईवे चौराहे के पास एक गंभीर सड़क दुर्घटना हो गई है।
+DAY | 29 | Day 29: Emergencies | Please dial 112 for emergency police and medical assistance. | आपातकालीन पुलिस और चिकित्सा सहायता के लिए कृपया 112 डायल करें।
+DAY | 29 | Day 29: Emergencies | Is there a doctor or nurse nearby? A man has fainted! | क्या आसपास कोई डॉक्टर या नर्स है? एक आदमी बेहोश हो गया है!
+DAY | 29 | Day 29: Emergencies | Please step back and give him some space to breathe fresh air. | कृपया पीछे हटें और उसे ताज़ी हवा में सांस लेने के लिए थोड़ी जगह दें।
+DAY | 29 | Day 29: Emergencies | Do not crowd around the injured person, let the paramedics reach him. | घायल व्यक्ति के चारों ओर भीड़ न लगाएं, चिकित्सा दल को उस तक पहुँचने दें।
+DAY | 29 | Day 29: Emergencies | Fire! There is smoke coming out of the second floor, evacuate the building! | आग! दूसरी मंजिल से धुआं निकल रहा है, इमारत खाली करें!
+DAY | 29 | Day 29: Emergencies | Do not use the elevator during a fire; take the emergency stairs! | आग लगने के दौरान लिफ़्ट का उपयोग न करें; आपातकालीन सीढ़ियों का इस्तेमाल करें!
+DAY | 29 | Day 29: Emergencies | Where is the nearest fire extinguisher kept on this floor? | इस मंजिल पर सबसे नज़दीकी अग्निशामक यंत्र (फ़ायर एक्सटिंग्विशर) कहाँ रखा है?
+DAY | 29 | Day 29: Emergencies | Turn off the main electrical power switch immediately! | मुख्य बिजली का स्विच तुरंत बंद कर दें!
+DAY | 29 | Day 29: Emergencies | My wallet and mobile phone were stolen on the crowded bus. | भीड़भाड़ वाली बस में मेरा बटुआ और मोबाइल फ़ोन चोरी हो गया।
+DAY | 29 | Day 29: Emergencies | I need to file an FIR at the nearest police station right away. | मुझे तुरंत नज़दीकी पुलिस स्टेशन में एफआईआर (FIR) दर्ज करानी है।
+DAY | 29 | Day 29: Emergencies | Please block my bank cards immediately, I lost my wallet! | कृपया मेरे बैंक कार्ड तुरंत ब्लॉक कर दें, मेरा बटुआ खो गया है!
+DAY | 29 | Day 29: Emergencies | My child is missing in this fair, please help me announce his name! | इस मेले में मेरा बच्चा खो गया है, कृपया उसका नाम अनाउंस करने में मेरी मदद करें!
+DAY | 29 | Day 29: Emergencies | He is wearing a blue t-shirt and black jeans, please keep an eye out. | उसने नीली टी-शर्ट और काली जींस पहनी है, कृपया नज़र रखें।
+DAY | 29 | Day 29: Emergencies | Stay calm, do not panic, help is already on the way. | शांत रहें, घबराएं नहीं, मदद पहले ही रास्ते में है।
+DAY | 29 | Day 29: Emergencies | Can I borrow your phone for a minute? It is an urgent family emergency. | क्या मैं एक मिनट के लिए आपका फ़ोन ले सकता हूँ? यह एक ज़रूरी पारिवारिक आपात स्थिति है।
+DAY | 29 | Day 29: Emergencies | He is having severe chest pain, rush him to the emergency ward! | उसे सीने में तेज़ दर्द हो रहा है, उसे तुरंत इमरजेंसी वार्ड में ले जाएं!
+DAY | 29 | Day 29: Emergencies | What is his blood group in case an urgent transfusion is needed? | यदि तत्काल खून चढ़ाने की आवश्यकता हो तो उनका ब्लड ग्रुप क्या है?
+DAY | 29 | Day 29: Emergencies | Please inform his emergency contact number saved on his lock screen. | कृपया उनकी लॉक स्क्रीन पर सेव किए गए आपातकालीन संपर्क नंबर पर सूचित करें।
+DAY | 29 | Day 29: Emergencies | Watch out! That live electric wire has fallen on the wet road! | सावधान! वह चालू बिजली का तार गीली सड़क पर गिर गया है!
+DAY | 29 | Day 29: Emergencies | Do not touch anything metallic until the power supply is cut off. | जब तक बिजली की आपूर्ति बंद न हो जाए तब तक किसी भी धातु की चीज़ को न छुएं।
+DAY | 29 | Day 29: Emergencies | Keep a first-aid kit in your car and home at all times. | हर समय अपनी कार और घर में प्राथमिक चिकित्सा किट (फर्स्ट-एड किट) रखें।
+DAY | 29 | Day 29: Emergencies | Your quick thinking and timely help saved a life today. | आपकी त्वरित सोच और समय पर की गई मदद ने आज एक जान बचा ली।
+DAY | 29 | Day 29: Emergencies | Always stay alert and prioritize safety in every situation. | हर स्थिति में हमेशा सतर्क रहें और सुरक्षा को प्राथमिकता दें।
+
+DAY | 30 | Day 30: Final Fluency | Congratulations on reaching Day 30 of your English speaking journey! | आपकी अंग्रेजी बोलने की यात्रा के 30वें दिन तक पहुँचने पर हार्दिक बधाई!
+DAY | 30 | Day 30: Final Fluency | Look back at Day 1 and see how far you have come in just thirty days. | पहले दिन को याद करें और देखें कि केवल तीस दिनों में आप कितनी दूर आ गए हैं।
+DAY | 30 | Day 30: Final Fluency | Speaking a new language is no longer a fear; it is now your strength. | नई भाषा बोलना अब डर नहीं रहा; यह अब आपकी ताकत बन चुका है।
+DAY | 30 | Day 30: Final Fluency | From greetings to interviews, you now have the right words for every situation. | अभिवादन से लेकर इंटरव्यू तक, अब आपके पास हर स्थिति के लिए सही शब्द हैं।
+DAY | 30 | Day 30: Final Fluency | Remember that fluency is not a destination, it is a continuous daily habit. | याद रखें कि प्रवाहता (फ्लुएंसी) कोई मंज़िल नहीं है, यह एक निरंतर दैनिक आदत है।
+DAY | 30 | Day 30: Final Fluency | Never hesitate to speak English even if you make small mistakes initially. | शुरुआत में छोटी-मोटी गलतियाँ होने पर भी अंग्रेजी बोलने में कभी संकोच न करें।
+DAY | 30 | Day 30: Final Fluency | Native speakers care about your message, not your minor grammar slips. | मूल वक्ता आपके संदेश की परवाह करते हैं, न कि आपकी छोटी व्याकरणिक गलतियों की।
+DAY | 30 | Day 30: Final Fluency | Keep practicing with the Speak Coach and Word Games inside this app daily. | इस ऐप के अंदर स्पीक कोच और वर्ड गेम्स के साथ रोज़ाना अभ्यास करते रहें।
+DAY | 30 | Day 30: Final Fluency | Try thinking in English for ten minutes every morning before starting work. | काम शुरू करने से पहले हर सुबह दस मिनट अंग्रेजी में सोचने का प्रयास करें।
+DAY | 30 | Day 30: Final Fluency | Watch English news, podcasts, or tutorials with subtitles to train your ears. | अपने कानों को प्रशिक्षित करने के लिए सबटाइटल्स के साथ अंग्रेजी समाचार, पॉडकास्ट या ट्यूटोरियल देखें।
+DAY | 30 | Day 30: Final Fluency | Teach what you learned today to a friend or family member to master it. | आज आपने जो सीखा है उसे किसी मित्र या परिवार के सदस्य को सिखाएं ताकि आप उसमें माहिर हो जाएं।
+DAY | 30 | Day 30: Final Fluency | Whenever you learn a new word, immediately make two sentences of your own. | जब भी आप कोई नया शब्द सीखें, तुरंत अपने खुद के दो वाक्य बनाएं।
+DAY | 30 | Day 30: Final Fluency | Stand in front of a mirror for five minutes and speak about your day. | पाँच मिनट के लिए आईने के सामने खड़े हों और अपने दिन के बारे में बोलें।
+DAY | 30 | Day 30: Final Fluency | Replace hesitation with curiosity, and every conversation becomes easy. | झिझक को जिज्ञासा से बदल दें, और हर बातचीत आसान हो जाती है।
+DAY | 30 | Day 30: Final Fluency | You now possess the confidence to walk into any meeting or room with pride. | अब आप में किसी भी मीटिंग या कमरे में गर्व के साथ जाने का आत्मविश्वास है।
+DAY | 30 | Day 30: Final Fluency | Surround yourself with positive people who encourage your growth. | खुद को ऐसे सकारात्मक लोगों से घेरें जो आपके विकास को प्रोत्साहित करते हैं।
+DAY | 30 | Day 30: Final Fluency | Celebrate your small wins every week to keep your motivation high. | अपने उत्साह को ऊँचा बनाए रखने के लिए हर हफ्ते अपनी छोटी जीत का जश्न मनाएं।
+DAY | 30 | Day 30: Final Fluency | Do not stop at Day 30; restart the course and master every single sentence! | 30वें दिन पर रुकें नहीं; कोर्स को फिर से शुरू करें और हर एक वाक्य में महारत हासिल करें!
+DAY | 30 | Day 30: Final Fluency | Share this app with someone who dreams of speaking fluent English. | इस ऐप को किसी ऐसे व्यक्ति के साथ साझा करें जो धाराप्रवाह अंग्रेजी बोलने का सपना देखता है।
+DAY | 30 | Day 30: Final Fluency | Knowledge grows exponentially when you share it generously with others. | जब आप ज्ञान को दूसरों के साथ उदारतापूर्वक साझा करते हैं तो यह कई गुना बढ़ता है।
+DAY | 30 | Day 30: Final Fluency | Believe in yourself, because your voice deserves to be heard worldwide. | खुद पर विश्वास रखें, क्योंकि आपकी आवाज़ दुनिया भर में सुनी जाने योग्य है।
+DAY | 30 | Day 30: Final Fluency | I am proud of my dedication, consistency, and willingness to learn. | मुझे अपने समर्पण, निरंतरता और सीखने की इच्छाशक्ति पर गर्व है।
+DAY | 30 | Day 30: Final Fluency | Today marks the beginning of a more confident and articulate version of me. | आज मेरे एक अधिक आत्मविश्वासी और स्पष्टवादी रूप की शुरुआत है।
+DAY | 30 | Day 30: Final Fluency | Thank you for staying committed to your goal for thirty straight days. | लगातार तीस दिनों तक अपने लक्ष्य के प्रति प्रतिबद्ध रहने के लिए धन्यवाद।
+DAY | 30 | Day 30: Final Fluency | Keep shining, keep learning, and keep speaking English with confidence! | चमकते रहें, सीखते रहें और आत्मविश्वास के साथ अंग्रेजी बोलते रहें!
 RANDOM | Better late than never. | देर आए दुरुस्त आए।
 RANDOM | Things will fall into place soon. | जल्द ही सब कुछ ठीक हो जाएगा।
 RANDOM | I am running a little behind schedule today. | आज मैं अपने तय समय से थोड़ा पीछे चल रहा हूँ।
